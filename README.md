@@ -33,7 +33,7 @@ The repository lets readers check how every number in the article and its Supple
 |---|---|---|
 | Historical | 1,044 | *Zhongdong tielu da huace* [The Grand Album of the Chinese Eastern Railway], 2013 facsimile (Heilongjiang People's Publishing House) |
 | Reference | 2,027 | Openly licensed images retrieved through Openverse |
-| Field | 1,187 | 1,151 photographs by the authors (April–September 2026); 36 street-view captures and online images |
+| Field | 1,187 | 1,151 photographs by the authors (April–September 2026); 36 Amap street-view captures and Douyin images |
 
 The master table `paper1_frozen_dataset_v3/01_unique_image_multilabel_master.csv` has 4,370 rows: the 4,258 analysed images (`dataset_role` = `development_reference`, `external_historical`, `external_field`), 49 reference images quarantined as off-target or hard-negative examples (`qc_reference_quarantine`), and 63 images excluded as non-architectural or outside the scope of the style model (`qc_excluded_from_style_model`).
 
@@ -77,9 +77,4 @@ Code: MIT License (see `LICENSE`). Annotations and derived tables: CC BY 4.0. Im
 
 ## Citation
 
-Lei, H. 2026. "Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine." *Architecture and Culture* (submitted).
-
-Data and code — version 1.0.0: https://doi.org/10.5281/zenodo.23360308
-All versions (concept DOI): https://doi.org/10.5281/zenodo.23360307
-
-> Cite the **version DOI** to pin the exact code behind a published result; cite the **concept DOI** when you want the latest archived version. Machine-readable metadata is in `CITATION.cff`.
+Lei, H. 2026. "Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine." *Architecture and Culture*. [DOI]. Data and code: https://doi.org/10.5281/zenodo.23360308.
