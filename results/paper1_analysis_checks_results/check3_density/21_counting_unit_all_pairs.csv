@@ -1,0 +1,199 @@
+﻿counting_unit,pair,style_1,style_2,DINOv2_similarity,AD_similarity,AD_rank,region,published_region
+instance,01-02,Russian Traditional,Russian Timber Dwelling,0.27929744,0.5773536894132484,47,Low–Low,Low–Low
+instance,01-03,Russian Traditional,Russian Railway,0.18175256,0.6943269742602982,41,Low–Low,Low–Low
+instance,01-04,Russian Traditional,Byzantine / Orthodox,0.8989682,0.8139668680202288,24,High–High,High–High
+instance,01-05,Russian Traditional,Eclecticism,0.34633166,0.8213996303846308,22,High–High,High–High
+instance,01-06,Russian Traditional,Art Nouveau,0.30202946,0.7172292337034929,39,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,01-07,Russian Traditional,Baroque,0.4411435,0.6257414123505286,45,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,01-08,Russian Traditional,Chinese Baroque,0.28034964,0.5732799392614827,48,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,01-09,Russian Traditional,Classical / Neoclassical,0.22202298,0.522971847342074,51,Low–Low,Low–Low
+instance,01-10,Russian Traditional,Gothic,0.32988876,0.4610963549794601,60,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,01-11,Russian Traditional,Art Deco,0.25982156,0.5475294213679865,49,Low–Low,Low–Low
+instance,01-12,Russian Traditional,Early Modernism,0.13652284,0.5423623692903514,50,Low–Low,Low–Low
+instance,02-03,Russian Timber Dwelling,Russian Railway,0.18774159,0.8983872305486758,8,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,02-04,Russian Timber Dwelling,Byzantine / Orthodox,0.25357574,0.6766170253390387,43,Low–Low,Low–Low
+instance,02-05,Russian Timber Dwelling,Eclecticism,0.64334273,0.8739100669906722,12,High–High,High–High
+instance,02-06,Russian Timber Dwelling,Art Nouveau,0.25128058,0.8071857352107946,26,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,02-07,Russian Timber Dwelling,Baroque,0.22230044,0.7070749226484703,40,Low–Low,Low–Low
+instance,02-08,Russian Timber Dwelling,Chinese Baroque,0.341469,0.7524296213689127,34,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,02-09,Russian Timber Dwelling,Classical / Neoclassical,0.2642328,0.6898396103207153,42,Low–Low,Low–Low
+instance,02-10,Russian Timber Dwelling,Gothic,0.20764278,0.36274721431586604,64,Low–Low,Low–Low
+instance,02-11,Russian Timber Dwelling,Art Deco,0.32862374,0.8052804786344055,27,High–High,High–High
+instance,02-12,Russian Timber Dwelling,Early Modernism,0.32179117,0.8173312927108521,23,High–High,High–High
+instance,03-04,Russian Railway,Byzantine / Orthodox,0.17264514,0.7387759845901833,36,Low–Low,Low–Low
+instance,03-05,Russian Railway,Eclecticism,0.17244896,0.9218073376819417,5,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,03-06,Russian Railway,Art Nouveau,0.18907443,0.8747092463062965,11,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,03-07,Russian Railway,Baroque,0.13311228,0.7537683470255484,33,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,03-08,Russian Railway,Chinese Baroque,0.13308956,0.7687291498827198,30,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,03-09,Russian Railway,Classical / Neoclassical,0.23938015,0.7193806413038432,38,Low–Low,Low–Low
+instance,03-10,Russian Railway,Gothic,0.048154257,0.33451612596889946,65,Low–Low,Low–Low
+instance,03-11,Russian Railway,Art Deco,0.21263857,0.824731878283596,21,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,03-12,Russian Railway,Early Modernism,0.20194201,0.8327303455648514,19,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,04-05,Byzantine / Orthodox,Eclecticism,0.36368084,0.7652422133572924,31,High–High,High–High
+instance,04-06,Byzantine / Orthodox,Art Nouveau,0.3280806,0.6392022154249398,44,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,04-07,Byzantine / Orthodox,Baroque,0.4799237,0.5976495886209645,46,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,04-08,Byzantine / Orthodox,Chinese Baroque,0.24400488,0.5055963293517728,53,Low–Low,Low–Low
+instance,04-09,Byzantine / Orthodox,Classical / Neoclassical,0.24138087,0.4832253283881844,58,Low–Low,Low–Low
+instance,04-10,Byzantine / Orthodox,Gothic,0.32644,0.3171198185905336,66,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,04-11,Byzantine / Orthodox,Art Deco,0.22681895,0.47577871371437647,59,Low–Low,Low–Low
+instance,04-12,Byzantine / Orthodox,Early Modernism,0.122371376,0.49838830933921824,55,Low–Low,Low–Low
+instance,05-06,Eclecticism,Art Nouveau,0.50373137,0.8886580796154452,9,High–High,High–High
+instance,05-07,Eclecticism,Baroque,0.33779898,0.7448072558258823,35,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,05-08,Eclecticism,Chinese Baroque,0.5000784,0.7804808147303137,29,High–High,High–High
+instance,05-09,Eclecticism,Classical / Neoclassical,0.4819721,0.7199822455902212,37,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,05-10,Eclecticism,Gothic,0.32166702,0.40668022950373767,63,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,05-11,Eclecticism,Art Deco,0.4622432,0.7958190225034683,28,High–High,High–High
+instance,05-12,Eclecticism,Early Modernism,0.30254275,0.8139200121335439,25,High–High,High–High
+instance,06-07,Art Nouveau,Baroque,0.43804097,0.9257875706601371,4,High–High,High–High
+instance,06-08,Art Nouveau,Chinese Baroque,0.32408568,0.8686101821868107,13,High–High,High–High
+instance,06-09,Art Nouveau,Classical / Neoclassical,0.36639488,0.8617958621251677,15,High–High,High–High
+instance,06-10,Art Nouveau,Gothic,0.2882836,0.5020744936646923,54,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,06-11,Art Nouveau,Art Deco,0.56176114,0.9378213515335129,2,High–High,High–High
+instance,06-12,Art Nouveau,Early Modernism,0.44671643,0.9305393598060063,3,High–High,High–High
+instance,07-08,Baroque,Chinese Baroque,0.14186531,0.8408557549214322,18,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,07-09,Baroque,Classical / Neoclassical,0.4672688,0.824998074641633,20,High–High,High–High
+instance,07-10,Baroque,Gothic,0.18928201,0.4899004017373786,56,Low–Low,Low–Low
+instance,07-11,Baroque,Art Deco,0.18754895,0.8870955721585961,10,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,07-12,Baroque,Early Modernism,0.16373882,0.8465609201360229,17,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,08-09,Chinese Baroque,Classical / Neoclassical,0.22890532,0.7630621786354361,32,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,08-10,Chinese Baroque,Gothic,0.19604029,0.5115683133208917,52,Low–Low,Low–Low
+instance,08-11,Chinese Baroque,Art Deco,0.39549506,0.8673020168884429,14,High–High,High–High
+instance,08-12,Chinese Baroque,Early Modernism,0.2673966,0.8542506785724668,16,High vocabulary / Low syntax,High vocabulary / Low syntax
+instance,09-10,Classical / Neoclassical,Gothic,0.15603893,0.48836150114756094,57,Low–Low,Low–Low
+instance,09-11,Classical / Neoclassical,Art Deco,0.4324206,0.9008984296458932,7,High–High,High–High
+instance,09-12,Classical / Neoclassical,Early Modernism,0.34300572,0.9088204373445591,6,High–High,High–High
+instance,10-11,Gothic,Art Deco,0.28523892,0.4267289401669496,61,Low vocabulary / High syntax,Low vocabulary / High syntax
+instance,10-12,Gothic,Early Modernism,0.21275324,0.4140006454263372,62,Low–Low,Low–Low
+instance,11-12,Art Deco,Early Modernism,0.5922811,0.9805608588069804,1,High–High,High–High
+presence,01-02,Russian Traditional,Russian Timber Dwelling,0.27929744,0.5854371954509422,44,Low–Low,Low–Low
+presence,01-03,Russian Traditional,Russian Railway,0.18175256,0.603757164695333,41,Low–Low,Low–Low
+presence,01-04,Russian Traditional,Byzantine / Orthodox,0.8989682,0.8746237905675368,5,High–High,High–High
+presence,01-05,Russian Traditional,Eclecticism,0.34633166,0.7777488942932883,13,High–High,High–High
+presence,01-06,Russian Traditional,Art Nouveau,0.30202946,0.6107887307807905,38,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,01-07,Russian Traditional,Baroque,0.4411435,0.5714886557669545,49,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,01-08,Russian Traditional,Chinese Baroque,0.28034964,0.571653830143928,48,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,01-09,Russian Traditional,Classical / Neoclassical,0.22202298,0.4723976386741407,59,Low–Low,Low–Low
+presence,01-10,Russian Traditional,Gothic,0.32988876,0.5017021761558519,57,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,01-11,Russian Traditional,Art Deco,0.25982156,0.3705757280261782,65,Low–Low,Low–Low
+presence,01-12,Russian Traditional,Early Modernism,0.13652284,0.42910492008758366,61,Low–Low,Low–Low
+presence,02-03,Russian Timber Dwelling,Russian Railway,0.18774159,0.7373928005560335,20,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,02-04,Russian Timber Dwelling,Byzantine / Orthodox,0.25357574,0.5737141947336035,47,Low–Low,Low–Low
+presence,02-05,Russian Timber Dwelling,Eclecticism,0.64334273,0.8612777118446275,7,High–High,High–High
+presence,02-06,Russian Timber Dwelling,Art Nouveau,0.25128058,0.6689056054403755,27,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,02-07,Russian Timber Dwelling,Baroque,0.22230044,0.6121454041058341,37,Low–Low,Low–Low
+presence,02-08,Russian Timber Dwelling,Chinese Baroque,0.341469,0.7473537061988188,18,High–High,Low vocabulary / High syntax
+presence,02-09,Russian Timber Dwelling,Classical / Neoclassical,0.2642328,0.6101092766409225,39,Low–Low,Low–Low
+presence,02-10,Russian Timber Dwelling,Gothic,0.20764278,0.48650376940346857,58,Low–Low,Low–Low
+presence,02-11,Russian Timber Dwelling,Art Deco,0.32862374,0.6020226655485919,42,Low vocabulary / High syntax,High–High
+presence,02-12,Russian Timber Dwelling,Early Modernism,0.32179117,0.6532724326550099,28,High–High,High–High
+presence,03-04,Russian Railway,Byzantine / Orthodox,0.17264514,0.5827736444506048,45,Low–Low,Low–Low
+presence,03-05,Russian Railway,Eclecticism,0.17244896,0.7749277342089259,14,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,03-06,Russian Railway,Art Nouveau,0.18907443,0.6999374318823909,25,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,03-07,Russian Railway,Baroque,0.13311228,0.5926080721521165,43,Low–Low,High vocabulary / Low syntax
+presence,03-08,Russian Railway,Chinese Baroque,0.13308956,0.7211682557065645,24,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,03-09,Russian Railway,Classical / Neoclassical,0.23938015,0.6076995680849839,40,Low–Low,Low–Low
+presence,03-10,Russian Railway,Gothic,0.048154257,0.3900030828356522,63,Low–Low,Low–Low
+presence,03-11,Russian Railway,Art Deco,0.21263857,0.6532434347895489,29,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,03-12,Russian Railway,Early Modernism,0.20194201,0.6416950584247905,30,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,04-05,Byzantine / Orthodox,Eclecticism,0.36368084,0.7519149287850234,16,High–High,High–High
+presence,04-06,Byzantine / Orthodox,Art Nouveau,0.3280806,0.5808931491695815,46,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,04-07,Byzantine / Orthodox,Baroque,0.4799237,0.5514533450554475,51,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,04-08,Byzantine / Orthodox,Chinese Baroque,0.24400488,0.5097532483352821,56,Low–Low,Low–Low
+presence,04-09,Byzantine / Orthodox,Classical / Neoclassical,0.24138087,0.44655236029739903,60,Low–Low,Low–Low
+presence,04-10,Byzantine / Orthodox,Gothic,0.32644,0.397767081804064,62,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,04-11,Byzantine / Orthodox,Art Deco,0.22681895,0.3123276117078577,66,Low–Low,Low–Low
+presence,04-12,Byzantine / Orthodox,Early Modernism,0.122371376,0.37353912092599423,64,Low–Low,Low–Low
+presence,05-06,Eclecticism,Art Nouveau,0.50373137,0.7259205452579787,22,High–High,High–High
+presence,05-07,Eclecticism,Baroque,0.33779898,0.6277983281059718,32,High–High,Low vocabulary / High syntax
+presence,05-08,Eclecticism,Chinese Baroque,0.5000784,0.7489802292218252,17,High–High,High–High
+presence,05-09,Eclecticism,Classical / Neoclassical,0.4819721,0.6164045531671308,34,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,05-10,Eclecticism,Gothic,0.32166702,0.5369485258114984,53,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,05-11,Eclecticism,Art Deco,0.4622432,0.5435390684654331,52,Low vocabulary / High syntax,High–High
+presence,05-12,Eclecticism,Early Modernism,0.30254275,0.6149790241433727,35,Low vocabulary / High syntax,High–High
+presence,06-07,Art Nouveau,Baroque,0.43804097,0.9132370410399057,3,High–High,High–High
+presence,06-08,Art Nouveau,Chinese Baroque,0.32408568,0.76357795448405,15,High–High,High–High
+presence,06-09,Art Nouveau,Classical / Neoclassical,0.36639488,0.8568316491868267,8,High–High,High–High
+presence,06-10,Art Nouveau,Gothic,0.2882836,0.6129630822862595,36,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,06-11,Art Nouveau,Art Deco,0.56176114,0.8459889228508288,10,High–High,High–High
+presence,06-12,Art Nouveau,Early Modernism,0.44671643,0.8482991256099175,9,High–High,High–High
+presence,07-08,Baroque,Chinese Baroque,0.14186531,0.7379878271514951,19,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,07-09,Baroque,Classical / Neoclassical,0.4672688,0.8743565709962414,6,High–High,High–High
+presence,07-10,Baroque,Gothic,0.18928201,0.6320428506061458,31,High vocabulary / Low syntax,Low–Low
+presence,07-11,Baroque,Art Deco,0.18754895,0.8281898574458652,11,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,07-12,Baroque,Early Modernism,0.16373882,0.7937197360741943,12,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,08-09,Chinese Baroque,Classical / Neoclassical,0.22890532,0.6978139637410825,26,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,08-10,Chinese Baroque,Gothic,0.19604029,0.622782784293245,33,High vocabulary / Low syntax,Low–Low
+presence,08-11,Chinese Baroque,Art Deco,0.39549506,0.7225994710215773,23,High–High,High–High
+presence,08-12,Chinese Baroque,Early Modernism,0.2673966,0.7318501162510509,21,High vocabulary / Low syntax,High vocabulary / Low syntax
+presence,09-10,Classical / Neoclassical,Gothic,0.15603893,0.5683652781272003,50,Low–Low,Low–Low
+presence,09-11,Classical / Neoclassical,Art Deco,0.4324206,0.9146357731250004,2,High–High,High–High
+presence,09-12,Classical / Neoclassical,Early Modernism,0.34300572,0.9056274473093909,4,High–High,High–High
+presence,10-11,Gothic,Art Deco,0.28523892,0.5221467303609175,55,Low vocabulary / High syntax,Low vocabulary / High syntax
+presence,10-12,Gothic,Early Modernism,0.21275324,0.5242596796052651,54,Low–Low,Low–Low
+presence,11-12,Art Deco,Early Modernism,0.5922811,0.9355963738076688,1,High–High,High–High
+image_normalised,01-02,Russian Traditional,Russian Timber Dwelling,0.27929744,0.6449788853457554,37,Low–Low,Low–Low
+image_normalised,01-03,Russian Traditional,Russian Railway,0.18175256,0.5078149528870697,55,Low–Low,Low–Low
+image_normalised,01-04,Russian Traditional,Byzantine / Orthodox,0.8989682,0.8342445351681317,7,High–High,High–High
+image_normalised,01-05,Russian Traditional,Eclecticism,0.34633166,0.8294702721849105,10,High–High,High–High
+image_normalised,01-06,Russian Traditional,Art Nouveau,0.30202946,0.7008894960549498,31,High–High,Low vocabulary / High syntax
+image_normalised,01-07,Russian Traditional,Baroque,0.4411435,0.6254350772118119,39,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,01-08,Russian Traditional,Chinese Baroque,0.28034964,0.5811157878883451,43,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,01-09,Russian Traditional,Classical / Neoclassical,0.22202298,0.5204489609878655,53,Low–Low,Low–Low
+image_normalised,01-10,Russian Traditional,Gothic,0.32988876,0.5433938993876689,49,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,01-11,Russian Traditional,Art Deco,0.25982156,0.5205347081385967,52,Low–Low,Low–Low
+image_normalised,01-12,Russian Traditional,Early Modernism,0.13652284,0.5157686368047938,54,Low–Low,Low–Low
+image_normalised,02-03,Russian Timber Dwelling,Russian Railway,0.18774159,0.715895156287279,29,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,02-04,Russian Timber Dwelling,Byzantine / Orthodox,0.25357574,0.5835211459852695,42,Low–Low,Low–Low
+image_normalised,02-05,Russian Timber Dwelling,Eclecticism,0.64334273,0.905973214856918,4,High–High,High–High
+image_normalised,02-06,Russian Timber Dwelling,Art Nouveau,0.25128058,0.7820604865137735,17,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,02-07,Russian Timber Dwelling,Baroque,0.22230044,0.733125170555624,26,High vocabulary / Low syntax,Low–Low
+image_normalised,02-08,Russian Timber Dwelling,Chinese Baroque,0.341469,0.7485843330745454,19,High–High,Low vocabulary / High syntax
+image_normalised,02-09,Russian Timber Dwelling,Classical / Neoclassical,0.2642328,0.712934192898017,30,High vocabulary / Low syntax,Low–Low
+image_normalised,02-10,Russian Timber Dwelling,Gothic,0.20764278,0.43853860361939023,60,Low–Low,Low–Low
+image_normalised,02-11,Russian Timber Dwelling,Art Deco,0.32862374,0.8293669078139942,11,High–High,High–High
+image_normalised,02-12,Russian Timber Dwelling,Early Modernism,0.32179117,0.825396542151418,13,High–High,High–High
+image_normalised,03-04,Russian Railway,Byzantine / Orthodox,0.17264514,0.40244121301257546,65,Low–Low,Low–Low
+image_normalised,03-05,Russian Railway,Eclecticism,0.17244896,0.6783823533767843,33,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,03-06,Russian Railway,Art Nouveau,0.18907443,0.6102424924375093,41,Low–Low,High vocabulary / Low syntax
+image_normalised,03-07,Russian Railway,Baroque,0.13311228,0.5462982757524989,48,Low–Low,High vocabulary / Low syntax
+image_normalised,03-08,Russian Railway,Chinese Baroque,0.13308956,0.5798107357917842,44,Low–Low,High vocabulary / Low syntax
+image_normalised,03-09,Russian Railway,Classical / Neoclassical,0.23938015,0.5487888141023618,47,Low–Low,Low–Low
+image_normalised,03-10,Russian Railway,Gothic,0.048154257,0.3156160266038591,66,Low–Low,Low–Low
+image_normalised,03-11,Russian Railway,Art Deco,0.21263857,0.651825350521907,36,Low–Low,High vocabulary / Low syntax
+image_normalised,03-12,Russian Railway,Early Modernism,0.20194201,0.6305943611386898,38,Low–Low,High vocabulary / Low syntax
+image_normalised,04-05,Byzantine / Orthodox,Eclecticism,0.36368084,0.7417756298674777,22,High–High,High–High
+image_normalised,04-06,Byzantine / Orthodox,Art Nouveau,0.3280806,0.6541064774601415,35,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,04-07,Byzantine / Orthodox,Baroque,0.4799237,0.6252639358144002,40,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,04-08,Byzantine / Orthodox,Chinese Baroque,0.24400488,0.49014413010388347,56,Low–Low,Low–Low
+image_normalised,04-09,Byzantine / Orthodox,Classical / Neoclassical,0.24138087,0.4653531759661549,58,Low–Low,Low–Low
+image_normalised,04-10,Byzantine / Orthodox,Gothic,0.32644,0.4128645622701966,62,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,04-11,Byzantine / Orthodox,Art Deco,0.22681895,0.4040872977671011,64,Low–Low,Low–Low
+image_normalised,04-12,Byzantine / Orthodox,Early Modernism,0.122371376,0.40606085556611343,63,Low–Low,Low–Low
+image_normalised,05-06,Eclecticism,Art Nouveau,0.50373137,0.825740568436138,12,High–High,High–High
+image_normalised,05-07,Eclecticism,Baroque,0.33779898,0.7247475541787638,28,High–High,Low vocabulary / High syntax
+image_normalised,05-08,Eclecticism,Chinese Baroque,0.5000784,0.733755519703729,25,High–High,High–High
+image_normalised,05-09,Eclecticism,Classical / Neoclassical,0.4819721,0.6834822482922959,32,High–High,Low vocabulary / High syntax
+image_normalised,05-10,Eclecticism,Gothic,0.32166702,0.4883924958616661,57,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,05-11,Eclecticism,Art Deco,0.4622432,0.7452648845136755,21,High–High,High–High
+image_normalised,05-12,Eclecticism,Early Modernism,0.30254275,0.7490842397652901,18,High–High,High–High
+image_normalised,06-07,Art Nouveau,Baroque,0.43804097,0.9078583961023837,3,High–High,High–High
+image_normalised,06-08,Art Nouveau,Chinese Baroque,0.32408568,0.7466324611765505,20,High–High,High–High
+image_normalised,06-09,Art Nouveau,Classical / Neoclassical,0.36639488,0.8003526594450682,16,High–High,High–High
+image_normalised,06-10,Art Nouveau,Gothic,0.2882836,0.5691675349703591,46,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,06-11,Art Nouveau,Art Deco,0.56176114,0.8335523488233205,8,High–High,High–High
+image_normalised,06-12,Art Nouveau,Early Modernism,0.44671643,0.8316364487049506,9,High–High,High–High
+image_normalised,07-08,Baroque,Chinese Baroque,0.14186531,0.7401564520280436,24,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,07-09,Baroque,Classical / Neoclassical,0.4672688,0.809914857273187,14,High–High,High–High
+image_normalised,07-10,Baroque,Gothic,0.18928201,0.5328975610405281,51,Low–Low,Low–Low
+image_normalised,07-11,Baroque,Art Deco,0.18754895,0.8384717533890953,6,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,07-12,Baroque,Early Modernism,0.16373882,0.8076550869193978,15,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,08-09,Chinese Baroque,Classical / Neoclassical,0.22890532,0.6676817952168216,34,Low–Low,High vocabulary / Low syntax
+image_normalised,08-10,Chinese Baroque,Gothic,0.19604029,0.5752558643286217,45,Low–Low,Low–Low
+image_normalised,08-11,Chinese Baroque,Art Deco,0.39549506,0.7405352805583771,23,High–High,High–High
+image_normalised,08-12,Chinese Baroque,Early Modernism,0.2673966,0.7267321699744775,27,High vocabulary / Low syntax,High vocabulary / Low syntax
+image_normalised,09-10,Classical / Neoclassical,Gothic,0.15603893,0.5383929776806884,50,Low–Low,Low–Low
+image_normalised,09-11,Classical / Neoclassical,Art Deco,0.4324206,0.8832604702996611,5,High–High,High–High
+image_normalised,09-12,Classical / Neoclassical,Early Modernism,0.34300572,0.9082360487149486,2,High–High,High–High
+image_normalised,10-11,Gothic,Art Deco,0.28523892,0.4320821069457539,61,Low vocabulary / High syntax,Low vocabulary / High syntax
+image_normalised,10-12,Gothic,Early Modernism,0.21275324,0.44594513362717053,59,Low–Low,Low–Low
+image_normalised,11-12,Art Deco,Early Modernism,0.5922811,0.9752401636443868,1,High–High,High–High

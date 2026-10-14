@@ -1,0 +1,3 @@
+﻿row_a,row_b,domain_a,domain_b,cross_domain,dino_cosine,dhash_hamming,fold_a,fold_b,style_ids_a,style_ids_b,image_a,image_b,sheet_no
+160,2122,reference,field,1,0.9487375020980835,36,1.0,,01,04,images/expanded_reference/01/01_RTA_0211_openverse_fe5f0072__俄罗斯复兴式_红砖东正教堂__1349665ae9.jpg,images/field_photographs/04/IMG_7653__1593cc03bc.jpg,1
+160,2605,reference,field,1,0.9096676707267761,30,1.0,,01,04,images/expanded_reference/01/01_RTA_0211_openverse_fe5f0072__俄罗斯复兴式_红砖东正教堂__1349665ae9.jpg,images/field_photographs/04/IMG_7656__7cb6ffc4ba.jpg,2

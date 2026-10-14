@@ -1,0 +1,10 @@
+# images and model weights are not distributed
+images/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.pt
+*.pth
+__pycache__/
+.DS_Store

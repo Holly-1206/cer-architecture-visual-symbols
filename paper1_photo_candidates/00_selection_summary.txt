@@ -1,0 +1,24 @@
+PHOTO CANDIDATE SELECTION COMPLETE
+
+Reference images:  2027
+Historical images: 1044
+Field images:      1187
+
+Lineage candidate rows:     213
+Multi-lineage candidate rows:81
+
+NEXT STEP
+---------
+1. Open:
+   paper1_photo_candidates/03_manual_selection_template.csv
+
+2. Review contact sheets in:
+   paper1_photo_candidates/contact_sheets
+
+3. For each domain × lineage and domain × pair, keep exactly ONE row selected=1.
+   You may simply keep the default rank-1 candidate when visually acceptable.
+
+4. Save the reviewed file as:
+   paper1_photo_candidates/03_manual_selection.csv
+
+5. Run the V2 final plotting script.

@@ -1,0 +1,4 @@
+﻿domain,n_coded,n_multilabel,est_prop_single_building,est_prop_multiple_buildings,est_prop_building_plus_context,est_prop_unclear
+reference,19,47,0.835,0.165,0.0,0.0
+historical,62,198,0.439,0.206,0.007,0.349
+field,46,262,0.624,0.111,0.221,0.044

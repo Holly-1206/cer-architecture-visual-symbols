@@ -1,0 +1,7 @@
+﻿domain,comparison,spearman_upper_triangle,permutation_p_two_sided,n_lineage_pairs,permutations
+reference,DINOv2_vs_cooccurrence,0.1997709486801495,0.1777822217778222,66,10000
+reference,AD69_vs_cooccurrence,-0.003358231120920508,0.9826017398260174,66,10000
+historical,DINOv2_vs_cooccurrence,0.07345350290102785,0.672932706729327,66,10000
+historical,AD69_vs_cooccurrence,0.2010540696630686,0.30916908309169083,66,10000
+field,DINOv2_vs_cooccurrence,-0.01280747685011546,0.9296070392960704,66,10000
+field,AD69_vs_cooccurrence,0.1513676189220188,0.35296470352964704,66,10000

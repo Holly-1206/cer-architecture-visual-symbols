@@ -1,0 +1,626 @@
+{
+  "generated_at": "2026-09-16T17:38:22",
+  "python_version": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "pillow_available": true,
+  "roots": {
+    "historical_album": {
+      "path": "/总的风格谱系分类json//《中东铁路大画册》1365p_labelme可打开版",
+      "exists": true
+    },
+    "expanded_reference": {
+      "path": "/总的风格谱系分类json//扩充谱系2307p",
+      "exists": true
+    },
+    "field_photographs": {
+      "path": "/总的风格谱系分类json//实拍 1668p",
+      "exists": true
+    }
+  },
+  "totals": {
+    "images": 1566,
+    "json_files": 5358,
+    "valid_labelme_json": 5358,
+    "images_with_resolved_labelme": 1300,
+    "images_without_resolved_labelme": 266,
+    "shape_instances": 48880,
+    "unique_normalized_labels": 140,
+    "issues": 4503,
+    "exact_duplicate_groups": 53,
+    "dhash_duplicate_groups": 53
+  },
+  "source_totals": {
+    "historical_album": {
+      "json_files": 1387,
+      "labelme_json": 1387,
+      "shapes": 11683
+    },
+    "expanded_reference": {
+      "images": 1566,
+      "json_files": 2307,
+      "labelme_json": 2307,
+      "shapes": 25343
+    },
+    "field_photographs": {
+      "json_files": 1664,
+      "labelme_json": 1664,
+      "shapes": 11854
+    }
+  },
+  "style_totals": {
+    "01 俄罗斯传统建筑": {
+      "json_files": 382,
+      "labelme_json": 382,
+      "shapes": 4837
+    },
+    "02 俄式木构民居": {
+      "json_files": 238,
+      "labelme_json": 238,
+      "shapes": 2542
+    },
+    "03 俄罗斯铁路建筑": {
+      "json_files": 1259,
+      "labelme_json": 1259,
+      "shapes": 9941
+    },
+    "04 拜占庭/东正教风格": {
+      "json_files": 441,
+      "labelme_json": 441,
+      "shapes": 6634
+    },
+    "05 折衷主义": {
+      "json_files": 515,
+      "labelme_json": 515,
+      "shapes": 5486
+    },
+    "06 新艺术运动": {
+      "images": 245,
+      "json_files": 494,
+      "labelme_json": 494,
+      "shapes": 5704
+    },
+    "07 巴洛克": {
+      "images": 251,
+      "json_files": 264,
+      "labelme_json": 264,
+      "shapes": 2168
+    },
+    "08 中华巴洛克": {
+      "images": 167,
+      "json_files": 451,
+      "labelme_json": 451,
+      "shapes": 2518
+    },
+    "09 古典主义/新古典": {
+      "images": 175,
+      "json_files": 250,
+      "labelme_json": 250,
+      "shapes": 1816
+    },
+    "10 哥特式": {
+      "images": 273,
+      "json_files": 205,
+      "labelme_json": 205,
+      "shapes": 1236
+    },
+    "11 装饰艺术": {
+      "images": 230,
+      "json_files": 255,
+      "labelme_json": 255,
+      "shapes": 1793
+    },
+    "12 早期现代主义": {
+      "images": 225,
+      "json_files": 604,
+      "labelme_json": 604,
+      "shapes": 4205
+    }
+  },
+  "top_labels": [
+    {
+      "label": "B4",
+      "shape_instances": 9174,
+      "annotated_images": 1755
+    },
+    {
+      "label": "B1",
+      "shape_instances": 2723,
+      "annotated_images": 633
+    },
+    {
+      "label": "B10",
+      "shape_instances": 2703,
+      "annotated_images": 402
+    },
+    {
+      "label": "A3",
+      "shape_instances": 2629,
+      "annotated_images": 1342
+    },
+    {
+      "label": "C20",
+      "shape_instances": 2435,
+      "annotated_images": 544
+    },
+    {
+      "label": "B9",
+      "shape_instances": 1549,
+      "annotated_images": 460
+    },
+    {
+      "label": "B2",
+      "shape_instances": 1437,
+      "annotated_images": 349
+    },
+    {
+      "label": "A1",
+      "shape_instances": 1281,
+      "annotated_images": 498
+    },
+    {
+      "label": "A11",
+      "shape_instances": 1198,
+      "annotated_images": 630
+    },
+    {
+      "label": "D1",
+      "shape_instances": 1153,
+      "annotated_images": 717
+    },
+    {
+      "label": "A8",
+      "shape_instances": 1035,
+      "annotated_images": 522
+    },
+    {
+      "label": "D19",
+      "shape_instances": 948,
+      "annotated_images": 621
+    },
+    {
+      "label": "A12",
+      "shape_instances": 942,
+      "annotated_images": 578
+    },
+    {
+      "label": "E3",
+      "shape_instances": 873,
+      "annotated_images": 550
+    },
+    {
+      "label": "A10",
+      "shape_instances": 836,
+      "annotated_images": 279
+    },
+    {
+      "label": "B13",
+      "shape_instances": 812,
+      "annotated_images": 444
+    },
+    {
+      "label": "A2",
+      "shape_instances": 779,
+      "annotated_images": 434
+    },
+    {
+      "label": "D6",
+      "shape_instances": 768,
+      "annotated_images": 275
+    },
+    {
+      "label": "C4",
+      "shape_instances": 753,
+      "annotated_images": 533
+    },
+    {
+      "label": "D21",
+      "shape_instances": 731,
+      "annotated_images": 576
+    },
+    {
+      "label": "A5",
+      "shape_instances": 668,
+      "annotated_images": 518
+    },
+    {
+      "label": "C12",
+      "shape_instances": 637,
+      "annotated_images": 289
+    },
+    {
+      "label": "B3",
+      "shape_instances": 626,
+      "annotated_images": 152
+    },
+    {
+      "label": "C15",
+      "shape_instances": 600,
+      "annotated_images": 262
+    },
+    {
+      "label": "A7",
+      "shape_instances": 564,
+      "annotated_images": 247
+    },
+    {
+      "label": "C13",
+      "shape_instances": 534,
+      "annotated_images": 356
+    },
+    {
+      "label": "C1",
+      "shape_instances": 519,
+      "annotated_images": 347
+    },
+    {
+      "label": "D20",
+      "shape_instances": 473,
+      "annotated_images": 277
+    },
+    {
+      "label": "B15",
+      "shape_instances": 454,
+      "annotated_images": 418
+    },
+    {
+      "label": "A4",
+      "shape_instances": 445,
+      "annotated_images": 347
+    },
+    {
+      "label": "C2",
+      "shape_instances": 428,
+      "annotated_images": 276
+    },
+    {
+      "label": "D3",
+      "shape_instances": 426,
+      "annotated_images": 259
+    },
+    {
+      "label": "B12",
+      "shape_instances": 424,
+      "annotated_images": 96
+    },
+    {
+      "label": "D2",
+      "shape_instances": 379,
+      "annotated_images": 174
+    },
+    {
+      "label": "C6",
+      "shape_instances": 332,
+      "annotated_images": 230
+    },
+    {
+      "label": "C18",
+      "shape_instances": 328,
+      "annotated_images": 219
+    },
+    {
+      "label": "C8",
+      "shape_instances": 321,
+      "annotated_images": 206
+    },
+    {
+      "label": "B14",
+      "shape_instances": 315,
+      "annotated_images": 281
+    },
+    {
+      "label": "C5",
+      "shape_instances": 301,
+      "annotated_images": 224
+    },
+    {
+      "label": "B6",
+      "shape_instances": 296,
+      "annotated_images": 100
+    },
+    {
+      "label": "A6",
+      "shape_instances": 291,
+      "annotated_images": 197
+    },
+    {
+      "label": "C10",
+      "shape_instances": 259,
+      "annotated_images": 127
+    },
+    {
+      "label": "D9",
+      "shape_instances": 240,
+      "annotated_images": 117
+    },
+    {
+      "label": "D11",
+      "shape_instances": 221,
+      "annotated_images": 128
+    },
+    {
+      "label": "B5",
+      "shape_instances": 214,
+      "annotated_images": 69
+    },
+    {
+      "label": "C14",
+      "shape_instances": 210,
+      "annotated_images": 130
+    },
+    {
+      "label": "C9",
+      "shape_instances": 197,
+      "annotated_images": 112
+    },
+    {
+      "label": "B8",
+      "shape_instances": 187,
+      "annotated_images": 124
+    },
+    {
+      "label": "C3",
+      "shape_instances": 185,
+      "annotated_images": 122
+    },
+    {
+      "label": "A9",
+      "shape_instances": 169,
+      "annotated_images": 115
+    },
+    {
+      "label": "E1",
+      "shape_instances": 168,
+      "annotated_images": 96
+    },
+    {
+      "label": "C16",
+      "shape_instances": 149,
+      "annotated_images": 87
+    },
+    {
+      "label": "D5",
+      "shape_instances": 149,
+      "annotated_images": 80
+    },
+    {
+      "label": "D18",
+      "shape_instances": 142,
+      "annotated_images": 78
+    },
+    {
+      "label": "E10",
+      "shape_instances": 142,
+      "annotated_images": 72
+    },
+    {
+      "label": "E2",
+      "shape_instances": 136,
+      "annotated_images": 123
+    },
+    {
+      "label": "WIN_RECTANGULAR",
+      "shape_instances": 136,
+      "annotated_images": 12
+    },
+    {
+      "label": "E15",
+      "shape_instances": 132,
+      "annotated_images": 117
+    },
+    {
+      "label": "D8",
+      "shape_instances": 127,
+      "annotated_images": 55
+    },
+    {
+      "label": "E14",
+      "shape_instances": 126,
+      "annotated_images": 80
+    },
+    {
+      "label": "B7",
+      "shape_instances": 124,
+      "annotated_images": 53
+    },
+    {
+      "label": "b4",
+      "shape_instances": 113,
+      "annotated_images": 63
+    },
+    {
+      "label": "D4",
+      "shape_instances": 103,
+      "annotated_images": 52
+    },
+    {
+      "label": "C7",
+      "shape_instances": 96,
+      "annotated_images": 58
+    },
+    {
+      "label": "D10",
+      "shape_instances": 88,
+      "annotated_images": 37
+    },
+    {
+      "label": "E7",
+      "shape_instances": 80,
+      "annotated_images": 66
+    },
+    {
+      "label": "B16",
+      "shape_instances": 78,
+      "annotated_images": 57
+    },
+    {
+      "label": "WALL_PILASTER",
+      "shape_instances": 66,
+      "annotated_images": 6
+    },
+    {
+      "label": "E9",
+      "shape_instances": 65,
+      "annotated_images": 43
+    },
+    {
+      "label": "WIN_SURROUND",
+      "shape_instances": 62,
+      "annotated_images": 5
+    },
+    {
+      "label": "E11",
+      "shape_instances": 58,
+      "annotated_images": 35
+    },
+    {
+      "label": "D7",
+      "shape_instances": 54,
+      "annotated_images": 32
+    },
+    {
+      "label": "AUX_PERSON",
+      "shape_instances": 52,
+      "annotated_images": 10
+    },
+    {
+      "label": "E8",
+      "shape_instances": 50,
+      "annotated_images": 33
+    },
+    {
+      "label": "C11",
+      "shape_instances": 33,
+      "annotated_images": 25
+    },
+    {
+      "label": "E6",
+      "shape_instances": 30,
+      "annotated_images": 10
+    },
+    {
+      "label": "STRUCT_WOOD",
+      "shape_instances": 27,
+      "annotated_images": 10
+    },
+    {
+      "label": "E4",
+      "shape_instances": 24,
+      "annotated_images": 17
+    },
+    {
+      "label": "C19",
+      "shape_instances": 21,
+      "annotated_images": 14
+    },
+    {
+      "label": "B11",
+      "shape_instances": 18,
+      "annotated_images": 8
+    },
+    {
+      "label": "D12",
+      "shape_instances": 18,
+      "annotated_images": 10
+    },
+    {
+      "label": "D17",
+      "shape_instances": 15,
+      "annotated_images": 6
+    },
+    {
+      "label": "ROOF_GABLE",
+      "shape_instances": 15,
+      "annotated_images": 6
+    },
+    {
+      "label": "c1",
+      "shape_instances": 14,
+      "annotated_images": 10
+    },
+    {
+      "label": "AUX_SCAFFOLD",
+      "shape_instances": 11,
+      "annotated_images": 1
+    },
+    {
+      "label": "E12",
+      "shape_instances": 11,
+      "annotated_images": 9
+    },
+    {
+      "label": "DEC_CORNICE",
+      "shape_instances": 9,
+      "annotated_images": 6
+    },
+    {
+      "label": "DEC_PLAQUE",
+      "shape_instances": 6,
+      "annotated_images": 6
+    },
+    {
+      "label": "DEC_VOLUTE",
+      "shape_instances": 6,
+      "annotated_images": 3
+    },
+    {
+      "label": "SPACE_FACTORY_YARD",
+      "shape_instances": 6,
+      "annotated_images": 6
+    },
+    {
+      "label": "2",
+      "shape_instances": 5,
+      "annotated_images": 2
+    },
+    {
+      "label": "AUX_EQUIPMENT",
+      "shape_instances": 5,
+      "annotated_images": 2
+    },
+    {
+      "label": "DEC_FLORAL_RELIEF",
+      "shape_instances": 5,
+      "annotated_images": 4
+    },
+    {
+      "label": "E5",
+      "shape_instances": 5,
+      "annotated_images": 4
+    },
+    {
+      "label": "AUX_CART",
+      "shape_instances": 4,
+      "annotated_images": 2
+    },
+    {
+      "label": "AUX_UTILITY_POLE",
+      "shape_instances": 4,
+      "annotated_images": 2
+    },
+    {
+      "label": "D15",
+      "shape_instances": 4,
+      "annotated_images": 4
+    },
+    {
+      "label": "DEC_ART_NOUVEAU_CURVE",
+      "shape_instances": 4,
+      "annotated_images": 4
+    },
+    {
+      "label": "DOOR_STEPS",
+      "shape_instances": 4,
+      "annotated_images": 4
+    },
+    {
+      "label": "MAT_CEMENT_PLASTER",
+      "shape_instances": 4,
+      "annotated_images": 4
+    }
+  ],
+  "issue_type_counts": {
+    "missing_linked_image": 4058,
+    "empty_annotation": 126,
+    "image_without_labelme_json": 266,
+    "exact_duplicate_group": 53
+  }
+}

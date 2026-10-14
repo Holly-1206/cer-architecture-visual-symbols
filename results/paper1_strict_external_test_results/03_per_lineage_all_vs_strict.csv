@@ -1,0 +1,97 @@
+﻿domain,subset,method,style_id,lineage,n_positive,AUROC,AP
+historical,all,ConvNeXt-Tiny,01,Russian Traditional,11,0.7275367420575553,0.20983246226477334
+historical,all,ConvNeXt-Tiny,02,Russian Timber Dwelling,42,0.6245366410037069,0.059717251707353224
+historical,all,ConvNeXt-Tiny,03,Russian Railway,323,0.5871489116852668,0.3728827910339289
+historical,all,ConvNeXt-Tiny,04,Byzantine / Orthodox,68,0.6461246383799422,0.12153813511492749
+historical,all,ConvNeXt-Tiny,05,Eclecticism,146,0.608849193031699,0.17971934156559724
+historical,all,ConvNeXt-Tiny,06,Art Nouveau,12,0.653343023255814,0.031806620127416606
+historical,all,ConvNeXt-Tiny,07,Baroque,3,0.3573487031700288,0.002905379956470764
+historical,all,ConvNeXt-Tiny,08,Chinese Baroque,296,0.676813845931493,0.5343111621422169
+historical,all,ConvNeXt-Tiny,09,Classical / Neoclassical,24,0.7903186274509804,0.15906390918104646
+historical,all,ConvNeXt-Tiny,10,Gothic,8,0.6955839768339769,0.04792708875297808
+historical,all,ConvNeXt-Tiny,11,Art Deco,29,0.47742483438083916,0.02658670446074561
+historical,all,ConvNeXt-Tiny,12,Early Modernism,304,0.5757779160739687,0.34265697617073954
+historical,all,DINOv2 prototypes,01,Russian Traditional,11,0.9852151870727539,0.6288131313131313
+historical,all,DINOv2 prototypes,02,Russian Timber Dwelling,42,0.7923676371574402,0.1870258244747653
+historical,all,DINOv2 prototypes,03,Russian Railway,323,0.7327799797058105,0.5247889466336414
+historical,all,DINOv2 prototypes,04,Byzantine / Orthodox,68,0.6282846927642822,0.25050178634912923
+historical,all,DINOv2 prototypes,05,Eclecticism,146,0.7061964273452759,0.31727711656304053
+historical,all,DINOv2 prototypes,06,Art Nouveau,12,0.8839631676673889,0.26743024449070046
+historical,all,DINOv2 prototypes,07,Baroque,3,0.7124559879302979,0.03755328755328755
+historical,all,DINOv2 prototypes,08,Chinese Baroque,296,0.8098036050796509,0.6200869756307761
+historical,all,DINOv2 prototypes,09,Classical / Neoclassical,24,0.8337418437004089,0.24367027435416416
+historical,all,DINOv2 prototypes,10,Gothic,8,0.8613658547401428,0.39565418975632455
+historical,all,DINOv2 prototypes,11,Art Deco,29,0.4370647072792053,0.02502124498864195
+historical,all,DINOv2 prototypes,12,Early Modernism,304,0.37750712037086487,0.23543282248063718
+historical,strict,ConvNeXt-Tiny,01,Russian Traditional,11,0.7268492377188029,0.2708397078547463
+historical,strict,ConvNeXt-Tiny,02,Russian Timber Dwelling,42,0.5762060125844791,0.07861768807967504
+historical,strict,ConvNeXt-Tiny,03,Russian Railway,298,0.4510367905551482,0.44006005555587935
+historical,strict,ConvNeXt-Tiny,04,Byzantine / Orthodox,28,0.635850991114149,0.08686358217243445
+historical,strict,ConvNeXt-Tiny,05,Eclecticism,107,0.6816119789890169,0.2753299111280029
+historical,strict,ConvNeXt-Tiny,06,Art Nouveau,12,0.654613789528253,0.04461209629621969
+historical,strict,ConvNeXt-Tiny,07,Baroque,3,0.4003067484662577,0.005015428813802521
+historical,strict,ConvNeXt-Tiny,08,Chinese Baroque,6,0.5649717514124294,0.014721463355257059
+historical,strict,ConvNeXt-Tiny,09,Classical / Neoclassical,24,0.7694136291600634,0.18652728701866236
+historical,strict,ConvNeXt-Tiny,10,Gothic,8,0.6991885625965997,0.08240574867168471
+historical,strict,ConvNeXt-Tiny,11,Art Deco,29,0.4174837501377107,0.03744737998919925
+historical,strict,ConvNeXt-Tiny,12,Early Modernism,304,0.5470928924876294,0.4966839354131471
+historical,strict,DINOv2 prototypes,01,Russian Traditional,11,0.9799548387527466,0.6341379634857897
+historical,strict,DINOv2 prototypes,02,Russian Timber Dwelling,42,0.7335508465766907,0.19780118978838188
+historical,strict,DINOv2 prototypes,03,Russian Railway,298,0.6177692413330078,0.560328412079045
+historical,strict,DINOv2 prototypes,04,Byzantine / Orthodox,28,0.6884825825691223,0.4492864283463555
+historical,strict,DINOv2 prototypes,05,Eclecticism,107,0.7844668626785278,0.3865952491686861
+historical,strict,DINOv2 prototypes,06,Art Nouveau,12,0.8623639345169067,0.27539092691058736
+historical,strict,DINOv2 prototypes,07,Baroque,3,0.692740261554718,0.055626114081996435
+historical,strict,DINOv2 prototypes,08,Chinese Baroque,6,0.6255778074264526,0.0569820874356627
+historical,strict,DINOv2 prototypes,09,Classical / Neoclassical,24,0.804807186126709,0.2533691223015754
+historical,strict,DINOv2 prototypes,10,Gothic,8,0.8728747963905334,0.4572159484773742
+historical,strict,DINOv2 prototypes,11,Art Deco,29,0.412416011095047,0.037421379205923644
+historical,strict,DINOv2 prototypes,12,Early Modernism,304,0.33735379576683044,0.36892263728065894
+field,all,ConvNeXt-Tiny,01,Russian Traditional,147,0.509497645211931,0.12040429209900813
+field,all,ConvNeXt-Tiny,02,Russian Timber Dwelling,89,0.5144491516751601,0.07991473041343904
+field,all,ConvNeXt-Tiny,03,Russian Railway,632,0.6295615235488653,0.6391787266466181
+field,all,ConvNeXt-Tiny,04,Byzantine / Orthodox,86,0.6391229960078576,0.24215446816764358
+field,all,ConvNeXt-Tiny,05,Eclecticism,172,0.6264234161988773,0.2096416530055539
+field,all,ConvNeXt-Tiny,06,Art Nouveau,183,0.6833104739511898,0.343470372569851
+field,all,ConvNeXt-Tiny,07,Baroque,44,0.6612184840531298,0.08044553944239942
+field,all,ConvNeXt-Tiny,08,Chinese Baroque,27,0.6278735632183908,0.31844719421178236
+field,all,ConvNeXt-Tiny,09,Classical / Neoclassical,83,0.5673127291775799,0.09744588946080765
+field,all,ConvNeXt-Tiny,10,Gothic,12,0.8482269503546099,0.04587815618611256
+field,all,ConvNeXt-Tiny,11,Art Deco,22,0.5476394849785408,0.03306942356362608
+field,all,ConvNeXt-Tiny,12,Early Modernism,76,0.5456321947984272,0.08624714955423897
+field,all,DINOv2 prototypes,01,Russian Traditional,147,0.5477760434150696,0.13268756623386394
+field,all,DINOv2 prototypes,02,Russian Timber Dwelling,89,0.5539387464523315,0.11916331784805585
+field,all,DINOv2 prototypes,03,Russian Railway,632,0.5618485808372498,0.6030169058663724
+field,all,DINOv2 prototypes,04,Byzantine / Orthodox,86,0.659780740737915,0.4190316705158362
+field,all,DINOv2 prototypes,05,Eclecticism,172,0.5598121285438538,0.15155444464663664
+field,all,DINOv2 prototypes,06,Art Nouveau,183,0.7786449790000916,0.38210634076962274
+field,all,DINOv2 prototypes,07,Baroque,44,0.8468146324157715,0.1264546849012542
+field,all,DINOv2 prototypes,08,Chinese Baroque,27,0.878320574760437,0.6146977363968473
+field,all,DINOv2 prototypes,09,Classical / Neoclassical,83,0.6326501369476318,0.1256547148874305
+field,all,DINOv2 prototypes,10,Gothic,12,0.8167375922203064,0.04476611007134021
+field,all,DINOv2 prototypes,11,Art Deco,22,0.5309402942657471,0.09028189551987205
+field,all,DINOv2 prototypes,12,Early Modernism,76,0.5852124691009521,0.1268901901523154
+field,strict,ConvNeXt-Tiny,01,Russian Traditional,147,0.509497645211931,0.12040429209900813
+field,strict,ConvNeXt-Tiny,02,Russian Timber Dwelling,89,0.5144491516751601,0.07991473041343904
+field,strict,ConvNeXt-Tiny,03,Russian Railway,632,0.6295615235488653,0.6391787266466181
+field,strict,ConvNeXt-Tiny,04,Byzantine / Orthodox,86,0.6391229960078576,0.24215446816764358
+field,strict,ConvNeXt-Tiny,05,Eclecticism,172,0.6264234161988773,0.2096416530055539
+field,strict,ConvNeXt-Tiny,06,Art Nouveau,183,0.6833104739511898,0.343470372569851
+field,strict,ConvNeXt-Tiny,07,Baroque,44,0.6612184840531298,0.08044553944239942
+field,strict,ConvNeXt-Tiny,08,Chinese Baroque,27,0.6278735632183908,0.31844719421178236
+field,strict,ConvNeXt-Tiny,09,Classical / Neoclassical,83,0.5673127291775799,0.09744588946080765
+field,strict,ConvNeXt-Tiny,10,Gothic,12,0.8482269503546099,0.04587815618611256
+field,strict,ConvNeXt-Tiny,11,Art Deco,22,0.5476394849785408,0.03306942356362608
+field,strict,ConvNeXt-Tiny,12,Early Modernism,76,0.5456321947984272,0.08624714955423897
+field,strict,DINOv2 prototypes,01,Russian Traditional,147,0.5477760434150696,0.13268756623386394
+field,strict,DINOv2 prototypes,02,Russian Timber Dwelling,89,0.5539387464523315,0.11916331784805585
+field,strict,DINOv2 prototypes,03,Russian Railway,632,0.5618485808372498,0.6030169058663724
+field,strict,DINOv2 prototypes,04,Byzantine / Orthodox,86,0.659780740737915,0.4190316705158362
+field,strict,DINOv2 prototypes,05,Eclecticism,172,0.5598121285438538,0.15155444464663664
+field,strict,DINOv2 prototypes,06,Art Nouveau,183,0.7786449790000916,0.38210634076962274
+field,strict,DINOv2 prototypes,07,Baroque,44,0.8468146324157715,0.1264546849012542
+field,strict,DINOv2 prototypes,08,Chinese Baroque,27,0.878320574760437,0.6146977363968473
+field,strict,DINOv2 prototypes,09,Classical / Neoclassical,83,0.6326501369476318,0.1256547148874305
+field,strict,DINOv2 prototypes,10,Gothic,12,0.8167375922203064,0.04476611007134021
+field,strict,DINOv2 prototypes,11,Art Deco,22,0.5309402942657471,0.09028189551987205
+field,strict,DINOv2 prototypes,12,Early Modernism,76,0.5852124691009521,0.1268901901523154

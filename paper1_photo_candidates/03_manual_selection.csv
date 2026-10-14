@@ -1,0 +1,299 @@
+﻿role,domain,style_id,style_name,pair,candidate_rank,similarity,pair_mean_similarity,image_path,selected,notes
+lineage_representative,reference,1.0,Russian Traditional,,1,0.721318244934082,,images/expanded_reference/01/01_RTA_0093_openverse_638ec6ec__俄罗斯传统建筑_拜占庭东正教风格_金顶教堂__8678ad6914.jpg,1,curated after visual QA
+lineage_representative,reference,1.0,Russian Traditional,,2,0.7149450778961182,,images/expanded_reference/01/01_RTA_0248_openverse_e54cb1fa__俄罗斯复兴式_莫斯科宗教建筑__2e19b2e57d.jpg,0,
+lineage_representative,reference,1.0,Russian Traditional,,3,0.7137066721916199,,images/expanded_reference/01/01_RTA_0086_openverse_a5ab4b62__俄罗斯传统建筑_俄罗斯复兴式_莫斯科历史城区__3755c5657d.jpg,0,
+lineage_representative,reference,1.0,Russian Traditional,,4,0.7021239399909973,,images/expanded_reference/01/01_RTA_0019_openverse_40cb843a(1)__俄罗斯复兴式东正教宗教建筑_多洋葱顶_东正教十字架_层叠拱券_装饰砖砌__9325581b83.jpg,0,
+lineage_representative,reference,1.0,Russian Traditional,,5,0.6993609666824341,,images/expanded_reference/01/01_RTA_0237_openverse_4cc9c0d7__俄罗斯复兴式_东正教__0242385492.jpg,0,
+lineage_representative,reference,1.0,Russian Traditional,,6,0.6862866878509521,,images/expanded_reference/01/01_RTA_0262_openverse_a58bf686__俄罗斯传统复兴式_圣瓦西里型__f720f5e9ba.jpg,0,
+lineage_representative,reference,2.0,Russian Timber Dwelling,,1,0.521115779876709,,images/expanded_reference/02/02_RWH_0281_openverse_16798daf__殖民时期木构住宅_水平木板墙_四坡铁皮顶_连续门廊__1f2a838e64.jpg,1,curated after visual QA
+lineage_representative,reference,2.0,Russian Timber Dwelling,,2,0.5113292932510376,,images/expanded_reference/02/02_RWH_0267_openverse_18e678c2__北欧乡土木屋_风化木板墙_金属双坡顶_砖烟囱__6b46e3a7ef.jpg,0,
+lineage_representative,reference,2.0,Russian Timber Dwelling,,3,0.4727025926113128,,images/expanded_reference/02/02_RWH_0256_openverse_64668879__英国乡土半木构建筑_茅草双坡顶_半木构_装饰山墙__3c47a8c161.jpg,0,
+lineage_representative,reference,2.0,Russian Timber Dwelling,,4,0.4484872817993164,,images/expanded_reference/02/02_RWH_0221_openverse_162fb096(3)__北美乔治亚／殖民复兴门廊_红砖_双层栏杆_半圆亮窗__548a1c825a.jpg,0,
+lineage_representative,reference,2.0,Russian Timber Dwelling,,5,0.4291837215423584,,images/expanded_reference/02/02_RWH_0245_openverse_afc92747__英式红砖酒馆／街屋_红砖_格子窗_店招_古典入口__595fd62fde.jpg,0,
+lineage_representative,reference,2.0,Russian Timber Dwelling,,6,0.4275518655776977,,images/expanded_reference/02/02_RWH_0235_openverse_02173321__北美历史主义／殖民复兴住宅_红砖_多坡屋顶_门廊栏杆__8038406da6.jpg,0,
+lineage_representative,reference,3.0,Russian Railway,,1,0.6878679990768433,,images/expanded_reference/03/03_RRA_0161_openverse_2cda84df__铁路博物馆机车展品_工业展厅钢桁架背景__e85af4ef28.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,3.0,Russian Railway,,2,0.6672763228416443,,images/expanded_reference/03/03_RRA_0234_openverse_b49b2bb0__STYLE_MODERNIST_铁路博物馆工业展厅__482b496428.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,3.0,Russian Railway,,3,0.66405189037323,,images/expanded_reference/03/03_RRA_0154_openverse_2124c540__0fe0198645.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,3.0,Russian Railway,,4,0.6635231971740723,,images/expanded_reference/03/03_RRA_0245_openverse_e544bff4__STYLE_MODERNIST_铁路博物馆展厅背景__84e6aa9693.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,3.0,Russian Railway,,5,0.6518892049789429,,images/expanded_reference/03/03_RRA_0050_openverse_3a5f6346(1)__67e4638a3f.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,3.0,Russian Railway,,6,0.6491831541061401,,images/expanded_reference/03/03_RRA_0279_openverse_48b86e6b__STYLE_MODERNIST_铁路博物馆工业展厅__02052e9d72.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,4.0,Byzantine / Orthodox,,1,0.7427082061767578,,images/expanded_reference/04/0044_openverse_1ca195b1__532d1af23f.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,4.0,Byzantine / Orthodox,,2,0.7216822504997253,,images/expanded_reference/04/04_BYZ_0208_openverse_ae4c50b2__STYLE_RUSSIAN_REVIVAL_CHURCH_AND_NEO_RUSSIAN_URBAN__32c0b6a461.jpg,0,
+lineage_representative,reference,4.0,Byzantine / Orthodox,,3,0.7035297155380249,,images/expanded_reference/04/04_BYZ_0060_openverse_26d0c7b3__8dcf7eaca1.jpg,0,
+lineage_representative,reference,4.0,Byzantine / Orthodox,,4,0.6996110677719116,,images/expanded_reference/04/04_BYZ_0074_openverse_158df5dd__ab8a2e9359.jpg,0,
+lineage_representative,reference,4.0,Byzantine / Orthodox,,5,0.6982316970825195,,images/expanded_reference/04/04_BYZ_0111_openverse_dad1be0b__STYLE_RUSSIAN_REVIVAL_ORTHODOX_CHURCH__360c262813.jpg,0,
+lineage_representative,reference,4.0,Byzantine / Orthodox,,6,0.6971240639686584,,images/expanded_reference/04/04_BYZ_0274_openverse_409eb9a5__STYLE_RUSSIAN_ORTHODOX_DOMES_CLOSEUP__4f4f4a475c.jpg,0,
+lineage_representative,reference,5.0,Eclecticism,,1,0.6569707989692688,,images/expanded_reference/05/05_ECL_0264_openverse_63cd4f51__意大利式砖砌住宅__3536025200.jpg,0,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,5.0,Eclecticism,,2,0.6512128114700317,,images/expanded_reference/05/05_ECL_0114_openverse_0de20d70__维多利亚意大利式红砖住宅__93e77cc520.jpg,0,
+lineage_representative,reference,5.0,Eclecticism,,3,0.6456177234649658,,images/expanded_reference/05/05_ECL_0140_openverse_67d7c30c__北美意大利式与安妮女王式混合红砖住宅__70ea9778b5.jpg,1,curated after visual QA
+lineage_representative,reference,5.0,Eclecticism,,4,0.639229416847229,,images/expanded_reference/05/05_ECL_0198_openverse_d07c9ce4__维多利亚式红砖住宅与现代加建__1c3bd7e79f.jpg,0,
+lineage_representative,reference,5.0,Eclecticism,,5,0.6219587326049805,,images/expanded_reference/05/05_ECL_0131_openverse_f31aaf13__美国安妮女王式木构住宅__c789fdcf1d.jpg,0,
+lineage_representative,reference,5.0,Eclecticism,,6,0.6180815100669861,,images/expanded_reference/05/05_ECL_0206_openverse_ac417ef8__北美意大利式浅色木构住宅__0f53c5faf6.jpg,0,
+lineage_representative,reference,6.0,Art Nouveau,,1,0.6703246235847473,,images/expanded_reference/06/06_ANU_0286_openverse_68240005__a8b4891ede.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,6.0,Art Nouveau,,2,0.6614024043083191,,images/expanded_reference/06/06_ANU_0109_openverse_ddfd4943__cbe238f5d1.jpg,0,
+lineage_representative,reference,6.0,Art Nouveau,,3,0.6588313579559326,,images/expanded_reference/06/06_ANU_0283_openverse_41c2f0e7__87a785460c.jpg,0,
+lineage_representative,reference,6.0,Art Nouveau,,4,0.6566452980041504,,images/expanded_reference/06/06_ANU_0153_openverse_a5f7bbe4__8b0183d60f.jpg,0,
+lineage_representative,reference,6.0,Art Nouveau,,5,0.6316370964050293,,images/expanded_reference/06/06_ANU_0193_openverse_f3f0f165__c00eee2e63.jpg,0,
+lineage_representative,reference,6.0,Art Nouveau,,6,0.6136960387229919,,images/expanded_reference/06/06_ANU_0216_openverse_9b042f25__58024aff64.jpg,0,
+lineage_representative,reference,7.0,Baroque,,1,0.5216156244277954,,images/expanded_reference/07/07_BAR_0174_openverse_cf4b80a9__c514c1187a.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,7.0,Baroque,,2,0.5146933794021606,,images/expanded_reference/07/07_BAR_0051_openverse_33e61987__f6cffe8b33.jpg,0,
+lineage_representative,reference,7.0,Baroque,,3,0.5143805146217346,,images/expanded_reference/07/07_BAR_0010_openverse_fa0f53e9__9cabcef93c.jpg,0,
+lineage_representative,reference,7.0,Baroque,,4,0.511662483215332,,images/expanded_reference/07/07_BAR_0007_openverse_62a791cf__2d5a6161e4.jpg,0,
+lineage_representative,reference,7.0,Baroque,,5,0.5052318572998047,,images/expanded_reference/07/07_BAR_0013_openverse_0b5ec79a__3a0b8e1f43.jpg,0,
+lineage_representative,reference,7.0,Baroque,,6,0.5047913789749146,,images/expanded_reference/07/07_BAR_0039_openverse_00ecf39c__17bc036609.jpg,0,
+lineage_representative,reference,8.0,Chinese Baroque,,1,0.6244271993637085,,images/expanded_reference/08/08_CBA_0214_openverse_caa9d075__8d4389a801.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,8.0,Chinese Baroque,,2,0.5854709148406982,,images/expanded_reference/08/08_CBA_0118_openverse_80b3272d__0aaec93c89.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,8.0,Chinese Baroque,,3,0.552045464515686,,images/expanded_reference/08/08_CBA_0064_openverse_a128cad8__289fdcc95d.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,8.0,Chinese Baroque,,4,0.5516848564147949,,images/expanded_reference/08/08_CBA_0023_openverse_7c8520b3__a36bd90e0a.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,8.0,Chinese Baroque,,5,0.5246014595031738,,images/expanded_reference/08/08_CBA_0033_openverse_75ef822b__56aa29e11a.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,8.0,Chinese Baroque,,6,0.520653247833252,,images/expanded_reference/08/08_CBA_0001_openverse_e438f204__6ebf69507a.jpg,0,replaced by architecture-aware override
+lineage_representative,reference,9.0,Classical / Neoclassical,,1,0.5813961029052734,,images/expanded_reference/09/09_NEC_0253_openverse_1ed48afe__cfa71322f8.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,9.0,Classical / Neoclassical,,2,0.5811740159988403,,images/expanded_reference/09/09_NEC_0265_openverse_d6bd0790__c22ebd3999.jpg,0,
+lineage_representative,reference,9.0,Classical / Neoclassical,,3,0.576114296913147,,images/expanded_reference/09/09_NEC_0269_openverse_0e616b33__f58fa5124c.jpg,0,
+lineage_representative,reference,9.0,Classical / Neoclassical,,4,0.5643004775047302,,images/expanded_reference/09/09_NEC_0244_openverse_5e862414__f092ebd7c6.jpg,0,
+lineage_representative,reference,9.0,Classical / Neoclassical,,5,0.5580284595489502,,images/expanded_reference/09/09_NEC_0233_openverse_ebdd66a6__4125966041.jpg,0,
+lineage_representative,reference,9.0,Classical / Neoclassical,,6,0.5562978982925415,,images/expanded_reference/09/09_NEC_0230_openverse_2d23ea5f__3b92e2fd38.jpg,0,
+lineage_representative,reference,10.0,Gothic,,1,0.5120878219604492,,images/expanded_reference/10/10_GOT_0040_openverse_879133c0__5d5f21395c.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,10.0,Gothic,,2,0.4781452715396881,,images/expanded_reference/10/10_GOT_0108_openverse_46e28e79__721ffcc721.jpg,0,
+lineage_representative,reference,10.0,Gothic,,3,0.4780424237251282,,images/expanded_reference/10/10_GOT_0068_openverse_8024bccb__b34dec3aa0.jpg,0,
+lineage_representative,reference,10.0,Gothic,,4,0.4722996950149536,,images/expanded_reference/10/10_GOT_0247_openverse_205e4e91__b76313f44c.jpg,0,
+lineage_representative,reference,10.0,Gothic,,5,0.466043621301651,,images/expanded_reference/10/10_GOT_0255_openverse_3314bdab__d75f1a3a92.jpg,0,
+lineage_representative,reference,10.0,Gothic,,6,0.4564461708068847,,images/expanded_reference/10/10_GOT_0232_openverse_b4fa2284__6c7e84c0d4.jpg,0,
+lineage_representative,reference,11.0,Art Deco,,1,0.6399253606796265,,images/expanded_reference/11/11_ADC_0193_openverse_0a84cbcb__3ff7de42b8.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,11.0,Art Deco,,2,0.6348892450332642,,images/expanded_reference/11/11_ADC_0188_openverse_b8e6983b__70a17a45b7.jpg,0,
+lineage_representative,reference,11.0,Art Deco,,3,0.6336809992790222,,images/expanded_reference/11/11_ADC_0010_openverse_6d6c9b32__a1f57af7ec.jpg,0,
+lineage_representative,reference,11.0,Art Deco,,4,0.631091833114624,,images/expanded_reference/11/11_ADC_0255_openverse_abfc8544__deb996a691.jpg,0,
+lineage_representative,reference,11.0,Art Deco,,5,0.6109705567359924,,images/expanded_reference/11/11_ADC_0202_openverse_0226f25f__66dec14fc5.jpg,0,
+lineage_representative,reference,11.0,Art Deco,,6,0.6097692847251892,,images/expanded_reference/11/11_ADC_0213_openverse_2dd000d6__c1d896b8e1.jpg,0,
+lineage_representative,reference,12.0,Early Modernism,,1,0.5950689315795898,,images/expanded_reference/12/12_EMO_0195_openverse_6c8ae5e0__56dcd29f7f.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,reference,12.0,Early Modernism,,2,0.5930646657943726,,images/expanded_reference/12/12_EMO_0117_openverse_2ad445b2__8cd2f59b85.jpg,0,
+lineage_representative,reference,12.0,Early Modernism,,3,0.5420901775360107,,images/expanded_reference/12/12_EMO_0205_openverse_f1296b1c__7c7c40fe29.jpg,0,
+lineage_representative,reference,12.0,Early Modernism,,4,0.5326951146125793,,images/expanded_reference/12/12_EMO_0293_openverse_54b0d376__e5281a3f01.jpg,0,
+lineage_representative,reference,12.0,Early Modernism,,5,0.5311882495880127,,images/expanded_reference/12/12_EMO_0008_openverse_ee0ebb70__d61f0e69cc.jpg,0,
+lineage_representative,reference,12.0,Early Modernism,,6,0.5276784896850586,,images/expanded_reference/12/12_EMO_0087_openverse_cdd1aa1f__9f62490f5a.jpg,0,
+lineage_representative,historical,1.0,Russian Traditional,,1,0.4827139377593994,,images/historical_album/01/D272_哈尔滨_宗教与教育建筑_哈尔滨东正教堂入口立面_俄罗斯传统建筑__c224b3a41a.jpg,0,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,1.0,Russian Traditional,,2,0.4614882469177246,,images/historical_album/04/D270_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景一_俄罗斯传统建筑__bdceb326f3.jpg,0,
+lineage_representative,historical,1.0,Russian Traditional,,3,0.453188955783844,,images/historical_album/01/D271_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景二_俄罗斯传统建筑__a479e931ee.jpg,1,curated after visual QA
+lineage_representative,historical,1.0,Russian Traditional,,4,0.4215288162231445,,images/historical_album/01/D279_绥芬河_宗教与教育建筑_边境站教堂学校及圣像壁_俄罗斯传统建筑__99e32bb7d2.jpg,0,
+lineage_representative,historical,1.0,Russian Traditional,,5,0.3416430950164795,,images/historical_album/01/D268_海拉尔_宗教与教育建筑_海拉尔教堂学校施工状态_俄罗斯传统建筑__683ebb0d8e.jpg,0,
+lineage_representative,historical,1.0,Russian Traditional,,6,0.3292783796787262,,images/historical_album/02/D269_沿线其他城市_宗教与教育建筑_齐齐哈尔教堂学校_俄罗斯传统建筑__7c81fc8a8f.jpg,0,
+lineage_representative,historical,2.0,Russian Timber Dwelling,,1,0.4212479591369629,,images/historical_album/02/D269_沿线其他城市_宗教与教育建筑_齐齐哈尔教堂学校_俄罗斯传统建筑__7c81fc8a8f.jpg,0,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,2.0,Russian Timber Dwelling,,2,0.3945604264736175,,images/historical_album/02/D332_哈尔滨_私人住宅与街区_新哈尔滨木构装饰住宅_俄式木构民居__1eb7b827c0.jpg,1,curated after visual QA
+lineage_representative,historical,2.0,Russian Timber Dwelling,,3,0.3730942010879516,,images/historical_album/01/D268_海拉尔_宗教与教育建筑_海拉尔教堂学校施工状态_俄罗斯传统建筑__683ebb0d8e.jpg,0,
+lineage_representative,historical,2.0,Russian Timber Dwelling,,4,0.3214122653007507,,images/historical_album/01/D279_绥芬河_宗教与教育建筑_边境站教堂学校及圣像壁_俄罗斯传统建筑__99e32bb7d2.jpg,0,
+lineage_representative,historical,2.0,Russian Timber Dwelling,,5,0.3174222707748413,,images/historical_album/04/D277_绥芬河_宗教与教育建筑_边境站教堂学校正面_俄罗斯传统建筑__076fbb47a6.jpg,0,
+lineage_representative,historical,2.0,Russian Timber Dwelling,,6,0.2815020680427551,,images/historical_album/05/D179_绥芬河_铁路职工住宅与聚落_边境站两层住宅__b4832f2afd.jpg,0,
+lineage_representative,historical,3.0,Russian Railway,,1,0.443252682685852,,images/historical_album/03/D091_沿线其他城市_临时工业建筑与机车设施_海参崴机车组装工场全景(2)__24698c444d.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,3.0,Russian Railway,,2,0.4403178095817566,,images/historical_album/03/D208_满洲里_站场景观_站台列车与信号_俄罗斯铁路建筑__485e430ade.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,3.0,Russian Railway,,3,0.4245973527431488,,images/historical_album/03/D654_沿线其他地区_铁路与交通设施_南线受损蒸汽机车二__俄罗斯铁路建筑_早期现代主义__da977f6708.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,3.0,Russian Railway,,4,0.4227325320243835,,images/historical_album/03/D511_旅顺（沿线其他城市）_铁路与交通设施_旅顺通往旧城的铁路__俄罗斯铁路建筑__42fffd227b.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,3.0,Russian Railway,,5,0.4136548638343811,,images/historical_album/03/D052_海拉尔_临时工业建筑与机车设施_海拉尔临时机车厂房__f303a840af.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,3.0,Russian Railway,,6,0.4084330201148987,,images/historical_album/03/D657_沿线其他地区_铁路与交通设施_南线倾覆机车与木料__俄罗斯铁路建筑_早期现代主义__7edb7e683f.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,4.0,Byzantine / Orthodox,,1,0.4706445336341858,,images/historical_album/01/D272_哈尔滨_宗教与教育建筑_哈尔滨东正教堂入口立面_俄罗斯传统建筑__c224b3a41a.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,4.0,Byzantine / Orthodox,,2,0.4512484669685364,,images/historical_album/04/D528_旅顺（沿线其他城市）_宗教建筑_旅顺军队教堂__俄罗斯传统建筑_拜占庭东正教风格__b01e0c998b.jpg,0,
+lineage_representative,historical,4.0,Byzantine / Orthodox,,3,0.4437432587146759,,images/historical_album/01/D271_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景二_俄罗斯传统建筑__a479e931ee.jpg,0,
+lineage_representative,historical,4.0,Byzantine / Orthodox,,4,0.4403948783874511,,images/historical_album/04/D270_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景一_俄罗斯传统建筑__bdceb326f3.jpg,0,
+lineage_representative,historical,4.0,Byzantine / Orthodox,,5,0.414776861667633,,images/historical_album/01/D279_绥芬河_宗教与教育建筑_边境站教堂学校及圣像壁_俄罗斯传统建筑__99e32bb7d2.jpg,0,
+lineage_representative,historical,4.0,Byzantine / Orthodox,,6,0.3631548583507538,,images/historical_album/04/D277_绥芬河_宗教与教育建筑_边境站教堂学校正面_俄罗斯传统建筑__076fbb47a6.jpg,0,
+lineage_representative,historical,5.0,Eclecticism,,1,0.3834728896617889,,images/historical_album/07/D401_大连（沿线其他城市）_行政办公与公共建筑_大连公共建筑一_折衷主义__b71086fc4f.jpg,1,curated after visual QA
+lineage_representative,historical,5.0,Eclecticism,,2,0.3803910613059997,,images/historical_album/03/D406_大连（沿线其他城市）_行政办公与公共建筑_大连大型公共建筑(3)__折衷主义_俄罗斯铁路建筑__5b19cf4114.jpg,0,
+lineage_representative,historical,5.0,Eclecticism,,3,0.3538592457771301,,images/historical_album/05/D409_大连（沿线其他城市）_私人住宅与街区_大连职员住宅二(4)__俄式木构民居_折衷主义__e7f9d6d949.jpg,0,
+lineage_representative,historical,5.0,Eclecticism,,4,0.3419579267501831,,images/historical_album/03/D109_海拉尔_车站与附属建筑_海拉尔站站长办公房(1)(3)__7db32771a7.jpg,0,
+lineage_representative,historical,5.0,Eclecticism,,5,0.330971360206604,,images/historical_album/03/D183_绥芬河_铁路服务与仓储建筑_边境站浴室__5dafeb60a7.jpg,0,
+lineage_representative,historical,5.0,Eclecticism,,6,0.3105551898479461,,images/historical_album/09/D412_大连（沿线其他城市）_行政办公与公共建筑_大连公共机构建筑(3)__古典主义新古典_折衷主义__23e5c0b348.jpg,0,
+lineage_representative,historical,6.0,Art Nouveau,,1,0.4620683789253235,,images/historical_album/06/D285_哈尔滨_商业与服务建筑_哈尔滨旅馆设计图_新艺术运动__2275418cd1.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,6.0,Art Nouveau,,2,0.4462555050849914,,images/historical_album/06/D519_旅顺（沿线其他城市）_行政办公与公共建筑_旅顺港务局临时站房__新艺术运动_折衷主义__dcc4defb0b.jpg,0,
+lineage_representative,historical,6.0,Art Nouveau,,3,0.4024126529693603,,images/historical_album/05/D280_哈尔滨_教育建筑_哈尔滨商业学校主立面设计图_新艺术运动__50dedeea0a.jpg,0,
+lineage_representative,historical,6.0,Art Nouveau,,4,0.3960586786270141,,images/historical_album/06/D281_哈尔滨_教育建筑_哈尔滨商业学校入口立面设计图_新艺术运动__fe5d875a65.jpg,0,
+lineage_representative,historical,6.0,Art Nouveau,,5,0.1736175864934921,,images/historical_album/05/D398_大连（沿线其他城市）_城市道路与公共空间_大连街道三_折衷主义__5666004b66.jpg,0,
+lineage_representative,historical,6.0,Art Nouveau,,6,0.1702127456665039,,images/historical_album/05/D180_绥芬河_公园与公共空间_边境站公园凉亭__0565488c5a.jpg,0,
+lineage_representative,historical,7.0,Baroque,,1,0.1285504698753357,,images/historical_album/07/D401_大连（沿线其他城市）_行政办公与公共建筑_大连公共建筑一_折衷主义__b71086fc4f.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,7.0,Baroque,,2,0.0542467311024665,,images/historical_album/05/D335_哈尔滨_商业与服务建筑_新哈尔滨旅馆或公共建筑檐廊_折衷主义__310614aebe.jpg,0,
+lineage_representative,historical,7.0,Baroque,,3,-0.0479827672243118,,images/historical_album/07/D418_大连（沿线其他城市）_私人住宅与街区_大连职员住宅七(2)__折衷主义_巴洛克__3ca23d2e3b.jpg,0,
+lineage_representative,historical,8.0,Chinese Baroque,,1,0.5349960327148438,,images/historical_album/08/D886_哈尔滨_宗教与纪念建筑_阿什河纪念塔二__中国传统宗教建筑_现有分类外_中国传统纪念构筑物_现有分类外__fc6b1c4661.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,8.0,Chinese Baroque,,2,0.5348414182662964,,images/historical_album/08/D922_长春·宽城子（沿线其他城市）_宗教与纪念建筑_宽城子寺院内景__中国传统宗教建筑_现有分类外__9189330828.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,8.0,Chinese Baroque,,3,0.5206644535064697,,images/historical_album/08/D877_哈尔滨_宗教与纪念建筑_阿什河寺庙正殿一__中国传统宗教建筑_现有分类外__f326f64667.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,8.0,Chinese Baroque,,4,0.5168633460998535,,images/historical_album/08/D1040_海城（沿线其他城市）_宗教与纪念建筑_海城老爷庙门楼一__中国传统宗教建筑_现有分类外_中国传统庙宇大型山门_现有分类外__07e4b70994.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,8.0,Chinese Baroque,,5,0.5160582661628723,,images/historical_album/08/D911_哈尔滨_宗教与纪念建筑_哈尔滨香坊老烧锅屯寺庙__中国传统宗教建筑_现有分类外__7810399b0f.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,8.0,Chinese Baroque,,6,0.515197217464447,,images/historical_album/08/D1044_海城（沿线其他城市）_宗教与纪念建筑_海城清真寺塔__中国传统伊斯兰宗教建筑_现有分类外_中国传统清真寺塔楼_现有分类外__0e9a400e60.jpg,0,replaced by architecture-aware override
+lineage_representative,historical,9.0,Classical / Neoclassical,,1,0.2216270118951797,,images/historical_album/09/D284_哈尔滨_教育建筑_哈尔滨学校侧立面设计图_古典主义-新古典__3bf753a6b0.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,9.0,Classical / Neoclassical,,2,0.1932398080825805,,images/historical_album/09/D349_哈尔滨_商业与服务建筑_哈尔滨码头区单层商号_古典主义-新古典__fba163f522.jpg,0,
+lineage_representative,historical,9.0,Classical / Neoclassical,,3,0.1875157952308654,,images/historical_album/09/D319_哈尔滨_商业与服务建筑_新哈尔滨银行或金融机构建筑_古典主义-新古典__1871c3247b.jpg,0,
+lineage_representative,historical,9.0,Classical / Neoclassical,,4,0.1681311130523681,,images/historical_album/05/D327_哈尔滨_私人住宅与街区_新哈尔滨私人住宅_折衷主义__626e535bee.jpg,0,
+lineage_representative,historical,9.0,Classical / Neoclassical,,5,0.1653469204902649,,images/historical_album/09/D325_哈尔滨_私人住宅与街区_新哈尔滨住宅一_古典主义-新古典__f8e296f41a.jpg,0,
+lineage_representative,historical,9.0,Classical / Neoclassical,,6,0.1423745155334472,,images/historical_album/05/D321_哈尔滨_商业与服务建筑_新哈尔滨临街商号一_古典主义-新古典__56f675a50d.jpg,0,
+lineage_representative,historical,10.0,Gothic,,1,0.2645950317382812,,images/historical_album/10/D648_哈尔滨_工业与维修设施_哈尔滨供水构筑物残迹__哥特式_俄罗斯铁路建筑__c923dfe64d.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,10.0,Gothic,,2,0.2347009778022766,,images/historical_album/10/D645_哈尔滨_宗教与纪念建筑_哈尔滨受损教堂正立面__哥特式_俄罗斯铁路建筑__bcff881e83.jpg,0,
+lineage_representative,historical,10.0,Gothic,,3,0.2266637235879898,,images/historical_album/10/D199_沿线其他城市_医疗建筑_铁路医院哥特式立面_哥特式__364b4a29de.jpg,0,
+lineage_representative,historical,10.0,Gothic,,4,0.1145177036523819,,images/historical_album/03/D212_满洲里_工业建筑_拱券窗机务车间立面_俄罗斯铁路建筑__89d090d3d2.jpg,0,
+lineage_representative,historical,10.0,Gothic,,5,0.0853064507246017,,images/historical_album/10/D386_大连（沿线其他城市）_工业建筑_大连砖窑建筑_折衷主义__2567a92149.jpg,0,
+lineage_representative,historical,10.0,Gothic,,6,0.0356477536261081,,images/historical_album/10/D393_大连（沿线其他城市）_行政办公与公共建筑_大连行政区公共建筑群_折衷主义__9b06815b83.jpg,0,
+lineage_representative,historical,11.0,Art Deco,,1,0.1109513342380523,,images/historical_album/11/D466_大连（沿线其他城市）_工业与维修建筑_大连港石灰烧制厂(1)__早期现代主义_俄罗斯铁路建筑__4f5ed99d5c.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,11.0,Art Deco,,2,0.1036963164806366,,images/historical_album/11/D462_大连（沿线其他城市）_工业与维修建筑_大连港维修工厂外景__俄罗斯铁路建筑_折衷主义__3b742d5341.jpg,0,
+lineage_representative,historical,11.0,Art Deco,,3,0.0968902558088302,,images/historical_album/03/D469_大连（沿线其他城市）_铁路与交通设施_大连湾铁路与仓库(1)__俄罗斯铁路建筑_折衷主义__3a971030d4.jpg,0,
+lineage_representative,historical,11.0,Art Deco,,4,0.0824246406555175,,images/historical_album/11/D457_大连（沿线其他城市）_港口与航运设施_大连港船坞基坑与砌体__早期现代主义__d157560730.jpg,0,
+lineage_representative,historical,11.0,Art Deco,,5,0.0748960673809051,,images/historical_album/12/D451_大连（沿线其他城市）_港口与航运设施_大连港闸门控制设施__早期现代主义__d0e3011d67.jpg,0,
+lineage_representative,historical,11.0,Art Deco,,6,0.0743286311626434,,images/historical_album/12/D458_大连（沿线其他城市）_工业与维修建筑_大连港维修厂房施工__早期现代主义_俄罗斯铁路建筑__117cc3f1c2.jpg,0,
+lineage_representative,historical,12.0,Early Modernism,,1,0.121065467596054,,images/historical_album/12/D451_大连（沿线其他城市）_港口与航运设施_大连港闸门控制设施__早期现代主义__d0e3011d67.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,historical,12.0,Early Modernism,,2,0.1080500781536102,,images/historical_album/11/D457_大连（沿线其他城市）_港口与航运设施_大连港船坞基坑与砌体__早期现代主义__d157560730.jpg,0,
+lineage_representative,historical,12.0,Early Modernism,,3,0.0997785180807113,,images/historical_album/12/D576_沿线其他地区_军事与边防设施_边防警卫队长条营房__俄罗斯铁路建筑_早期现代主义__fd0f26a428.jpg,0,
+lineage_representative,historical,12.0,Early Modernism,,4,0.0977024286985397,,images/historical_album/12/D533_旅顺（沿线其他城市）_行政办公与公共建筑_旅顺公共机构建筑群__俄罗斯铁路建筑_早期现代主义__652f1bdf4a.jpg,0,
+lineage_representative,historical,12.0,Early Modernism,,5,0.0975275114178657,,images/historical_album/12/D447_大连（沿线其他城市）_港口与航运设施_大连港船坞闸门__早期现代主义__a5f5b7b9aa.jpg,0,
+lineage_representative,historical,12.0,Early Modernism,,6,0.0867029726505279,,images/historical_album/12/D598_哈尔滨_铁路与交通设施_哈尔滨号工程船或警戒船__早期现代主义__c3e590f178.jpg,0,
+lineage_representative,field,1.0,Russian Traditional,,1,0.2949991226196289,,images/field_photographs/01/扎兰屯4__6053080e15.jpg,1,curated after visual QA
+lineage_representative,field,1.0,Russian Traditional,,2,0.2592668533325195,,images/field_photographs/01/肇东4__6c0ff748b1.jpg,0,
+lineage_representative,field,1.0,Russian Traditional,,3,0.2539946138858795,,images/field_photographs/01/肇东9__6c24b18c79.jpg,0,
+lineage_representative,field,1.0,Russian Traditional,,4,0.2514250874519348,,images/field_photographs/01/横河道子3__ad4e1148e9.jpg,0,
+lineage_representative,field,1.0,Russian Traditional,,5,0.2505183815956116,,images/field_photographs/01/IMG_7346__cbc0f0f4be.jpg,0,
+lineage_representative,field,1.0,Russian Traditional,,6,0.2449415028095245,,images/field_photographs/01/横河道子1__108e7cd32f.jpg,0,
+lineage_representative,field,2.0,Russian Timber Dwelling,,1,0.4131578207015991,,images/field_photographs/02/雕花原木俄式木屋（俄式传统建筑）__3bc83194ab.jpg,1,curated after visual QA
+lineage_representative,field,2.0,Russian Timber Dwelling,,2,0.3468872308731079,,images/field_photographs/02/IMG_8499__0fac911cec.jpg,0,
+lineage_representative,field,2.0,Russian Timber Dwelling,,3,0.3441081643104553,,images/field_photographs/02/IMG_8497__cb02eb3945.jpg,0,
+lineage_representative,field,2.0,Russian Timber Dwelling,,4,0.3352910578250885,,images/field_photographs/01/昂昂溪5__41e165ef24.jpg,0,
+lineage_representative,field,2.0,Russian Timber Dwelling,,5,0.3300440311431885,,images/field_photographs/02/IMG_8512__46ae0ee418.jpg,0,
+lineage_representative,field,2.0,Russian Timber Dwelling,,6,0.3234981894493103,,images/field_photographs/02/IMG_8514__28af234eab.jpg,0,
+lineage_representative,field,3.0,Russian Railway,,1,0.6127287149429321,,images/field_photographs/03/机车库内部（拱形库房空间）俄罗斯铁路建筑__0ff3d7b779.jpg,0,replaced by architecture-aware override
+lineage_representative,field,3.0,Russian Railway,,2,0.5872410535812378,,images/field_photographs/03/扇形机车库4俄罗斯铁路建筑__ace93467a3.jpg,0,replaced by architecture-aware override
+lineage_representative,field,3.0,Russian Railway,,3,0.5700938105583191,,images/field_photographs/03/IMG_8460__a90d2310bc.jpg,0,replaced by architecture-aware override
+lineage_representative,field,3.0,Russian Railway,,4,0.5348439812660217,,images/field_photographs/03/扇形机车库 111俄罗斯铁路建筑__4f912dc47d.jpg,0,replaced by architecture-aware override
+lineage_representative,field,3.0,Russian Railway,,5,0.5322344303131104,,images/field_photographs/03/扇形机车库-俄罗斯铁路工业建筑__2ddd731563.jpg,0,replaced by architecture-aware override
+lineage_representative,field,3.0,Russian Railway,,6,0.5073884725570679,,images/field_photographs/03/扇形机车库 内部__2ca11c66cd.jpg,0,replaced by architecture-aware override
+lineage_representative,field,4.0,Byzantine / Orthodox,,1,0.6297986507415771,,images/field_photographs/04/IMG_7649__282a7a0b20.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,4.0,Byzantine / Orthodox,,2,0.6240310668945312,,images/field_photographs/04/IMG_7652__e84cd56e62.jpg,0,
+lineage_representative,field,4.0,Byzantine / Orthodox,,3,0.6203632354736328,,images/field_photographs/04/IMG_7651__f495d68b28.jpg,0,
+lineage_representative,field,4.0,Byzantine / Orthodox,,4,0.6088554859161377,,images/field_photographs/04/IMG_7859__5cc2fb1653.jpg,0,
+lineage_representative,field,4.0,Byzantine / Orthodox,,5,0.607921302318573,,images/field_photographs/04/IMG_7289__1459d1b182.jpg,0,
+lineage_representative,field,4.0,Byzantine / Orthodox,,6,0.6041277647018433,,images/field_photographs/04/IMG_7653__1593cc03bc.jpg,0,
+lineage_representative,field,5.0,Eclecticism,,1,0.3552024662494659,,images/field_photographs/05/IMG_7849__36387611fd.jpg,0,default rank-1; pending/accepted unless overridden
+lineage_representative,field,5.0,Eclecticism,,2,0.3500629663467407,,images/field_photographs/01/1898 黄房子__e094992b8c.jpg,0,
+lineage_representative,field,5.0,Eclecticism,,3,0.3479428887367248,,images/field_photographs/05/伊林1__0926d41040.jpg,0,
+lineage_representative,field,5.0,Eclecticism,,4,0.3333643674850464,,images/field_photographs/01/IMG_7346__cbc0f0f4be.jpg,0,
+lineage_representative,field,5.0,Eclecticism,,5,0.2957905530929565,,images/field_photographs/05/庙台子1__bf0cde8dda.jpg,0,
+lineage_representative,field,5.0,Eclecticism,,6,0.2948857843875885,,images/field_photographs/05/IMG_7620__d4826ba396.jpg,1,curated after visual QA
+lineage_representative,field,6.0,Art Nouveau,,1,0.5112536549568176,,images/field_photographs/06/IMG_7412__116f33e453.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,6.0,Art Nouveau,,2,0.4718454480171203,,images/field_photographs/06/中东铁路管理局大楼旧址4__91c8123e24.jpg,0,
+lineage_representative,field,6.0,Art Nouveau,,3,0.4666539430618286,,images/field_photographs/06/IMG_7408__2600df3d2e.jpg,0,
+lineage_representative,field,6.0,Art Nouveau,,4,0.4564084410667419,,images/field_photographs/06/IMG_7410__d0c209e1a1.jpg,0,
+lineage_representative,field,6.0,Art Nouveau,,5,0.4523695707321167,,images/field_photographs/06/IMG_7411__73e449415e.jpg,0,
+lineage_representative,field,6.0,Art Nouveau,,6,0.4389891028404236,,images/field_photographs/06/IMG_7418 2__d6f64e0370.jpg,0,
+lineage_representative,field,7.0,Baroque,,1,0.2674348056316376,,images/field_photographs/05/IMG_7628__bf73ebc2d7.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,7.0,Baroque,,2,0.2141798883676529,,images/field_photographs/05/IMG_7623__bc53e8cac4.jpg,0,
+lineage_representative,field,7.0,Baroque,,3,0.1963940560817718,,images/field_photographs/05/IMG_7841__3a84b19065.jpg,0,
+lineage_representative,field,7.0,Baroque,,4,0.1925141513347625,,images/field_photographs/07/IMG_7599__e46b17fd72.jpg,0,
+lineage_representative,field,7.0,Baroque,,5,0.183917224407196,,images/field_photographs/06/IMG_7448__380aa11be2.jpg,0,
+lineage_representative,field,7.0,Baroque,,6,0.1758129298686981,,images/field_photographs/05/IMG_8439__5991fdf760.jpg,0,
+lineage_representative,field,8.0,Chinese Baroque,,1,0.5551249980926514,,images/field_photographs/08/IMG_7806__8a8706cf15.jpg,0,replaced by architecture-aware override
+lineage_representative,field,8.0,Chinese Baroque,,2,0.5281692743301392,,images/field_photographs/08/IMG_7816__373082d58d.jpg,0,replaced by architecture-aware override
+lineage_representative,field,8.0,Chinese Baroque,,3,0.5216088891029358,,images/field_photographs/08/IMG_7818__7be6bb53a0.jpg,0,replaced by architecture-aware override
+lineage_representative,field,8.0,Chinese Baroque,,4,0.5096241235733032,,images/field_photographs/08/IMG_7813__d8dbfb64b9.jpg,0,replaced by architecture-aware override
+lineage_representative,field,8.0,Chinese Baroque,,5,0.4987422823905945,,images/field_photographs/08/IMG_7814__3679206bd6.jpg,0,replaced by architecture-aware override
+lineage_representative,field,8.0,Chinese Baroque,,6,0.4986359179019928,,images/field_photographs/08/IMG_7815__4fca9a9484.jpg,0,replaced by architecture-aware override
+lineage_representative,field,9.0,Classical / Neoclassical,,1,0.3721271753311157,,images/field_photographs/02/IMG_8500__2aa42d5114.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,9.0,Classical / Neoclassical,,2,0.3383456766605377,,images/field_photographs/09/IMG_8576__ac190b2dec.jpg,0,
+lineage_representative,field,9.0,Classical / Neoclassical,,3,0.3245328068733215,,images/field_photographs/09/IMG_8573__5c65190364.jpg,0,
+lineage_representative,field,9.0,Classical / Neoclassical,,4,0.3138093948364258,,images/field_photographs/09/富拉尔基1__0d0eb1151a.jpg,0,
+lineage_representative,field,9.0,Classical / Neoclassical,,5,0.3009167313575744,,images/field_photographs/09/富拉尔基7__8d6ea6c339.jpg,0,
+lineage_representative,field,9.0,Classical / Neoclassical,,6,0.2990452349185943,,images/field_photographs/09/IMG_8570__82d75be766.jpg,0,
+lineage_representative,field,10.0,Gothic,,1,0.156334713101387,,images/field_photographs/10/IMG_8527__8cd8a71c6a.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,10.0,Gothic,,2,0.1329300701618194,,images/field_photographs/10/IMG_8519__105c8a5bd3.jpg,0,
+lineage_representative,field,10.0,Gothic,,3,0.1318472176790237,,images/field_photographs/10/IMG_8518__1fff108cae.jpg,0,
+lineage_representative,field,10.0,Gothic,,4,0.1145690083503723,,images/field_photographs/10/IMG_8517__e8e1b54cb5.jpg,0,
+lineage_representative,field,10.0,Gothic,,5,0.1057188883423805,,images/field_photographs/10/IMG_8522__f88fc8ca40.jpg,0,
+lineage_representative,field,10.0,Gothic,,6,0.099894218146801,,images/field_photographs/10/IMG_8520__1ce28a72d3.jpg,0,
+lineage_representative,field,11.0,Art Deco,,1,0.4862444996833801,,images/field_photographs/06/IMG_8483__40019dec72.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,11.0,Art Deco,,2,0.4768493771553039,,images/field_photographs/06/IMG_8478__5b20c5e2e4.jpg,0,
+lineage_representative,field,11.0,Art Deco,,3,0.4441384077072143,,images/field_photographs/06/IMG_8477__301f26570c.jpg,0,
+lineage_representative,field,11.0,Art Deco,,4,0.4322801232337951,,images/field_photographs/06/IMG_8482__af8fcb4c48.jpg,0,
+lineage_representative,field,11.0,Art Deco,,5,0.3508653044700622,,images/field_photographs/02/长春南站1__7b7511a640.jpg,0,
+lineage_representative,field,11.0,Art Deco,,6,0.29193115234375,,images/field_photographs/11/截屏2026-07-01 15.19.24__77febf7e6c.jpg,0,
+lineage_representative,field,12.0,Early Modernism,,1,0.3730546832084656,,images/field_photographs/12/IMG_8619__a20d6644c6.jpg,1,default rank-1; pending/accepted unless overridden
+lineage_representative,field,12.0,Early Modernism,,2,0.3670862317085266,,images/field_photographs/12/IMG_8617__f21802ed13.jpg,0,
+lineage_representative,field,12.0,Early Modernism,,3,0.3573879599571228,,images/field_photographs/12/IMG_8614__0db290e16c.jpg,0,
+lineage_representative,field,12.0,Early Modernism,,4,0.2845522165298462,,images/field_photographs/12/IMG_8620__1eb92fe463.jpg,0,
+lineage_representative,field,12.0,Early Modernism,,5,0.2723782062530517,,images/field_photographs/12/IMG_8621__71bd936f5f.jpg,0,
+lineage_representative,field,12.0,Early Modernism,,6,0.2619276046752929,,images/field_photographs/03/阿城1__7e9beaca91.jpg,0,
+multilineage_case,historical,,,01-04,1,,0.4766792356967926,images/historical_album/01/D272_哈尔滨_宗教与教育建筑_哈尔滨东正教堂入口立面_俄罗斯传统建筑__c224b3a41a.jpg,1,curated after visual QA; main-text Figure 6
+multilineage_case,historical,,,01-04,2,,0.4509415924549103,images/historical_album/04/D270_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景一_俄罗斯传统建筑__bdceb326f3.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,3,,0.4484661221504211,images/historical_album/01/D271_哈尔滨_宗教与教育建筑_哈尔滨东正教堂全景二_俄罗斯传统建筑__a479e931ee.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,4,,0.4181528389453888,images/historical_album/01/D279_绥芬河_宗教与教育建筑_边境站教堂学校及圣像壁_俄罗斯传统建筑__99e32bb7d2.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,5,,0.3252533674240112,images/historical_album/02/D269_沿线其他城市_宗教与教育建筑_齐齐哈尔教堂学校_俄罗斯传统建筑__7c81fc8a8f.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,6,,0.3242323696613312,images/historical_album/01/D268_海拉尔_宗教与教育建筑_海拉尔教堂学校施工状态_俄罗斯传统建筑__683ebb0d8e.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,7,,0.3062472343444824,images/historical_album/04/D276_沿线其他城市_宗教与教育建筑_伊曼木构教堂学校_俄罗斯传统建筑__429adb5b73.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,01-04,8,,0.3048810660839081,images/historical_album/04/D274_沿线其他城市_宗教与教育建筑_公主岭石砌教堂学校_俄罗斯传统建筑 2__146f19040a.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,1,,0.2796681523323059,images/historical_album/03/D188_海拉尔_铁路服务与仓储建筑_扎兰屯站货栈与货车线__16d69ff597.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,2,,0.268808364868164,images/historical_album/03/D183_绥芬河_铁路服务与仓储建筑_边境站浴室__5dafeb60a7.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,3,,0.232875570654869,images/historical_album/03/D406_大连（沿线其他城市）_行政办公与公共建筑_大连大型公共建筑(3)__折衷主义_俄罗斯铁路建筑__5b19cf4114.jpg,1,curated after visual QA; main-text Figure 6
+multilineage_case,historical,,,03-05,4,,0.2317245900630951,images/historical_album/03/D091_沿线其他城市_临时工业建筑与机车设施_海参崴机车组装工场全景(2)__24698c444d.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,5,,0.2219675928354263,images/historical_album/03/D186_沿线其他城市_铁路服务与仓储建筑_东线铁路服务办公房__f9a6f0d368.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,6,,0.2207704931497573,images/historical_album/03/D469_大连（沿线其他城市）_铁路与交通设施_大连湾铁路与仓库(1)__俄罗斯铁路建筑_折衷主义__3a971030d4.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,7,,0.2139833867549896,images/historical_album/03/D109_海拉尔_车站与附属建筑_海拉尔站站长办公房(1)(3)__7db32771a7.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-05,8,,0.2120795398950576,images/historical_album/03/D101_沿线其他城市_桥梁构件制造与运输_列车运输组装桥梁桁架__2d26097a9c.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,1,,0.1990014314651489,images/historical_album/09/D412_大连（沿线其他城市）_行政办公与公共建筑_大连公共机构建筑(3)__古典主义新古典_折衷主义__23e5c0b348.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,2,,0.1933788657188415,images/historical_album/09/D319_哈尔滨_商业与服务建筑_新哈尔滨银行或金融机构建筑_古典主义-新古典__1871c3247b.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,3,,0.1925292611122131,images/historical_album/05/D327_哈尔滨_私人住宅与街区_新哈尔滨私人住宅_折衷主义__626e535bee.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,4,,0.1915016323328018,images/historical_album/09/D322_哈尔滨_商业与服务建筑_新哈尔滨临街商号二_折衷主义__19b3b02556.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,5,,0.181253582239151,images/historical_album/09/D325_哈尔滨_私人住宅与街区_新哈尔滨住宅一_古典主义-新古典__f8e296f41a.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,6,,0.1610125750303268,images/historical_album/05/D324_哈尔滨_商业与服务建筑_新哈尔滨单层商店_折衷主义__d5fd6ab516.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,7,,0.1530193388462066,images/historical_album/05/D532_旅顺（沿线其他城市）_行政办公与公共建筑_旅顺行政区与总督官邸__古典主义新古典_折衷主义__867a30e358.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,05-09,8,,0.1465223580598831,images/historical_album/09/D408_大连（沿线其他城市）_私人住宅与街区_大连职员住宅一(4)__折衷主义_古典主义新古典__5fb6c9d59a.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,1,,0.1881770193576812,images/historical_album/03/D459_大连（沿线其他城市）_仓储与物流建筑_大连港木材仓库与铁路__俄罗斯铁路建筑_早期现代主义__420477cd23.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,2,,0.1651569008827209,images/historical_album/12/D223_沿线其他城市_铁路车辆与车厢_三等客车外观_早期现代主义__c9f8b08482.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,3,,0.1298892945051193,images/historical_album/03/D231_沿线其他城市_航运与船舶_客轮步行甲板_早期现代主义__ba1fb06cba.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,4,,0.1259154379367828,images/historical_album/12/D474_大连（沿线其他城市）_仓储与物流建筑_大连湾码头堆场(1)__早期现代主义_俄罗斯铁路建筑__b300736e05.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,5,,0.1201890558004379,images/historical_album/11/D466_大连（沿线其他城市）_工业与维修建筑_大连港石灰烧制厂(1)__早期现代主义_俄罗斯铁路建筑__4f5ed99d5c.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,6,,0.1122797057032585,images/historical_album/03/D250_沿线其他城市_煤矿与工业建筑_烟台煤矿工业厂房_早期现代主义__d2fb63b589.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,7,,0.1100004166364669,images/historical_album/12/D267_满洲里_煤矿与工业建筑_扎赉诺尔煤矿仓储与矿井房_早期现代主义__5d780d8586.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-12,8,,0.0970660597085952,images/historical_album/12/D229_沿线其他城市_航运与船舶_客轮下层甲板_早期现代主义__2e1214ffa8.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,1,,0.0979807674884796,images/historical_album/12/D451_大连（沿线其他城市）_港口与航运设施_大连港闸门控制设施__早期现代主义__d0e3011d67.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,2,,0.0952373594045639,images/historical_album/11/D457_大连（沿线其他城市）_港口与航运设施_大连港船坞基坑与砌体__早期现代主义__d157560730.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,3,,0.0859015434980392,images/historical_album/11/D466_大连（沿线其他城市）_工业与维修建筑_大连港石灰烧制厂(1)__早期现代主义_俄罗斯铁路建筑__4f5ed99d5c.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,4,,0.0762493833899498,images/historical_album/12/D474_大连（沿线其他城市）_仓储与物流建筑_大连湾码头堆场(1)__早期现代主义_俄罗斯铁路建筑__b300736e05.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,5,,0.0744991824030876,images/historical_album/12/D447_大连（沿线其他城市）_港口与航运设施_大连港船坞闸门__早期现代主义__a5f5b7b9aa.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,6,,0.0697605088353157,images/historical_album/12/D458_大连（沿线其他城市）_工业与维修建筑_大连港维修厂房施工__早期现代主义_俄罗斯铁路建筑__117cc3f1c2.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,7,,0.0663491860032081,images/historical_album/03/D459_大连（沿线其他城市）_仓储与物流建筑_大连港木材仓库与铁路__俄罗斯铁路建筑_早期现代主义__420477cd23.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,11-12,8,,0.0498107858002185,images/historical_album/12/D461_大连（沿线其他城市）_工业与维修建筑_大连港大型维修厂房内部__早期现代主义__7a060f7c71.jpg,0,not selected for main-text photo panels
+multilineage_case,historical,,,03-10,1,,0.095025710761547,images/historical_album/03/D212_满洲里_工业建筑_拱券窗机务车间立面_俄罗斯铁路建筑__89d090d3d2.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,1,,0.2283469438552856,images/field_photographs/01/昂昂溪5__41e165ef24.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,2,,0.2182540297508239,images/field_photographs/01/扎兰屯4__6053080e15.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,3,,0.2141604274511337,images/field_photographs/01/横河道子3__ad4e1148e9.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,4,,0.1945639550685882,images/field_photographs/01/横河道子2__aaec4fe21f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,5,,0.1940911412239074,images/field_photographs/01/昂昂溪2__e17026b90c.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,6,,0.191807672381401,images/field_photographs/01/德惠2__21b28a3530.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,7,,0.1819705367088318,images/field_photographs/01/德惠1__46456c7834.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,02-04,8,,0.1818539798259735,images/field_photographs/01/横河道子1__108e7cd32f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,1,,0.2570605874061584,images/field_photographs/07/IMG_7593__6bc309841a.jpg,1,curated after visual QA; main-text Figure 6
+multilineage_case,field,,,07-08,2,,0.2391998618841171,images/field_photographs/07/IMG_7592__5fa9cd0a7f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,3,,0.2341853678226471,images/field_photographs/07/截屏2026-07-01 15.18.39__f41953d871.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,4,,0.2324163913726806,images/field_photographs/07/黑龙江省博物馆__fc52cf1dce.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,5,,0.2196873724460601,images/field_photographs/07/IMG_7599__e46b17fd72.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,6,,0.2001391798257827,images/field_photographs/07/IMG_7604__cbd7cab964.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,7,,0.1857396513223648,images/field_photographs/07/IMG_7594__cd68290cdf.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,07-08,8,,0.1815188527107238,images/field_photographs/07/IMG_7603__7f4a1087d5.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,1,,0.2515359818935394,images/field_photographs/01/昂昂溪5__41e165ef24.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,2,,0.2359409630298614,images/field_photographs/01/横河道子3__ad4e1148e9.jpg,1,curated after visual QA; main-text Figure 6
+multilineage_case,field,,,01-02,3,,0.2307892739772796,images/field_photographs/01/横河道子2__aaec4fe21f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,4,,0.2265268564224243,images/field_photographs/01/扎兰屯4__6053080e15.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,5,,0.2132044434547424,images/field_photographs/01/昂昂溪2__e17026b90c.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,6,,0.2015731632709503,images/field_photographs/01/横河道子1__108e7cd32f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,7,,0.1972613930702209,images/field_photographs/01/德惠2__21b28a3530.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-02,8,,0.1954264044761657,images/field_photographs/01/德惠1__46456c7834.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,1,,0.2867262959480285,images/field_photographs/01/扎兰屯4__6053080e15.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,2,,0.2296445518732071,images/field_photographs/01/横河道子3__ad4e1148e9.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,3,,0.2252223342657089,images/field_photographs/01/横河道子1__108e7cd32f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,4,,0.2179962992668151,images/field_photographs/01/德惠2__21b28a3530.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,5,,0.2123478651046753,images/field_photographs/01/德惠1__46456c7834.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,6,,0.2093152552843094,images/field_photographs/01/德惠4__d5a3f11f93.jpg,1,curated after visual QA; supplementary reserve
+multilineage_case,field,,,01-04,7,,0.2062167823314666,images/field_photographs/01/横河道子2__aaec4fe21f.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,01-04,8,,0.1563881933689117,images/field_photographs/01/德惠3__9abb4552dd.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,1,,0.2575135231018066,images/field_photographs/03/img_binsui_90_1774446385_44cc1356(1)__俄罗斯铁路建筑_早期现代主义__a1f0755433.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,2,,0.2280560731887817,images/field_photographs/03/一间堡3__3548aef7bb.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,3,,0.2014224231243133,images/field_photographs/03/一间堡2__4664a67e04.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,4,,0.1875887364149093,images/field_photographs/03/东香坊站2__80d4ce2421.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,5,,0.1846303045749664,images/field_photographs/03/东香坊站__2585e30d92.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,6,,0.1792941838502884,images/field_photographs/03/IMG_7784__a6156e944b.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,7,,0.1720310151576995,images/field_photographs/03/一间堡1__83deec83a3.jpg,0,not selected for main-text photo panels
+multilineage_case,field,,,03-05,8,,0.1677169203758239,images/field_photographs/03/IMG_7785__534b83abb5.jpg,0,not selected for main-text photo panels
+lineage_representative,field,3.0,Russian Railway,,15,0.2363744378089904,,images/field_photographs/03/IMG_7782__fea98dc9fb.jpg,1,architecture-aware override; curated after visual QA; 03 architectural exemplar; field Rank 15
+lineage_representative,reference,8.0,Chinese Baroque,,2,0.5106040835380554,,images/expanded_reference/08/08_CBA_0205_openverse_7eacac9f__c3c95c9eb1.jpg,1,architecture-aware override; curated after visual QA; 08 Reference exemplar; architecture-aware Rank 2
+lineage_representative,historical,8.0,Chinese Baroque,,3,0.498509407043457,,images/historical_album/08/D1043_海城（沿线其他城市）_宗教与纪念建筑_海城老爷庙钟楼或角楼__中国传统宗教建筑_现有分类外_中国传统庙宇钟楼或角楼_现有分类外__23f303c28b.jpg,1,architecture-aware override; curated after visual QA; 08 Historical exemplar; architecture-aware Rank 3
+lineage_representative,field,8.0,Chinese Baroque,,1,0.4416737556457519,,images/field_photographs/07/IMG_7593__6bc309841a.jpg,1,architecture-aware override; curated after visual QA; 08 Field exemplar; architecture-aware Rank 1

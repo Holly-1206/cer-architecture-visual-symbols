@@ -1,0 +1,40 @@
+{
+  "model": "dinov2_vitb14",
+  "image_size": 518,
+  "reference_n": 2027,
+  "historical_n": 1044,
+  "field_n": 1187,
+  "embedding_dim": 768,
+  "prototype_historical": {
+    "macro_AUROC": 0.7300621827594593,
+    "mAP": 0.31110465371568663,
+    "LRAP": 0.5305590033531189,
+    "ranking_loss": 0.29583204329372914,
+    "coverage_error": 4.727011494252873
+  },
+  "prototype_field": {
+    "macro_AUROC": 0.6627064049679073,
+    "mAP": 0.2446921314841206,
+    "LRAP": 0.4337089955806732,
+    "ranking_loss": 0.308202585387716,
+    "coverage_error": 4.982308340353833
+  },
+  "linear_probe_historical": {
+    "macro_AUROC": 0.638991263609996,
+    "mAP": 0.15968460453323588,
+    "LRAP": 0.46131852529122486,
+    "ranking_loss": 0.39157281628546,
+    "coverage_error": 5.8630268199233715
+  },
+  "linear_probe_field": {
+    "macro_AUROC": 0.5858624042757345,
+    "mAP": 0.16495955821335487,
+    "LRAP": 0.481710853267298,
+    "ranking_loss": 0.306900584048857,
+    "coverage_error": 5.029486099410278
+  },
+  "pca_explained_variance_ratio": [
+    0.05399460718035698,
+    0.04408565163612366
+  ]
+}

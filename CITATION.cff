@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this data and code, please cite it as below."
+title: "Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine — data and code"
+abstract: >-
+  Code, LabelMe annotations and derived results for the article "Shared Elements,
+  Different Wholes: Reading the Architecture of the Chinese Eastern Railway across
+  Album, Field and Machine". The repository reproduces every statistic reported in
+  the article and its Supplementary Materials. Images are not distributed.
+type: software
+authors:
+  - family-names: "Lei"
+    given-names: "Hao"
+    orcid: "https://orcid.org/0009-0001-9844-2338"
+    affiliation: "School of Architecture and Design, Harbin Institute of Technology, Harbin 150001, China; Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology, Harbin 150001, China"
+version: 1.0.0
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/Holly-1206/cer-architecture-visual-symbols"
+keywords:
+  - "Chinese Eastern Railway"
+  - "architectural heritage"
+  - "visual semiology"
+  - "architectural style classification"
+  - "LabelMe annotation"
+  - "cross-domain transfer"
+  - "reproducibility"

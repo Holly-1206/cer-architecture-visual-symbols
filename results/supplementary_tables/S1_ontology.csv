@@ -1,0 +1,85 @@
+﻿Family,A–E code,Semantic code,Chinese element,English label,Visual cue,Cultural/style meaning,Observed instances,Ontology status,instances_analytical,images_analytical
+A,A1,ROOF_ONION_DOME,洋葱顶,onion dome,顶部呈 bulb/葱头形，下收上鼓，常带十字架,俄罗斯东正教、拜占庭影响,1281,Core ontology,997,390
+A,A2,ROOF_TENT,帐篷顶,tent roof,高耸陡峭锥形或多坡尖顶,俄罗斯传统木构、寒地防雪,779,Core ontology,619,337
+A,A3,ROOF_GABLE,双坡屋顶,gable roof,两面坡、人字形山墙,俄式民居、铁路站房、仓库,2648,Core ontology,2144,1077
+A,A4,ROOF_HIPPED,四坡屋顶,hipped roof,四面坡屋顶，体量稳定,公共建筑、住宅,448,Core ontology,380,291
+A,A5,ROOF_MULTI_SLOPE,复折坡屋顶,multi-slope roof,多层折线、屋面转折丰富,折衷主义、俄式铁路建筑,670,Core ontology,477,371
+A,A6,ROOF_METAL_SHEET,铁皮屋面,metal sheet roof,表面平整、反光、常为绿色/灰色,俄式木屋、寒地建筑,291,Core ontology,199,136
+A,A7,ROOF_DORMER,老虎窗/屋顶小窗,dormer,屋顶突出小窗,欧式住宅、阁楼通风采光,567,Core ontology,436,184
+A,A8,ROOF_FLAT,平屋顶,flat roof,水平屋顶或女儿墙遮挡屋顶,现代主义、后期工业建筑,1035,Core ontology,981,488
+A,A9,ROOF_PARAPET,女儿墙,parapet,屋顶边缘竖起矮墙，常有装饰,巴洛克、中华巴洛克、Art Deco,173,Core ontology,140,94
+A,A10,ROOF_CROSS,十字架,orthodox cross,屋顶或穹顶上方十字,教堂识别强特征,836,Core ontology,602,201
+A,A11,ROOF_CHIMNEY,烟囱,chimney,屋顶突出砖/金属烟囱,寒地采暖、俄式住宅,1201,Core ontology,914,479
+A,A12,ROOF_EAVE_OVERHANG,出檐/挑檐,overhanging eaves,屋檐伸出墙面，防雪防雨,木构民居、铁路住宅,943,Core ontology,835,495
+B,B1,WIN_SEMICIRCULAR_ARCH,半圆拱券窗,semicircular arched window,窗顶为半圆拱,俄式铁路建筑、拜占庭、折衷主义,2723,Core ontology,1886,441
+B,B2,WIN_SEGMENTAL_ARCH,弧形拱窗,segmental arch window,窗顶为浅弧，不到半圆,住宅、站房、仓库,1437,Core ontology,1232,309
+B,B3,WIN_POINTED_ARCH,尖拱窗,pointed arch window,两弧交汇成尖顶,哥特式、教堂,626,Core ontology,549,134
+B,B4,WIN_RECTANGULAR,矩形窗,rectangular window,窗洞规整矩形,现代主义、铁路附属建筑,9423,Core ontology,7362,1389
+B,B5,WIN_PAIRED,双联窗,paired window,两窗并列，中间有细柱或墙垛,住宅、公共建筑,214,Core ontology,149,45
+B,B6,WIN_TRIPLE,三联窗,tripartite window,三个窗洞组合,公共建筑、折衷主义,296,Core ontology,199,72
+B,B7,WIN_BAY,凸窗/飘窗,bay window,窗体向外突出,商业建筑、住宅,124,Core ontology,117,49
+B,B8,WIN_SMALL_VENT,小气窗,small ventilation casement,大窗内嵌小开启扇,哈尔滨寒地生活方式特征,187,Core ontology,161,107
+B,B9,WIN_GRID,格子窗,grid window,多小格窗扇，如24格窗,中华巴洛克、木构建筑,1549,Core ontology,805,300
+B,B10,WIN_SURROUND,窗套/窗贴脸,window surround,窗洞外有凸起边框,俄式住宅、铁路建筑,2765,Core ontology,1666,279
+B,B11,WIN_KEYSTONE,拱心石,keystone,拱券顶部中心石块/装饰块,西式拱券系统,18,Core ontology,12,6
+B,B12,WIN_SILL,窗台线,window sill,窗下水平凸线或石材窗台,欧式立面常见,424,Core ontology,229,75
+B,B13,DOOR_ARCH,拱券门,arched doorway,门洞为半圆或弧形拱,站房、教堂、中华巴洛克,815,Core ontology,629,355
+B,B14,DOOR_PORCH,门斗/入口门廊,entrance porch,主入口前有突出小体量、台阶,寒地建筑、防风防雪,317,Core ontology,236,212
+B,B15,DOOR_STEPS,台阶,entrance steps,入口前石阶或砖阶,中式/西式均有，需结合风格判断,458,Core ontology,366,334
+B,B16,DOOR_FANLIGHT,门上亮窗,fanlight,门上方半圆/矩形透光窗,欧式公共建筑,81,Core ontology,63,43
+C,C1,MAT_RED_BRICK,红砖墙,red brick wall,红色砖面裸露,工业建筑、住宅、站房,534,Core ontology,419,286
+C,C2,MAT_YELLOW_BRICK,黄砖墙,yellow brick wall,黄色或米黄色砖面,中东铁路站房、邮政/办公小楼,428,Core ontology,330,216
+C,C3,MAT_BRICK_PAINT,砖墙+涂料,brick wall with paint,砖基底上覆暖色涂料,早期代表建筑、公共建筑,185,Core ontology,164,109
+C,C4,MAT_CEMENT_PLASTER,水泥抹灰,cement plaster,灰白/浅色平整墙面，可塑装饰,折衷主义、巴洛克、新艺术,758,Core ontology,555,384
+C,C5,MAT_STONE_BASE,石勒脚,stone plinth,墙脚部位石材基座,公共建筑、桥梁、站房,302,Core ontology,235,169
+C,C6,MAT_STONE_VENEER,石材贴面,stone veneer,外墙石材饰面,高等级建筑,332,Core ontology,289,199
+C,C7,MAT_TIMBER_LOG,井干式原木墙,log wall,圆木/方木横向叠置咬合,俄式木构建筑,96,Core ontology,59,38
+C,C8,MAT_VERTICAL_WOOD,木板墙,timber board wall,竖向或横向木板拼接,俄式民居,321,Core ontology,268,171
+C,C9,MAT_RUSTICATION,粗面石/仿石砌块,rustication,表面粗糙、块面凸出,古典主义、折衷主义,197,Core ontology,149,92
+C,C10,MAT_QUOIN,隅石/转角石,quoin,建筑转角处凸出石/砖块,俄式、古典、桥梁建筑,259,Core ontology,217,104
+C,C11,STRUCT_BRICK_WOOD,砖木结构,brick-wood structure,砖墙+木屋架/木楼板,中东铁路住宅、公建常见,34,Core ontology,31,23
+C,C12,STRUCT_WOOD,木结构,timber structure,主要墙体和屋架为木材,横道河子木教堂、木屋,664,Core ontology,476,215
+C,C13,STRUCT_BRICK_STONE,砖石结构,brick-stone structure,石墙与砖洞口/转角组合,桥梁、站房、兵营,537,Core ontology,477,319
+C,C14,STRUCT_BRICK_CONCRETE,砖混结构,brick-concrete structure,砖墙+混凝土构件,后期公共建筑,210,Core ontology,132,72
+C,C15,STRUCT_STEEL_TRUSS,钢桁架,steel truss,三角形钢构件连续组合,桥梁、厂房、机车库,600,Core ontology,436,196
+C,C16,STRUCT_CONCRETE_ARCH,混凝土拱券屋面,concrete arch roof,连续拱形屋面或大跨拱,机车库、碉堡类建筑,149,Core ontology,83,47
+C,C17,STRUCT_WAVE_ARCH,波形拱板,corrugated arch slab,连续小拱板，多用于屋顶/地下室,工业技术特征,2,Core ontology,1,1
+C,C18,WALL_BRICK_BOND,砖砌纹理,brick bond pattern,顺丁砖交替、三顺一丁等,可用于细粒度砌筑识别,328,Core ontology,265,175
+C,C19,WALL_INTERLOCK,砖石咬合,brick-stone interlock,砖洞口与石墙交错咬合,结构与装饰统一特征,21,Core ontology,20,13
+C,C20,WALL_PILASTER,壁柱,pilaster,贴墙竖向柱形装饰,古典、折衷、巴洛克,2501,Core ontology,1817,424
+D,D1,DEC_CORNICE,檐口线脚,cornice,屋顶下方水平装饰带,西式古典/折衷主义,1162,Core ontology,918,572
+D,D2,DEC_WHITE_BAND,白色装饰线条,white plaster band,墙面白色横线、窗边线,俄式铁路建筑、折衷主义,379,Core ontology,201,102
+D,D3,DEC_PEDIMENT_TRI,三角山花,triangular pediment,门窗或屋顶上方三角形构件,古典主义,428,Core ontology,297,181
+D,D4,DEC_PEDIMENT_CURVE,曲线山花,curved pediment,曲线或断裂式山花,巴洛克,104,Core ontology,95,44
+D,D5,DEC_VOLUTE,涡卷纹,volute,卷草状、旋涡状装饰,巴洛克、新艺术,155,Core ontology,131,71
+D,D6,DEC_FLORAL_RELIEF,植物浮雕,floral relief,花卉、枝蔓、叶片浮雕,巴洛克、新艺术、中华巴洛克,773,Core ontology,644,243
+D,D7,DEC_ART_NOUVEAU_CURVE,新艺术曲线,Art Nouveau curve,柔性曲线、植物茎蔓感,新艺术运动,58,Core ontology,33,22
+D,D8,DEC_RUS_WOOD_LACE,俄式木雕花边,Russian wooden lace,木窗套、檐口雕花、镂空板,俄式木构民居,128,Core ontology,104,46
+D,D9,DEC_COLOR_TRIM,彩色饰件,colored trim,门窗边框、檐口彩色木饰,横道河子木屋,240,Core ontology,146,82
+D,D10,DEC_CHN_CLOUD,祥云纹,cloud motif,云形浮雕/彩绘,中式吉祥符号,88,Core ontology,87,36
+D,D11,DEC_CHN_HUI,回纹,key-fret pattern,方折连续纹样,中华巴洛克、中式装饰,221,Core ontology,147,85
+D,D12,DEC_CHN_BAT,蝙蝠纹,bat motif,蝙蝠形浮雕,“福”文化象征,18,Core ontology,16,8
+D,D13,DEC_CHN_POMEGRANATE,石榴纹,pomegranate motif,石榴果实或籽状图案,多子多福,2,Core ontology,1,1
+D,D14,DEC_CHN_GRAPE,葡萄纹,grape motif,成串葡萄浮雕,多子、丰收,1,Core ontology,1,1
+D,D15,DEC_CHN_PEONY,牡丹纹,peony motif,牡丹花浮雕,富贵吉祥,4,Core ontology,4,4
+D,D16,DEC_CHN_KNOT,中国结,Chinese knot motif,结状装饰,吉祥、团结,0,Core ontology,0,0
+D,D17,DEC_CHN_COIN,铜钱纹,coin motif,圆形方孔钱图案,财富、财源,15,Core ontology,15,6
+D,D18,DEC_DOUGONG,斗拱,dougong bracket,柱头或檐下层叠托架,中式传统构件，中华巴洛克可出现,142,Core ontology,130,73
+D,D19,DEC_BALUSTRADE,栏杆,balustrade,阳台、台阶、屋顶栏杆,中西均有，需看造型,949,Core ontology,790,513
+D,D20,DEC_IRONWORK,铁艺栏杆/门,ironwork,黑色铁艺、曲线花纹,欧式庭院、教堂、住宅,473,Core ontology,350,226
+D,D21,DEC_PLAQUE,牌匾/俄文铭牌,plaque/signboard,门楣上文字牌、俄文标识,历史身份信息,737,Core ontology,589,468
+E,E1,RAIL_STATION_CANOPY,站台雨棚,station canopy,站台上方长条形棚架,火车站,168,Core ontology,126,66
+E,E2,RAIL_PLATFORM,站台,platform,轨道旁高出地面的长平台,火车站,136,Core ontology,106,97
+E,E3,RAIL_TRACK,铁轨,railway track,平行钢轨与枕木,铁路景观,873,Core ontology,666,411
+E,E4,RAIL_ROUNDHOUSE,扇形机车库,roundhouse,弧形排列车库门、扇形平面,横道河子机车库,24,Core ontology,24,17
+E,E5,RAIL_TURNTABLE,机车转盘,turntable,圆形坑/轨道旋转平台,机务段,5,Core ontology,5,4
+E,E6,RAIL_ENGINE_SHED_DOOR,机车库大门,engine shed bay door,高大连续拱门/矩形大门,机车库、车库,30,Core ontology,30,10
+E,E7,RAIL_WATER_TOWER,水塔,water tower,高耸塔体+水箱,车站附属设施,80,Core ontology,63,49
+E,E8,RAIL_WAREHOUSE_DOOR,仓库装卸门,warehouse loading door,大尺度门洞，靠近轨道,仓库、货运处,50,Core ontology,37,24
+E,E9,RAIL_CHIMNEY,工业烟囱,industrial chimney,高耸砖烟囱,厂房、锅炉房,65,Core ontology,40,27
+E,E10,RAIL_BRIDGE_TRUSS,钢桁架桥,steel truss bridge,大型三角钢梁体系,松花江铁路桥等,142,Core ontology,91,51
+E,E11,RAIL_STONE_ARCH_BRIDGE,石拱桥,stone arch bridge,石砌拱洞、拱心石,桥梁、涵洞,58,Core ontology,46,27
+E,E12,RAIL_TUNNEL_PORTAL,隧道洞门,tunnel portal,山体入口、石砌或混凝土立面,隧道,11,Core ontology,9,8
+E,E13,RAIL_CULVERT,涵洞,culvert,小型拱洞或矩形排水洞,铁路线下构筑物,3,Core ontology,3,3
+E,E14,RAIL_SIGNAL,铁路信号/灯柱,railway signal,信号灯、立杆、机械臂,铁路场景辅助识别,126,Core ontology,100,61
+E,E15,RAIL_FENCE,铁路围栏,railway fence,轨道边界围栏,铁路附属空间,132,Core ontology,100,86

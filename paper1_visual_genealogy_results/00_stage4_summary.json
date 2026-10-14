@@ -1,0 +1,43 @@
+{
+  "analysis_version": "FINAL_AD69_NO_VHI",
+  "seed": 20260917,
+  "permutations": 10000,
+  "dirichlet_alpha": 0.5,
+  "n_images_analyzed": 4258,
+  "domain_image_counts": {
+    "reference": 2027,
+    "field": 1187,
+    "historical": 1044
+  },
+  "canonical_reference_rule": "reference + single-lineage only",
+  "n_visual_lineages": 12,
+  "main_symbol_families": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "n_main_AD_symbols": 69,
+  "E_context_symbols": 15,
+  "E_context_role": "supplementary only; excluded from genealogy and continuity",
+  "VHI_status": "REMOVED",
+  "minimum_target_support_for_main_continuity_interpretation": 15,
+  "DINOv2_vs_AD_similarity_spearman": 0.33397348919736985,
+  "DINOv2_vs_AD_similarity_permutation_p": 0.0766923307669233,
+  "DINO_similarity_median": 0.27982354,
+  "AD_similarity_median": 0.7530989841972305,
+  "two_layer_region_counts": {
+    "Low–Low": 20,
+    "High–High": 20,
+    "Low vocabulary / High syntax": 13,
+    "High vocabulary / Low syntax": 13
+  },
+  "mean_AD_continuity_historical_adequate_support": 0.4305950624966539,
+  "mean_AD_continuity_field_adequate_support": 0.44955777674549907,
+  "output_notes": {
+    "02_to_06": "A-D main morphology only",
+    "07_and_11": "Observed multi-label co-occurrence",
+    "09": "A-D continuity = 1 - Jensen-Shannon distance",
+    "12_to_13": "E context supplementary only"
+  }
+}

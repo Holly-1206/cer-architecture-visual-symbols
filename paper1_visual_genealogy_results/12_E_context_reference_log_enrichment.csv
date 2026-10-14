@@ -1,0 +1,181 @@
+﻿style_id,style_name,style_name_en,symbol_code,symbol_family,analysis_role,raw_count,log_enrichment
+01,俄罗斯传统建筑,Russian Traditional,E1,E,supplementary_context_only,0,-0.5285895143723223
+01,俄罗斯传统建筑,Russian Traditional,E2,E,supplementary_context_only,0,-0.714306660167415
+01,俄罗斯传统建筑,Russian Traditional,E3,E,supplementary_context_only,0,-1.8462553691031163
+01,俄罗斯传统建筑,Russian Traditional,E4,E,supplementary_context_only,0,1.7537928713042041
+01,俄罗斯传统建筑,Russian Traditional,E5,E,supplementary_context_only,0,1.7537928713042041
+01,俄罗斯传统建筑,Russian Traditional,E6,E,supplementary_context_only,0,0.3187083460148815
+01,俄罗斯传统建筑,Russian Traditional,E7,E,supplementary_context_only,0,1.7537928713042041
+01,俄罗斯传统建筑,Russian Traditional,E8,E,supplementary_context_only,0,2.2646184950701946
+01,俄罗斯传统建筑,Russian Traditional,E9,E,supplementary_context_only,0,3.3632307837383046
+01,俄罗斯传统建筑,Russian Traditional,E10,E,supplementary_context_only,0,1.4173206346829912
+01,俄罗斯传统建筑,Russian Traditional,E11,E,supplementary_context_only,1,2.5159329233511007
+01,俄罗斯传统建筑,Russian Traditional,E12,E,supplementary_context_only,0,2.2646184950701946
+01,俄罗斯传统建筑,Russian Traditional,E13,E,supplementary_context_only,0,3.3632307837383046
+01,俄罗斯传统建筑,Russian Traditional,E14,E,supplementary_context_only,0,-1.3281170984908393
+01,俄罗斯传统建筑,Russian Traditional,E15,E,supplementary_context_only,0,-0.13327677772817573
+02,俄式木构民居,Russian Timber Dwelling,E1,E,supplementary_context_only,2,0.4800745376328481
+02,俄式木构民居,Russian Timber Dwelling,E2,E,supplementary_context_only,2,0.29435739183775517
+02,俄式木构民居,Russian Timber Dwelling,E3,E,supplementary_context_only,2,-0.8375913170979462
+02,俄式木构民居,Russian Timber Dwelling,E4,E,supplementary_context_only,0,1.1530190108752738
+02,俄式木构民居,Russian Timber Dwelling,E5,E,supplementary_context_only,0,1.1530190108752738
+02,俄式木构民居,Russian Timber Dwelling,E6,E,supplementary_context_only,0,-0.28206551441404865
+02,俄式木构民居,Russian Timber Dwelling,E7,E,supplementary_context_only,0,1.1530190108752738
+02,俄式木构民居,Russian Timber Dwelling,E8,E,supplementary_context_only,1,2.762456923309374
+02,俄式木构民居,Russian Timber Dwelling,E9,E,supplementary_context_only,0,2.7624569233093745
+02,俄式木构民居,Russian Timber Dwelling,E10,E,supplementary_context_only,0,0.8165467742540609
+02,俄式木构民居,Russian Timber Dwelling,E11,E,supplementary_context_only,0,0.8165467742540609
+02,俄式木构民居,Russian Timber Dwelling,E12,E,supplementary_context_only,0,1.6638446346412645
+02,俄式木构民居,Russian Timber Dwelling,E13,E,supplementary_context_only,0,2.7624569233093745
+02,俄式木构民居,Russian Timber Dwelling,E14,E,supplementary_context_only,1,-0.8302786702516597
+02,俄式木构民居,Russian Timber Dwelling,E15,E,supplementary_context_only,0,-0.7340506381571059
+03,俄罗斯铁路建筑,Russian Railway,E1,E,supplementary_context_only,18,-0.042882950701663515
+03,俄罗斯铁路建筑,Russian Railway,E2,E,supplementary_context_only,25,0.09230762358334522
+03,俄罗斯铁路建筑,Russian Railway,E3,E,supplementary_context_only,89,0.21591908776407295
+03,俄罗斯铁路建筑,Russian Railway,E4,E,supplementary_context_only,2,0.23801943476473875
+03,俄罗斯铁路建筑,Russian Railway,E5,E,supplementary_context_only,2,0.23801943476473875
+03,俄罗斯铁路建筑,Russian Railway,E6,E,supplementary_context_only,10,0.23801943476473875
+03,俄罗斯铁路建筑,Russian Railway,E7,E,supplementary_context_only,2,0.23801943476473875
+03,俄罗斯铁路建筑,Russian Railway,E8,E,supplementary_context_only,0,-0.8605928539033709
+03,俄罗斯铁路建筑,Russian Railway,E9,E,supplementary_context_only,0,0.2380194347647389
+03,俄罗斯铁路建筑,Russian Railway,E10,E,supplementary_context_only,3,0.23801943476473855
+03,俄罗斯铁路建筑,Russian Railway,E11,E,supplementary_context_only,0,-1.7078907142905746
+03,俄罗斯铁路建筑,Russian Railway,E12,E,supplementary_context_only,1,0.23801943476473875
+03,俄罗斯铁路建筑,Russian Railway,E13,E,supplementary_context_only,0,0.2380194347647389
+03,俄罗斯铁路建筑,Russian Railway,E14,E,supplementary_context_only,19,-0.7897668013347585
+03,俄罗斯铁路建筑,Russian Railway,E15,E,supplementary_context_only,15,0.17549907778340476
+04,拜占庭/东正教风格,Byzantine / Orthodox,E1,E,supplementary_context_only,0,-0.40342637141831617
+04,拜占庭/东正教风格,Byzantine / Orthodox,E2,E,supplementary_context_only,0,-0.5891435172134091
+04,拜占庭/东正教风格,Byzantine / Orthodox,E3,E,supplementary_context_only,0,-1.7210922261491104
+04,拜占庭/东正教风格,Byzantine / Orthodox,E4,E,supplementary_context_only,0,1.87895601425821
+04,拜占庭/东正教风格,Byzantine / Orthodox,E5,E,supplementary_context_only,0,1.87895601425821
+04,拜占庭/东正教风格,Byzantine / Orthodox,E6,E,supplementary_context_only,0,0.4438714889688875
+04,拜占庭/东正教风格,Byzantine / Orthodox,E7,E,supplementary_context_only,0,1.87895601425821
+04,拜占庭/东正教风格,Byzantine / Orthodox,E8,E,supplementary_context_only,0,2.3897816380242007
+04,拜占庭/东正教风格,Byzantine / Orthodox,E9,E,supplementary_context_only,0,3.4883939266923107
+04,拜占庭/东正教风格,Byzantine / Orthodox,E10,E,supplementary_context_only,0,1.542483777636997
+04,拜占庭/东正教风格,Byzantine / Orthodox,E11,E,supplementary_context_only,0,1.542483777636997
+04,拜占庭/东正教风格,Byzantine / Orthodox,E12,E,supplementary_context_only,0,2.3897816380242007
+04,拜占庭/东正教风格,Byzantine / Orthodox,E13,E,supplementary_context_only,0,3.4883939266923107
+04,拜占庭/东正教风格,Byzantine / Orthodox,E14,E,supplementary_context_only,0,-1.2029539555368332
+04,拜占庭/东正教风格,Byzantine / Orthodox,E15,E,supplementary_context_only,0,-0.008113634774169664
+05,折衷主义,Eclecticism,E1,E,supplementary_context_only,4,1.2060115410157843
+05,折衷主义,Eclecticism,E2,E,supplementary_context_only,2,0.43250773031857237
+05,折衷主义,Eclecticism,E3,E,supplementary_context_only,0,-2.3088788910512292
+05,折衷主义,Eclecticism,E4,E,supplementary_context_only,0,1.2911693493560912
+05,折衷主义,Eclecticism,E5,E,supplementary_context_only,0,1.2911693493560912
+05,折衷主义,Eclecticism,E6,E,supplementary_context_only,0,-0.14391517593323147
+05,折衷主义,Eclecticism,E7,E,supplementary_context_only,0,1.2911693493560912
+05,折衷主义,Eclecticism,E8,E,supplementary_context_only,0,1.8019949731220817
+05,折衷主义,Eclecticism,E9,E,supplementary_context_only,0,2.9006072617901917
+05,折衷主义,Eclecticism,E10,E,supplementary_context_only,0,0.9546971127348781
+05,折衷主义,Eclecticism,E11,E,supplementary_context_only,0,0.9546971127348781
+05,折衷主义,Eclecticism,E12,E,supplementary_context_only,0,1.8019949731220817
+05,折衷主义,Eclecticism,E13,E,supplementary_context_only,0,2.9006072617901917
+05,折衷主义,Eclecticism,E14,E,supplementary_context_only,0,-1.7907406204389522
+05,折衷主义,Eclecticism,E15,E,supplementary_context_only,0,-0.5959002996762889
+06,新艺术运动,Art Nouveau,E1,E,supplementary_context_only,0,-2.089825324988545
+06,新艺术运动,Art Nouveau,E2,E,supplementary_context_only,0,-2.2755424707836376
+06,新艺术运动,Art Nouveau,E3,E,supplementary_context_only,0,-3.4074911797193392
+06,新艺术运动,Art Nouveau,E4,E,supplementary_context_only,0,0.19255706068798126
+06,新艺术运动,Art Nouveau,E5,E,supplementary_context_only,0,0.19255706068798126
+06,新艺术运动,Art Nouveau,E6,E,supplementary_context_only,0,-1.2425274646013411
+06,新艺术运动,Art Nouveau,E7,E,supplementary_context_only,0,0.19255706068798126
+06,新艺术运动,Art Nouveau,E8,E,supplementary_context_only,0,0.703382684453972
+06,新艺术运动,Art Nouveau,E9,E,supplementary_context_only,0,1.801994973122082
+06,新艺术运动,Art Nouveau,E10,E,supplementary_context_only,0,-0.1439151759332316
+06,新艺术运动,Art Nouveau,E11,E,supplementary_context_only,2,1.465522736500869
+06,新艺术运动,Art Nouveau,E12,E,supplementary_context_only,0,0.703382684453972
+06,新艺术运动,Art Nouveau,E13,E,supplementary_context_only,0,1.801994973122082
+06,新艺术运动,Art Nouveau,E14,E,supplementary_context_only,30,1.2215209550662494
+06,新艺术运动,Art Nouveau,E15,E,supplementary_context_only,1,-0.5959002996762889
+07,巴洛克,Baroque,E1,E,supplementary_context_only,0,-0.6398151494825466
+07,巴洛克,Baroque,E2,E,supplementary_context_only,0,-0.8255322952776395
+07,巴洛克,Baroque,E3,E,supplementary_context_only,0,-1.9574810042133408
+07,巴洛克,Baroque,E4,E,supplementary_context_only,0,1.6425672361939796
+07,巴洛克,Baroque,E5,E,supplementary_context_only,0,1.6425672361939796
+07,巴洛克,Baroque,E6,E,supplementary_context_only,0,0.2074827109046571
+07,巴洛克,Baroque,E7,E,supplementary_context_only,0,1.6425672361939796
+07,巴洛克,Baroque,E8,E,supplementary_context_only,0,2.1533928599599705
+07,巴洛克,Baroque,E9,E,supplementary_context_only,0,3.25200514862808
+07,巴洛克,Baroque,E10,E,supplementary_context_only,0,1.3060949995727666
+07,巴洛克,Baroque,E11,E,supplementary_context_only,0,1.3060949995727666
+07,巴洛克,Baroque,E12,E,supplementary_context_only,0,2.1533928599599705
+07,巴洛克,Baroque,E13,E,supplementary_context_only,0,3.25200514862808
+07,巴洛克,Baroque,E14,E,supplementary_context_only,2,0.17009517883303668
+07,巴洛克,Baroque,E15,E,supplementary_context_only,0,-0.24450241283840018
+08,中华巴洛克,Chinese Baroque,E1,E,supplementary_context_only,0,-0.5285895143723223
+08,中华巴洛克,Chinese Baroque,E2,E,supplementary_context_only,0,-0.714306660167415
+08,中华巴洛克,Chinese Baroque,E3,E,supplementary_context_only,0,-1.8462553691031163
+08,中华巴洛克,Chinese Baroque,E4,E,supplementary_context_only,0,1.7537928713042041
+08,中华巴洛克,Chinese Baroque,E5,E,supplementary_context_only,0,1.7537928713042041
+08,中华巴洛克,Chinese Baroque,E6,E,supplementary_context_only,0,0.3187083460148815
+08,中华巴洛克,Chinese Baroque,E7,E,supplementary_context_only,0,1.7537928713042041
+08,中华巴洛克,Chinese Baroque,E8,E,supplementary_context_only,0,2.2646184950701946
+08,中华巴洛克,Chinese Baroque,E9,E,supplementary_context_only,0,3.3632307837383046
+08,中华巴洛克,Chinese Baroque,E10,E,supplementary_context_only,0,1.4173206346829912
+08,中华巴洛克,Chinese Baroque,E11,E,supplementary_context_only,0,1.4173206346829912
+08,中华巴洛克,Chinese Baroque,E12,E,supplementary_context_only,0,2.2646184950701946
+08,中华巴洛克,Chinese Baroque,E13,E,supplementary_context_only,0,3.3632307837383046
+08,中华巴洛克,Chinese Baroque,E14,E,supplementary_context_only,1,-0.22950480982272947
+08,中华巴洛克,Chinese Baroque,E15,E,supplementary_context_only,0,-0.13327677772817573
+09,古典主义/新古典,Classical / Neoclassical,E1,E,supplementary_context_only,0,-0.40342637141831617
+09,古典主义/新古典,Classical / Neoclassical,E2,E,supplementary_context_only,0,-0.5891435172134091
+09,古典主义/新古典,Classical / Neoclassical,E3,E,supplementary_context_only,0,-1.7210922261491104
+09,古典主义/新古典,Classical / Neoclassical,E4,E,supplementary_context_only,0,1.87895601425821
+09,古典主义/新古典,Classical / Neoclassical,E5,E,supplementary_context_only,0,1.87895601425821
+09,古典主义/新古典,Classical / Neoclassical,E6,E,supplementary_context_only,0,0.4438714889688875
+09,古典主义/新古典,Classical / Neoclassical,E7,E,supplementary_context_only,0,1.87895601425821
+09,古典主义/新古典,Classical / Neoclassical,E8,E,supplementary_context_only,0,2.3897816380242007
+09,古典主义/新古典,Classical / Neoclassical,E9,E,supplementary_context_only,0,3.4883939266923107
+09,古典主义/新古典,Classical / Neoclassical,E10,E,supplementary_context_only,0,1.542483777636997
+09,古典主义/新古典,Classical / Neoclassical,E11,E,supplementary_context_only,0,1.542483777636997
+09,古典主义/新古典,Classical / Neoclassical,E12,E,supplementary_context_only,0,2.3897816380242007
+09,古典主义/新古典,Classical / Neoclassical,E13,E,supplementary_context_only,0,3.4883939266923107
+09,古典主义/新古典,Classical / Neoclassical,E14,E,supplementary_context_only,0,-1.2029539555368332
+09,古典主义/新古典,Classical / Neoclassical,E15,E,supplementary_context_only,0,-0.008113634774169664
+10,哥特式,Gothic,E1,E,supplementary_context_only,0,-0.40342637141831617
+10,哥特式,Gothic,E2,E,supplementary_context_only,0,-0.5891435172134091
+10,哥特式,Gothic,E3,E,supplementary_context_only,0,-1.7210922261491104
+10,哥特式,Gothic,E4,E,supplementary_context_only,0,1.87895601425821
+10,哥特式,Gothic,E5,E,supplementary_context_only,0,1.87895601425821
+10,哥特式,Gothic,E6,E,supplementary_context_only,0,0.4438714889688875
+10,哥特式,Gothic,E7,E,supplementary_context_only,0,1.87895601425821
+10,哥特式,Gothic,E8,E,supplementary_context_only,0,2.3897816380242007
+10,哥特式,Gothic,E9,E,supplementary_context_only,0,3.4883939266923107
+10,哥特式,Gothic,E10,E,supplementary_context_only,0,1.542483777636997
+10,哥特式,Gothic,E11,E,supplementary_context_only,0,1.542483777636997
+10,哥特式,Gothic,E12,E,supplementary_context_only,0,2.3897816380242007
+10,哥特式,Gothic,E13,E,supplementary_context_only,0,3.4883939266923107
+10,哥特式,Gothic,E14,E,supplementary_context_only,0,-1.2029539555368332
+10,哥特式,Gothic,E15,E,supplementary_context_only,0,-0.008113634774169664
+11,装饰艺术,Art Deco,E1,E,supplementary_context_only,0,-0.40342637141831617
+11,装饰艺术,Art Deco,E2,E,supplementary_context_only,0,-0.5891435172134091
+11,装饰艺术,Art Deco,E3,E,supplementary_context_only,0,-1.7210922261491104
+11,装饰艺术,Art Deco,E4,E,supplementary_context_only,0,1.87895601425821
+11,装饰艺术,Art Deco,E5,E,supplementary_context_only,0,1.87895601425821
+11,装饰艺术,Art Deco,E6,E,supplementary_context_only,0,0.4438714889688875
+11,装饰艺术,Art Deco,E7,E,supplementary_context_only,0,1.87895601425821
+11,装饰艺术,Art Deco,E8,E,supplementary_context_only,0,2.3897816380242007
+11,装饰艺术,Art Deco,E9,E,supplementary_context_only,0,3.4883939266923107
+11,装饰艺术,Art Deco,E10,E,supplementary_context_only,0,1.542483777636997
+11,装饰艺术,Art Deco,E11,E,supplementary_context_only,0,1.542483777636997
+11,装饰艺术,Art Deco,E12,E,supplementary_context_only,0,2.3897816380242007
+11,装饰艺术,Art Deco,E13,E,supplementary_context_only,0,3.4883939266923107
+11,装饰艺术,Art Deco,E14,E,supplementary_context_only,0,-1.2029539555368332
+11,装饰艺术,Art Deco,E15,E,supplementary_context_only,0,-0.008113634774169664
+12,早期现代主义,Early Modernism,E1,E,supplementary_context_only,0,-0.5285895143723223
+12,早期现代主义,Early Modernism,E2,E,supplementary_context_only,0,-0.714306660167415
+12,早期现代主义,Early Modernism,E3,E,supplementary_context_only,0,-1.8462553691031163
+12,早期现代主义,Early Modernism,E4,E,supplementary_context_only,0,1.7537928713042041
+12,早期现代主义,Early Modernism,E5,E,supplementary_context_only,0,1.7537928713042041
+12,早期现代主义,Early Modernism,E6,E,supplementary_context_only,0,0.3187083460148815
+12,早期现代主义,Early Modernism,E7,E,supplementary_context_only,0,1.7537928713042041
+12,早期现代主义,Early Modernism,E8,E,supplementary_context_only,0,2.2646184950701946
+12,早期现代主义,Early Modernism,E9,E,supplementary_context_only,0,3.3632307837383046
+12,早期现代主义,Early Modernism,E10,E,supplementary_context_only,0,1.4173206346829912
+12,早期现代主义,Early Modernism,E11,E,supplementary_context_only,0,1.4173206346829912
+12,早期现代主义,Early Modernism,E12,E,supplementary_context_only,0,2.2646184950701946
+12,早期现代主义,Early Modernism,E13,E,supplementary_context_only,0,3.3632307837383046
+12,早期现代主义,Early Modernism,E14,E,supplementary_context_only,1,-0.22950480982272947
+12,早期现代主义,Early Modernism,E15,E,supplementary_context_only,0,-0.13327677772817573

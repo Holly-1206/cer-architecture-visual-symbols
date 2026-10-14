@@ -1,0 +1,13 @@
+﻿domain,family,family_name,n_symbols_in_family,shape_instances,AD_domain_total,proportion_within_AD,included_in_main_genealogy
+reference,A,Roof and upper-profile elements,12,4440,21276,0.2086858432036097,1
+reference,B,Openings,16,10743,21276,0.5049351381838691,1
+reference,C,Materials and structural elements,20,2892,21276,0.1359278059785674,1
+reference,D,Façade decoration and motifs,21,3201,21276,0.15045121263395375,1
+historical,A,Roof and upper-profile elements,12,2528,8214,0.3077672266861456,1
+historical,B,Openings,16,2623,8214,0.3193328463598734,1
+historical,C,Materials and structural elements,20,2286,8214,0.2783053323593864,1
+historical,D,Façade decoration and motifs,21,777,8214,0.0945945945945946,1
+field,A,Roof and upper-profile elements,12,1756,6017,0.29183978726940335,1
+field,B,Openings,16,2295,6017,0.3814193119494765,1
+field,C,Materials and structural elements,20,1245,6017,0.20691374439089247,1
+field,D,Façade decoration and motifs,21,721,6017,0.11982715639022769,1

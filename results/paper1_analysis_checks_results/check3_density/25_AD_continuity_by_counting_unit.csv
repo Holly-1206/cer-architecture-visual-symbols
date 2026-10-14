@@ -1,0 +1,73 @@
+﻿counting_unit,target_domain,style_id,style_name_en,n_target_positive,adequate_support,AD_continuity
+instance,historical,01,Russian Traditional,11,0,0.44286147759709626
+instance,historical,02,Russian Timber Dwelling,42,1,0.59479070163899
+instance,historical,03,Russian Railway,323,1,0.5145291372645941
+instance,historical,04,Byzantine / Orthodox,68,1,0.29784488784713037
+instance,historical,05,Eclecticism,146,1,0.5809992540118066
+instance,historical,06,Art Nouveau,12,0,0.47729310429415195
+instance,historical,07,Baroque,3,0,0.45695792624301634
+instance,historical,08,Chinese Baroque,296,1,0.30504503145369666
+instance,historical,09,Classical / Neoclassical,24,1,0.44653542836177884
+instance,historical,10,Gothic,8,0,0.3513395347823888
+instance,historical,11,Art Deco,29,1,0.326703424439012
+instance,historical,12,Early Modernism,304,1,0.3783126349562228
+instance,field,01,Russian Traditional,147,1,0.3826357264409368
+instance,field,02,Russian Timber Dwelling,89,1,0.538108758066504
+instance,field,03,Russian Railway,632,1,0.5086642007667781
+instance,field,04,Byzantine / Orthodox,86,1,0.4049290166882593
+instance,field,05,Eclecticism,172,1,0.6216089479609964
+instance,field,06,Art Nouveau,183,1,0.46160414983406495
+instance,field,07,Baroque,44,1,0.401940504950997
+instance,field,08,Chinese Baroque,27,1,0.45753961183610314
+instance,field,09,Classical / Neoclassical,83,1,0.41939967032312764
+instance,field,10,Gothic,12,0,0.2842573778704751
+instance,field,11,Art Deco,22,1,0.3755845216681293
+instance,field,12,Early Modernism,76,1,0.3731204356645921
+presence,historical,01,Russian Traditional,11,0,0.4743329546455112
+presence,historical,02,Russian Timber Dwelling,42,1,0.643013185118127
+presence,historical,03,Russian Railway,323,1,0.5200655745253864
+presence,historical,04,Byzantine / Orthodox,68,1,0.33525369479473244
+presence,historical,05,Eclecticism,146,1,0.6101788034736062
+presence,historical,06,Art Nouveau,12,0,0.5175806051593916
+presence,historical,07,Baroque,3,0,0.4118631014425769
+presence,historical,08,Chinese Baroque,296,1,0.3614835523679393
+presence,historical,09,Classical / Neoclassical,24,1,0.4557882585726055
+presence,historical,10,Gothic,8,0,0.4185956617324066
+presence,historical,11,Art Deco,29,1,0.35017626328748763
+presence,historical,12,Early Modernism,304,1,0.41294363842268433
+presence,field,01,Russian Traditional,147,1,0.4339973290106428
+presence,field,02,Russian Timber Dwelling,89,1,0.5380875463719493
+presence,field,03,Russian Railway,632,1,0.5036289190275383
+presence,field,04,Byzantine / Orthodox,86,1,0.44529617468234606
+presence,field,05,Eclecticism,172,1,0.5527312373742197
+presence,field,06,Art Nouveau,183,1,0.4632750043601265
+presence,field,07,Baroque,44,1,0.402720996326824
+presence,field,08,Chinese Baroque,27,1,0.5451967439882605
+presence,field,09,Classical / Neoclassical,83,1,0.4453514692819358
+presence,field,10,Gothic,12,0,0.43009729913882
+presence,field,11,Art Deco,22,1,0.4467956178219513
+presence,field,12,Early Modernism,76,1,0.4379494896752093
+image_normalised,historical,01,Russian Traditional,11,0,0.6040436375515775
+image_normalised,historical,02,Russian Timber Dwelling,42,1,0.6995146545525857
+image_normalised,historical,03,Russian Railway,323,1,0.5139743172968703
+image_normalised,historical,04,Byzantine / Orthodox,68,1,0.38242858105615585
+image_normalised,historical,05,Eclecticism,146,1,0.6228371772067507
+image_normalised,historical,06,Art Nouveau,12,0,0.5729202618914844
+image_normalised,historical,07,Baroque,3,0,0.4441432630940767
+image_normalised,historical,08,Chinese Baroque,296,1,0.40724560060350723
+image_normalised,historical,09,Classical / Neoclassical,24,1,0.5685720073471855
+image_normalised,historical,10,Gothic,8,0,0.4983264718223419
+image_normalised,historical,11,Art Deco,29,1,0.394407436461527
+image_normalised,historical,12,Early Modernism,304,1,0.4148489282771274
+image_normalised,field,01,Russian Traditional,147,1,0.5086740700357142
+image_normalised,field,02,Russian Timber Dwelling,89,1,0.646879426527406
+image_normalised,field,03,Russian Railway,632,1,0.49342766185510645
+image_normalised,field,04,Byzantine / Orthodox,86,1,0.4912810177968808
+image_normalised,field,05,Eclecticism,172,1,0.6499252945143885
+image_normalised,field,06,Art Nouveau,183,1,0.5111872284699674
+image_normalised,field,07,Baroque,44,1,0.4913391002667655
+image_normalised,field,08,Chinese Baroque,27,1,0.6030665670159303
+image_normalised,field,09,Classical / Neoclassical,83,1,0.5187102832242791
+image_normalised,field,10,Gothic,12,0,0.4638232831688438
+image_normalised,field,11,Art Deco,22,1,0.4755814880250273
+image_normalised,field,12,Early Modernism,76,1,0.46255469553646555

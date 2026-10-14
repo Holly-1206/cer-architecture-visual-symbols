@@ -1,0 +1,141 @@
+﻿label,shape_instances,annotated_images,source_count,style_count,sources,styles,shape_types,raw_variants
+B4,9174,1755,3,12,expanded_reference:5614 | field_photographs:1440 | historical_album:2120,01 俄罗斯传统建筑:647 | 02 俄式木构民居:556 | 03 俄罗斯铁路建筑:1799 | 04 拜占庭/东正教风格:708 | 05 折衷主义:1327 | 06 新艺术运动:863 | 07 巴洛克:582 | 08 中华巴洛克:233 | 09 古典主义/新古典:471 | 10 哥特式:122 | 11 装饰艺术:793 | 12 早期现代主义:1073,linestrip:214 | oriented_rectangle:200 | polygon:3649 | rectangle:5111,'B4':9174
+B1,2723,633,3,12,expanded_reference:1722 | field_photographs:940 | historical_album:61,01 俄罗斯传统建筑:637 | 02 俄式木构民居:78 | 03 俄罗斯铁路建筑:406 | 04 拜占庭/东正教风格:682 | 05 折衷主义:340 | 06 新艺术运动:433 | 07 巴洛克:23 | 08 中华巴洛克:2 | 09 古典主义/新古典:35 | 10 哥特式:46 | 11 装饰艺术:6 | 12 早期现代主义:35,linestrip:182 | oriented_rectangle:27 | polygon:1851 | rectangle:663,'B1':2723
+B10,2703,402,3,10,expanded_reference:1578 | field_photographs:710 | historical_album:415,01 俄罗斯传统建筑:150 | 02 俄式木构民居:202 | 03 俄罗斯铁路建筑:364 | 04 拜占庭/东正教风格:866 | 05 折衷主义:349 | 06 新艺术运动:669 | 07 巴洛克:20 | 09 古典主义/新古典:39 | 11 装饰艺术:3 | 12 早期现代主义:41,oriented_rectangle:11 | polygon:2288 | rectangle:404,'B10':2703
+A3,2629,1342,3,12,expanded_reference:518 | field_photographs:591 | historical_album:1520,01 俄罗斯传统建筑:132 | 02 俄式木构民居:166 | 03 俄罗斯铁路建筑:937 | 04 拜占庭/东正教风格:155 | 05 折衷主义:249 | 06 新艺术运动:76 | 07 巴洛克:58 | 08 中华巴洛克:320 | 09 古典主义/新古典:29 | 10 哥特式:77 | 11 装饰艺术:41 | 12 早期现代主义:389,line:5 | linestrip:265 | oriented_rectangle:26 | points:1 | polygon:1695 | rectangle:637,'A3':2629
+C20,2435,544,3,12,expanded_reference:1522 | field_photographs:567 | historical_album:346,01 俄罗斯传统建筑:400 | 02 俄式木构民居:87 | 03 俄罗斯铁路建筑:302 | 04 拜占庭/东正教风格:472 | 05 折衷主义:338 | 06 新艺术运动:363 | 07 巴洛克:144 | 08 中华巴洛克:33 | 09 古典主义/新古典:96 | 10 哥特式:29 | 11 装饰艺术:54 | 12 早期现代主义:117,linestrip:12 | oriented_rectangle:141 | polygon:1157 | rectangle:1125,'C20':2435
+B9,1549,460,3,12,expanded_reference:303 | field_photographs:984 | historical_album:262,01 俄罗斯传统建筑:50 | 02 俄式木构民居:202 | 03 俄罗斯铁路建筑:227 | 04 拜占庭/东正教风格:74 | 05 折衷主义:144 | 06 新艺术运动:548 | 07 巴洛克:62 | 08 中华巴洛克:126 | 09 古典主义/新古典:4 | 10 哥特式:1 | 11 装饰艺术:25 | 12 早期现代主义:86,polygon:1026 | rectangle:523,'B9':1549
+B2,1437,349,3,12,expanded_reference:1234 | field_photographs:58 | historical_album:145,01 俄罗斯传统建筑:151 | 02 俄式木构民居:15 | 03 俄罗斯铁路建筑:51 | 04 拜占庭/东正教风格:197 | 05 折衷主义:79 | 06 新艺术运动:132 | 07 巴洛克:345 | 08 中华巴洛克:106 | 09 古典主义/新古典:50 | 10 哥特式:83 | 11 装饰艺术:123 | 12 早期现代主义:105,linestrip:6 | oriented_rectangle:26 | polygon:456 | rectangle:949,'B2':1437
+A1,1281,498,3,12,expanded_reference:1086 | field_photographs:159 | historical_album:36,01 俄罗斯传统建筑:302 | 02 俄式木构民居:43 | 03 俄罗斯铁路建筑:50 | 04 拜占庭/东正教风格:477 | 05 折衷主义:42 | 06 新艺术运动:46 | 07 巴洛克:152 | 08 中华巴洛克:20 | 09 古典主义/新古典:51 | 10 哥特式:42 | 11 装饰艺术:33 | 12 早期现代主义:23,circle:4 | linestrip:22 | oriented_rectangle:1 | polygon:749 | rectangle:505,'A1':1281
+A11,1198,630,3,12,expanded_reference:313 | field_photographs:490 | historical_album:395,01 俄罗斯传统建筑:96 | 02 俄式木构民居:82 | 03 俄罗斯铁路建筑:530 | 04 拜占庭/东正教风格:89 | 05 折衷主义:160 | 06 新艺术运动:79 | 07 巴洛克:15 | 08 中华巴洛克:4 | 09 古典主义/新古典:43 | 10 哥特式:5 | 11 装饰艺术:12 | 12 早期现代主义:83,linestrip:57 | oriented_rectangle:3 | polygon:513 | rectangle:625,'A11':1198
+D1,1153,717,3,12,expanded_reference:847 | field_photographs:175 | historical_album:131,01 俄罗斯传统建筑:133 | 02 俄式木构民居:44 | 03 俄罗斯铁路建筑:150 | 04 拜占庭/东正教风格:301 | 05 折衷主义:166 | 06 新艺术运动:77 | 07 巴洛克:79 | 08 中华巴洛克:31 | 09 古典主义/新古典:112 | 10 哥特式:33 | 11 装饰艺术:9 | 12 早期现代主义:18,line:132 | linestrip:84 | oriented_rectangle:65 | polygon:702 | rectangle:170,'D1':1153
+A8,1035,522,3,12,expanded_reference:967 | field_photographs:23 | historical_album:45,01 俄罗斯传统建筑:11 | 02 俄式木构民居:14 | 03 俄罗斯铁路建筑:24 | 04 拜占庭/东正教风格:1 | 05 折衷主义:23 | 06 新艺术运动:87 | 07 巴洛克:110 | 08 中华巴洛克:32 | 09 古典主义/新古典:203 | 10 哥特式:82 | 11 装饰艺术:189 | 12 早期现代主义:259,line:721 | linestrip:9 | oriented_rectangle:20 | polygon:95 | rectangle:190,'A8':1035
+D19,948,621,3,12,expanded_reference:591 | field_photographs:89 | historical_album:268,01 俄罗斯传统建筑:67 | 02 俄式木构民居:66 | 03 俄罗斯铁路建筑:134 | 04 拜占庭/东正教风格:77 | 05 折衷主义:145 | 06 新艺术运动:81 | 07 巴洛克:28 | 08 中华巴洛克:116 | 09 古典主义/新古典:49 | 10 哥特式:29 | 11 装饰艺术:30 | 12 早期现代主义:126,line:2 | linestrip:26 | oriented_rectangle:67 | polygon:521 | rectangle:332,'D19':948
+A12,942,578,3,11,expanded_reference:239 | field_photographs:168 | historical_album:535,01 俄罗斯传统建筑:26 | 02 俄式木构民居:34 | 03 俄罗斯铁路建筑:169 | 04 拜占庭/东正教风格:106 | 05 折衷主义:77 | 06 新艺术运动:50 | 07 巴洛克:3 | 08 中华巴洛克:416 | 09 古典主义/新古典:3 | 11 装饰艺术:6 | 12 早期现代主义:52,line:16 | linestrip:44 | oriented_rectangle:6 | polygon:665 | rectangle:211,'A12':942
+E3,873,550,3,10,expanded_reference:116 | field_photographs:293 | historical_album:464,01 俄罗斯传统建筑:28 | 02 俄式木构民居:20 | 03 俄罗斯铁路建筑:597 | 04 拜占庭/东正教风格:12 | 05 折衷主义:40 | 06 新艺术运动:8 | 08 中华巴洛克:4 | 09 古典主义/新古典:18 | 11 装饰艺术:19 | 12 早期现代主义:127,linestrip:97 | points:1 | polygon:608 | rectangle:167,'E3':873
+A10,836,279,3,12,expanded_reference:801 | field_photographs:31 | historical_album:4,01 俄罗斯传统建筑:290 | 02 俄式木构民居:28 | 03 俄罗斯铁路建筑:8 | 04 拜占庭/东正教风格:403 | 05 折衷主义:31 | 06 新艺术运动:16 | 07 巴洛克:23 | 08 中华巴洛克:13 | 09 古典主义/新古典:5 | 10 哥特式:16 | 11 装饰艺术:1 | 12 早期现代主义:2,oriented_rectangle:2 | polygon:549 | rectangle:285,'A10':836
+B13,812,444,3,12,expanded_reference:666 | field_photographs:73 | historical_album:73,01 俄罗斯传统建筑:118 | 02 俄式木构民居:18 | 03 俄罗斯铁路建筑:62 | 04 拜占庭/东正教风格:212 | 05 折衷主义:91 | 06 新艺术运动:84 | 07 巴洛克:68 | 08 中华巴洛克:49 | 09 古典主义/新古典:44 | 10 哥特式:31 | 11 装饰艺术:25 | 12 早期现代主义:10,linestrip:11 | oriented_rectangle:8 | polygon:497 | rectangle:296,'B13':812
+A2,779,434,3,12,expanded_reference:541 | field_photographs:186 | historical_album:52,01 俄罗斯传统建筑:135 | 02 俄式木构民居:43 | 03 俄罗斯铁路建筑:40 | 04 拜占庭/东正教风格:163 | 05 折衷主义:70 | 06 新艺术运动:48 | 07 巴洛克:29 | 08 中华巴洛克:71 | 09 古典主义/新古典:19 | 10 哥特式:128 | 11 装饰艺术:7 | 12 早期现代主义:26,linestrip:43 | oriented_rectangle:4 | polygon:314 | rectangle:418,'A2':779
+D6,768,275,3,12,expanded_reference:698 | field_photographs:49 | historical_album:21,01 俄罗斯传统建筑:51 | 02 俄式木构民居:6 | 03 俄罗斯铁路建筑:58 | 04 拜占庭/东正教风格:295 | 05 折衷主义:68 | 06 新艺术运动:95 | 07 巴洛克:112 | 08 中华巴洛克:26 | 09 古典主义/新古典:4 | 10 哥特式:16 | 11 装饰艺术:17 | 12 早期现代主义:20,circle:8 | oriented_rectangle:6 | polygon:431 | rectangle:323,'D6':768
+C4,753,533,3,12,expanded_reference:450 | field_photographs:121 | historical_album:182,01 俄罗斯传统建筑:77 | 02 俄式木构民居:20 | 03 俄罗斯铁路建筑:109 | 04 拜占庭/东正教风格:207 | 05 折衷主义:88 | 06 新艺术运动:57 | 07 巴洛克:2 | 08 中华巴洛克:11 | 09 古典主义/新古典:5 | 10 哥特式:2 | 11 装饰艺术:16 | 12 早期现代主义:159,linestrip:36 | polygon:598 | rectangle:119,'C4':753
+D21,731,576,3,12,expanded_reference:319 | field_photographs:323 | historical_album:89,01 俄罗斯传统建筑:34 | 02 俄式木构民居:35 | 03 俄罗斯铁路建筑:199 | 04 拜占庭/东正教风格:49 | 05 折衷主义:81 | 06 新艺术运动:99 | 07 巴洛克:22 | 08 中华巴洛克:53 | 09 古典主义/新古典:22 | 10 哥特式:11 | 11 装饰艺术:77 | 12 早期现代主义:49,linestrip:3 | oriented_rectangle:32 | polygon:238 | rectangle:458,'D21':731
+A5,668,518,3,12,expanded_reference:69 | field_photographs:419 | historical_album:180,01 俄罗斯传统建筑:60 | 02 俄式木构民居:66 | 03 俄罗斯铁路建筑:208 | 04 拜占庭/东正教风格:55 | 05 折衷主义:75 | 06 新艺术运动:71 | 07 巴洛克:4 | 08 中华巴洛克:86 | 09 古典主义/新古典:18 | 10 哥特式:7 | 11 装饰艺术:2 | 12 早期现代主义:16,circle:1 | linestrip:6 | polygon:376 | rectangle:285,'A5':668
+C12,637,289,3,11,expanded_reference:80 | field_photographs:24 | historical_album:533,01 俄罗斯传统建筑:17 | 02 俄式木构民居:57 | 03 俄罗斯铁路建筑:359 | 04 拜占庭/东正教风格:4 | 05 折衷主义:48 | 06 新艺术运动:5 | 07 巴洛克:4 | 08 中华巴洛克:31 | 09 古典主义/新古典:7 | 10 哥特式:2 | 12 早期现代主义:103,linestrip:7 | polygon:588 | rectangle:42,'C12':637
+B3,626,152,3,12,expanded_reference:572 | field_photographs:49 | historical_album:5,01 俄罗斯传统建筑:148 | 02 俄式木构民居:26 | 03 俄罗斯铁路建筑:5 | 04 拜占庭/东正教风格:31 | 05 折衷主义:50 | 06 新艺术运动:81 | 07 巴洛克:5 | 08 中华巴洛克:9 | 09 古典主义/新古典:17 | 10 哥特式:234 | 11 装饰艺术:16 | 12 早期现代主义:4,linestrip:1 | oriented_rectangle:14 | polygon:270 | rectangle:341,'B3':626
+C15,600,262,3,11,expanded_reference:149 | field_photographs:78 | historical_album:373,01 俄罗斯传统建筑:15 | 02 俄式木构民居:24 | 03 俄罗斯铁路建筑:244 | 04 拜占庭/东正教风格:14 | 05 折衷主义:19 | 06 新艺术运动:3 | 08 中华巴洛克:51 | 09 古典主义/新古典:1 | 10 哥特式:1 | 11 装饰艺术:60 | 12 早期现代主义:168,linestrip:12 | oriented_rectangle:3 | polygon:521 | rectangle:64,'C15':600
+A7,564,247,3,12,expanded_reference:244 | field_photographs:248 | historical_album:72,01 俄罗斯传统建筑:48 | 02 俄式木构民居:54 | 03 俄罗斯铁路建筑:115 | 04 拜占庭/东正教风格:67 | 05 折衷主义:66 | 06 新艺术运动:37 | 07 巴洛克:46 | 08 中华巴洛克:22 | 09 古典主义/新古典:36 | 10 哥特式:18 | 11 装饰艺术:7 | 12 早期现代主义:48,linestrip:6 | polygon:177 | rectangle:381,'A7':564
+C13,534,356,3,12,expanded_reference:48 | field_photographs:11 | historical_album:475,01 俄罗斯传统建筑:16 | 02 俄式木构民居:8 | 03 俄罗斯铁路建筑:47 | 04 拜占庭/东正教风格:5 | 05 折衷主义:115 | 06 新艺术运动:3 | 07 巴洛克:1 | 08 中华巴洛克:276 | 09 古典主义/新古典:10 | 10 哥特式:9 | 11 装饰艺术:1 | 12 早期现代主义:43,oriented_rectangle:1 | polygon:491 | rectangle:42,'C13':534
+C1,519,347,3,12,expanded_reference:326 | field_photographs:182 | historical_album:11,01 俄罗斯传统建筑:46 | 02 俄式木构民居:29 | 03 俄罗斯铁路建筑:92 | 04 拜占庭/东正教风格:86 | 05 折衷主义:69 | 06 新艺术运动:84 | 07 巴洛克:4 | 08 中华巴洛克:13 | 09 古典主义/新古典:2 | 10 哥特式:21 | 11 装饰艺术:29 | 12 早期现代主义:44,line:1 | linestrip:11 | oriented_rectangle:2 | polygon:304 | rectangle:201,'C1':519
+D20,473,277,3,12,expanded_reference:288 | field_photographs:180 | historical_album:5,01 俄罗斯传统建筑:59 | 02 俄式木构民居:10 | 03 俄罗斯铁路建筑:60 | 04 拜占庭/东正教风格:41 | 05 折衷主义:60 | 06 新艺术运动:133 | 07 巴洛克:27 | 08 中华巴洛克:12 | 09 古典主义/新古典:7 | 10 哥特式:4 | 11 装饰艺术:28 | 12 早期现代主义:32,linestrip:5 | oriented_rectangle:31 | polygon:233 | rectangle:204,'D20':473
+B15,454,418,3,12,expanded_reference:216 | field_photographs:151 | historical_album:87,01 俄罗斯传统建筑:30 | 02 俄式木构民居:21 | 03 俄罗斯铁路建筑:77 | 04 拜占庭/东正教风格:37 | 05 折衷主义:77 | 06 新艺术运动:58 | 07 巴洛克:26 | 08 中华巴洛克:30 | 09 古典主义/新古典:31 | 10 哥特式:9 | 11 装饰艺术:11 | 12 早期现代主义:47,linestrip:39 | oriented_rectangle:5 | polygon:201 | rectangle:209,'B15':454
+A4,445,347,3,12,expanded_reference:185 | field_photographs:84 | historical_album:176,01 俄罗斯传统建筑:18 | 02 俄式木构民居:19 | 03 俄罗斯铁路建筑:112 | 04 拜占庭/东正教风格:31 | 05 折衷主义:72 | 06 新艺术运动:15 | 07 巴洛克:31 | 08 中华巴洛克:24 | 09 古典主义/新古典:20 | 10 哥特式:35 | 11 装饰艺术:29 | 12 早期现代主义:39,linestrip:14 | oriented_rectangle:7 | polygon:249 | rectangle:175,'A4':445
+C2,428,276,2,12,expanded_reference:127 | field_photographs:301,01 俄罗斯传统建筑:48 | 02 俄式木构民居:19 | 03 俄罗斯铁路建筑:94 | 04 拜占庭/东正教风格:26 | 05 折衷主义:27 | 06 新艺术运动:113 | 07 巴洛克:9 | 08 中华巴洛克:2 | 09 古典主义/新古典:8 | 10 哥特式:14 | 11 装饰艺术:7 | 12 早期现代主义:61,linestrip:3 | oriented_rectangle:1 | polygon:128 | rectangle:296,'C2':428
+D3,426,259,3,11,expanded_reference:224 | field_photographs:108 | historical_album:94,01 俄罗斯传统建筑:57 | 02 俄式木构民居:23 | 03 俄罗斯铁路建筑:77 | 04 拜占庭/东正教风格:69 | 05 折衷主义:98 | 06 新艺术运动:47 | 07 巴洛克:12 | 09 古典主义/新古典:11 | 10 哥特式:15 | 11 装饰艺术:5 | 12 早期现代主义:12,linestrip:13 | oriented_rectangle:7 | polygon:361 | rectangle:45,'D3':426
+B12,424,96,3,12,expanded_reference:159 | field_photographs:207 | historical_album:58,01 俄罗斯传统建筑:15 | 02 俄式木构民居:23 | 03 俄罗斯铁路建筑:99 | 04 拜占庭/东正教风格:9 | 05 折衷主义:9 | 06 新艺术运动:192 | 07 巴洛克:17 | 08 中华巴洛克:13 | 09 古典主义/新古典:10 | 10 哥特式:2 | 11 装饰艺术:11 | 12 早期现代主义:24,line:7 | linestrip:1 | oriented_rectangle:7 | polygon:302 | rectangle:107,'B12':424
+D2,379,174,3,9,expanded_reference:70 | field_photographs:295 | historical_album:14,01 俄罗斯传统建筑:55 | 02 俄式木构民居:35 | 03 俄罗斯铁路建筑:107 | 04 拜占庭/东正教风格:68 | 05 折衷主义:12 | 06 新艺术运动:97 | 07 巴洛克:2 | 09 古典主义/新古典:2 | 12 早期现代主义:1,linestrip:48 | oriented_rectangle:3 | polygon:265 | rectangle:63,'D2':379
+C6,332,230,3,12,expanded_reference:245 | field_photographs:45 | historical_album:42,01 俄罗斯传统建筑:28 | 02 俄式木构民居:7 | 03 俄罗斯铁路建筑:32 | 04 拜占庭/东正教风格:56 | 05 折衷主义:47 | 06 新艺术运动:19 | 07 巴洛克:17 | 08 中华巴洛克:31 | 09 古典主义/新古典:2 | 10 哥特式:11 | 11 装饰艺术:18 | 12 早期现代主义:64,linestrip:1 | oriented_rectangle:1 | polygon:183 | rectangle:147,'C6':332
+C18,328,219,3,11,expanded_reference:57 | field_photographs:162 | historical_album:109,01 俄罗斯传统建筑:52 | 02 俄式木构民居:6 | 03 俄罗斯铁路建筑:135 | 04 拜占庭/东正教风格:45 | 05 折衷主义:26 | 06 新艺术运动:34 | 07 巴洛克:8 | 08 中华巴洛克:5 | 09 古典主义/新古典:5 | 11 装饰艺术:2 | 12 早期现代主义:10,linestrip:1 | polygon:153 | rectangle:174,'C18':328
+C8,321,206,3,10,expanded_reference:102 | field_photographs:7 | historical_album:212,01 俄罗斯传统建筑:8 | 02 俄式木构民居:43 | 03 俄罗斯铁路建筑:111 | 04 拜占庭/东正教风格:3 | 05 折衷主义:22 | 06 新艺术运动:2 | 08 中华巴洛克:17 | 10 哥特式:13 | 11 装饰艺术:4 | 12 早期现代主义:98,linestrip:9 | polygon:259 | rectangle:53,'C8':321
+B14,315,281,3,12,expanded_reference:135 | field_photographs:61 | historical_album:119,01 俄罗斯传统建筑:31 | 02 俄式木构民居:28 | 03 俄罗斯铁路建筑:54 | 04 拜占庭/东正教风格:15 | 05 折衷主义:77 | 06 新艺术运动:31 | 07 巴洛克:2 | 08 中华巴洛克:38 | 09 古典主义/新古典:13 | 10 哥特式:1 | 11 装饰艺术:1 | 12 早期现代主义:24,linestrip:33 | oriented_rectangle:1 | polygon:249 | rectangle:32,'B14':315
+C5,301,224,3,12,expanded_reference:51 | field_photographs:114 | historical_album:136,01 俄罗斯传统建筑:21 | 02 俄式木构民居:17 | 03 俄罗斯铁路建筑:116 | 04 拜占庭/东正教风格:17 | 05 折衷主义:45 | 06 新艺术运动:32 | 07 巴洛克:4 | 08 中华巴洛克:35 | 09 古典主义/新古典:5 | 10 哥特式:1 | 11 装饰艺术:1 | 12 早期现代主义:7,linestrip:2 | oriented_rectangle:1 | polygon:179 | rectangle:119,'C5':301
+B6,296,100,3,11,expanded_reference:51 | field_photographs:241 | historical_album:4,01 俄罗斯传统建筑:35 | 02 俄式木构民居:26 | 03 俄罗斯铁路建筑:120 | 04 拜占庭/东正教风格:15 | 05 折衷主义:18 | 06 新艺术运动:20 | 07 巴洛克:12 | 09 古典主义/新古典:9 | 10 哥特式:5 | 11 装饰艺术:4 | 12 早期现代主义:32,linestrip:1 | oriented_rectangle:2 | polygon:90 | rectangle:203,'B6':296
+A6,291,197,3,8,expanded_reference:151 | field_photographs:95 | historical_album:45,01 俄罗斯传统建筑:55 | 02 俄式木构民居:20 | 03 俄罗斯铁路建筑:82 | 04 拜占庭/东正教风格:50 | 05 折衷主义:32 | 06 新艺术运动:39 | 07 巴洛克:1 | 12 早期现代主义:12,linestrip:28 | oriented_rectangle:2 | polygon:247 | rectangle:14,'A6':291
+C10,259,127,3,10,expanded_reference:45 | field_photographs:182 | historical_album:32,01 俄罗斯传统建筑:37 | 02 俄式木构民居:11 | 03 俄罗斯铁路建筑:88 | 04 拜占庭/东正教风格:9 | 05 折衷主义:61 | 06 新艺术运动:18 | 07 巴洛克:13 | 09 古典主义/新古典:16 | 10 哥特式:1 | 12 早期现代主义:5,linestrip:20 | polygon:45 | rectangle:194,'C10':259
+D9,240,117,3,8,expanded_reference:186 | field_photographs:53 | historical_album:1,01 俄罗斯传统建筑:79 | 02 俄式木构民居:9 | 03 俄罗斯铁路建筑:12 | 04 拜占庭/东正教风格:64 | 05 折衷主义:14 | 06 新艺术运动:59 | 08 中华巴洛克:1 | 11 装饰艺术:2,polygon:219 | rectangle:21,'D9':240
+D11,221,128,3,7,expanded_reference:140 | field_photographs:48 | historical_album:33,01 俄罗斯传统建筑:84 | 02 俄式木构民居:6 | 03 俄罗斯铁路建筑:16 | 04 拜占庭/东正教风格:19 | 05 折衷主义:19 | 06 新艺术运动:39 | 08 中华巴洛克:38,linestrip:1 | polygon:195 | rectangle:25,'D11':221
+B5,214,69,3,10,expanded_reference:117 | field_photographs:52 | historical_album:45,01 俄罗斯传统建筑:8 | 02 俄式木构民居:10 | 03 俄罗斯铁路建筑:51 | 04 拜占庭/东正教风格:10 | 05 折衷主义:20 | 06 新艺术运动:25 | 09 古典主义/新古典:7 | 10 哥特式:43 | 11 装饰艺术:12 | 12 早期现代主义:28,oriented_rectangle:7 | polygon:60 | rectangle:147,'B5':214
+C14,210,130,3,9,expanded_reference:16 | field_photographs:3 | historical_album:191,01 俄罗斯传统建筑:2 | 02 俄式木构民居:10 | 03 俄罗斯铁路建筑:102 | 04 拜占庭/东正教风格:2 | 05 折衷主义:30 | 06 新艺术运动:3 | 10 哥特式:5 | 11 装饰艺术:13 | 12 早期现代主义:43,linestrip:7 | polygon:194 | rectangle:9,'C14':210
+C9,197,112,3,7,expanded_reference:69 | field_photographs:110 | historical_album:18,01 俄罗斯传统建筑:22 | 02 俄式木构民居:17 | 03 俄罗斯铁路建筑:63 | 04 拜占庭/东正教风格:5 | 05 折衷主义:35 | 06 新艺术运动:31 | 09 古典主义/新古典:24,polygon:96 | rectangle:101,'C9':197
+B8,187,124,3,10,expanded_reference:56 | field_photographs:112 | historical_album:19,01 俄罗斯传统建筑:38 | 02 俄式木构民居:14 | 03 俄罗斯铁路建筑:61 | 04 拜占庭/东正教风格:7 | 05 折衷主义:31 | 06 新艺术运动:26 | 07 巴洛克:1 | 09 古典主义/新古典:4 | 11 装饰艺术:1 | 12 早期现代主义:4,polygon:66 | rectangle:121,'B8':187
+C3,185,122,2,12,expanded_reference:133 | field_photographs:52,01 俄罗斯传统建筑:5 | 02 俄式木构民居:2 | 03 俄罗斯铁路建筑:24 | 04 拜占庭/东正教风格:7 | 05 折衷主义:26 | 06 新艺术运动:33 | 07 巴洛克:10 | 08 中华巴洛克:4 | 09 古典主义/新古典:11 | 10 哥特式:13 | 11 装饰艺术:12 | 12 早期现代主义:38,oriented_rectangle:2 | polygon:59 | rectangle:124,'C3':185
+A9,169,115,3,12,expanded_reference:109 | field_photographs:16 | historical_album:44,01 俄罗斯传统建筑:6 | 02 俄式木构民居:2 | 03 俄罗斯铁路建筑:31 | 04 拜占庭/东正教风格:17 | 05 折衷主义:44 | 06 新艺术运动:20 | 07 巴洛克:8 | 08 中华巴洛克:1 | 09 古典主义/新古典:26 | 10 哥特式:10 | 11 装饰艺术:3 | 12 早期现代主义:1,line:4 | linestrip:2 | oriented_rectangle:22 | polygon:101 | rectangle:40,'A9':169
+E1,168,96,3,9,expanded_reference:38 | field_photographs:91 | historical_album:39,01 俄罗斯传统建筑:1 | 02 俄式木构民居:2 | 03 俄罗斯铁路建筑:132 | 04 拜占庭/东正教风格:1 | 05 折衷主义:14 | 06 新艺术运动:2 | 09 古典主义/新古典:5 | 11 装饰艺术:2 | 12 早期现代主义:9,linestrip:56 | polygon:93 | rectangle:19,'E1':168
+C16,149,87,3,9,expanded_reference:9 | field_photographs:2 | historical_album:138,01 俄罗斯传统建筑:4 | 02 俄式木构民居:2 | 03 俄罗斯铁路建筑:47 | 04 拜占庭/东正教风格:2 | 05 折衷主义:15 | 06 新艺术运动:9 | 09 古典主义/新古典:10 | 11 装饰艺术:2 | 12 早期现代主义:58,linestrip:54 | polygon:69 | rectangle:26,'C16':149
+D5,149,80,3,6,expanded_reference:132 | field_photographs:12 | historical_album:5,01 俄罗斯传统建筑:22 | 02 俄式木构民居:3 | 03 俄罗斯铁路建筑:13 | 04 拜占庭/东正教风格:62 | 05 折衷主义:31 | 06 新艺术运动:18,linestrip:2 | oriented_rectangle:2 | polygon:129 | rectangle:16,'D5':149
+D18,142,78,3,7,expanded_reference:38 | field_photographs:2 | historical_album:102,03 俄罗斯铁路建筑:34 | 04 拜占庭/东正教风格:12 | 05 折衷主义:3 | 06 新艺术运动:4 | 08 中华巴洛克:82 | 09 古典主义/新古典:4 | 12 早期现代主义:3,oriented_rectangle:7 | polygon:106 | rectangle:29,'D18':142
+E10,142,72,3,9,expanded_reference:6 | field_photographs:58 | historical_album:78,01 俄罗斯传统建筑:12 | 02 俄式木构民居:9 | 03 俄罗斯铁路建筑:94 | 04 拜占庭/东正教风格:9 | 05 折衷主义:5 | 06 新艺术运动:3 | 08 中华巴洛克:2 | 11 装饰艺术:1 | 12 早期现代主义:7,linestrip:9 | polygon:89 | rectangle:44,'E10':142
+E2,136,123,3,8,expanded_reference:37 | field_photographs:74 | historical_album:25,01 俄罗斯传统建筑:6 | 02 俄式木构民居:4 | 03 俄罗斯铁路建筑:103 | 04 拜占庭/东正教风格:1 | 05 折衷主义:9 | 06 新艺术运动:2 | 09 古典主义/新古典:7 | 12 早期现代主义:4,linestrip:2 | polygon:97 | rectangle:37,'E2':136
+WIN_RECTANGULAR,136,12,1,4,historical_album:136,03 俄罗斯铁路建筑:5 | 06 新艺术运动:47 | 09 古典主义/新古典:65 | 12 早期现代主义:19,rectangle:136,'WIN_RECTANGULAR':136
+E15,132,117,3,8,expanded_reference:18 | field_photographs:72 | historical_album:42,01 俄罗斯传统建筑:15 | 02 俄式木构民居:7 | 03 俄罗斯铁路建筑:92 | 04 拜占庭/东正教风格:4 | 05 折衷主义:2 | 06 新艺术运动:1 | 09 古典主义/新古典:5 | 12 早期现代主义:6,linestrip:3 | polygon:86 | rectangle:43,'E15':132
+D8,127,55,3,9,expanded_reference:64 | field_photographs:18 | historical_album:45,01 俄罗斯传统建筑:16 | 02 俄式木构民居:36 | 03 俄罗斯铁路建筑:39 | 04 拜占庭/东正教风格:11 | 05 折衷主义:17 | 06 新艺术运动:5 | 07 巴洛克:1 | 08 中华巴洛克:1 | 09 古典主义/新古典:1,linestrip:16 | polygon:99 | rectangle:12,'D8':127
+E14,126,80,3,8,expanded_reference:66 | field_photographs:36 | historical_album:24,01 俄罗斯传统建筑:6 | 02 俄式木构民居:6 | 03 俄罗斯铁路建筑:66 | 04 拜占庭/东正教风格:5 | 06 新艺术运动:33 | 07 巴洛克:2 | 08 中华巴洛克:1 | 12 早期现代主义:7,line:4 | linestrip:4 | polygon:54 | rectangle:64,'E14':126
+B7,124,53,3,9,expanded_reference:113 | field_photographs:4 | historical_album:7,01 俄罗斯传统建筑:17 | 02 俄式木构民居:8 | 03 俄罗斯铁路建筑:6 | 04 拜占庭/东正教风格:3 | 05 折衷主义:25 | 06 新艺术运动:15 | 08 中华巴洛克:2 | 09 古典主义/新古典:13 | 12 早期现代主义:35,linestrip:4 | polygon:46 | rectangle:74,'B7':124
+b4,113,63,1,10,field_photographs:113,01 俄罗斯传统建筑:4 | 02 俄式木构民居:6 | 03 俄罗斯铁路建筑:4 | 04 拜占庭/东正教风格:3 | 05 折衷主义:4 | 06 新艺术运动:61 | 07 巴洛克:16 | 08 中华巴洛克:3 | 11 装饰艺术:11 | 12 早期现代主义:1,rectangle:113,'b4':113
+D4,103,52,3,10,expanded_reference:91 | field_photographs:6 | historical_album:6,01 俄罗斯传统建筑:13 | 02 俄式木构民居:1 | 03 俄罗斯铁路建筑:7 | 04 拜占庭/东正教风格:21 | 05 折衷主义:29 | 06 新艺术运动:26 | 07 巴洛克:2 | 08 中华巴洛克:1 | 10 哥特式:2 | 12 早期现代主义:1,circle:2 | polygon:80 | rectangle:21,'D4':103
+C7,96,58,3,9,expanded_reference:39 | field_photographs:17 | historical_album:40,01 俄罗斯传统建筑:12 | 02 俄式木构民居:41 | 03 俄罗斯铁路建筑:10 | 04 拜占庭/东正教风格:14 | 05 折衷主义:5 | 06 新艺术运动:5 | 09 古典主义/新古典:2 | 10 哥特式:1 | 12 早期现代主义:6,linestrip:12 | polygon:43 | rectangle:41,'C7':96
+D10,88,37,2,4,field_photographs:31 | historical_album:57,03 俄罗斯铁路建筑:32 | 04 拜占庭/东正教风格:32 | 05 折衷主义:18 | 08 中华巴洛克:6,linestrip:28 | polygon:4 | rectangle:56,'D10':88
+E7,80,66,3,7,expanded_reference:3 | field_photographs:48 | historical_album:29,01 俄罗斯传统建筑:7 | 02 俄式木构民居:3 | 03 俄罗斯铁路建筑:46 | 04 拜占庭/东正教风格:13 | 05 折衷主义:3 | 06 新艺术运动:2 | 12 早期现代主义:6,polygon:46 | rectangle:34,'E7':80
+B16,78,57,3,9,expanded_reference:45 | field_photographs:30 | historical_album:3,01 俄罗斯传统建筑:4 | 02 俄式木构民居:8 | 03 俄罗斯铁路建筑:32 | 04 拜占庭/东正教风格:5 | 05 折衷主义:9 | 06 新艺术运动:13 | 07 巴洛克:1 | 08 中华巴洛克:2 | 12 早期现代主义:4,oriented_rectangle:2 | polygon:49 | rectangle:27,'B16':78
+WALL_PILASTER,66,6,1,2,historical_album:66,06 新艺术运动:31 | 09 古典主义/新古典:35,rectangle:66,'WALL_PILASTER':66
+E9,65,43,2,5,expanded_reference:9 | historical_album:56,01 俄罗斯传统建筑:4 | 03 俄罗斯铁路建筑:26 | 04 拜占庭/东正教风格:1 | 11 装饰艺术:4 | 12 早期现代主义:30,linestrip:3 | polygon:58 | rectangle:4,'E9':65
+WIN_SURROUND,62,5,1,3,historical_album:62,03 俄罗斯铁路建筑:4 | 06 新艺术运动:44 | 09 古典主义/新古典:14,rectangle:62,'WIN_SURROUND':62
+E11,58,35,3,6,expanded_reference:3 | field_photographs:7 | historical_album:48,01 俄罗斯传统建筑:2 | 03 俄罗斯铁路建筑:13 | 05 折衷主义:2 | 06 新艺术运动:2 | 09 古典主义/新古典:5 | 12 早期现代主义:34,linestrip:3 | polygon:18 | rectangle:37,'E11':58
+D7,54,32,3,6,expanded_reference:18 | field_photographs:11 | historical_album:25,01 俄罗斯传统建筑:11 | 03 俄罗斯铁路建筑:12 | 04 拜占庭/东正教风格:2 | 05 折衷主义:10 | 06 新艺术运动:18 | 09 古典主义/新古典:1,circle:2 | linestrip:5 | polygon:36 | rectangle:11,'D7':54
+AUX_PERSON,52,10,1,3,historical_album:52,06 新艺术运动:4 | 09 古典主义/新古典:6 | 12 早期现代主义:42,rectangle:52,'AUX_PERSON':52
+E8,50,33,2,5,expanded_reference:1 | historical_album:49,02 俄式木构民居:1 | 03 俄罗斯铁路建筑:19 | 05 折衷主义:1 | 11 装饰艺术:3 | 12 早期现代主义:26,polygon:44 | rectangle:6,'E8':50
+C11,33,25,3,8,expanded_reference:7 | field_photographs:1 | historical_album:25,01 俄罗斯传统建筑:1 | 02 俄式木构民居:4 | 03 俄罗斯铁路建筑:4 | 05 折衷主义:3 | 06 新艺术运动:1 | 08 中华巴洛克:6 | 09 古典主义/新古典:1 | 12 早期现代主义:13,linestrip:13 | polygon:18 | rectangle:2,'C11':33
+E6,30,10,2,1,expanded_reference:10 | historical_album:20,03 俄罗斯铁路建筑:30,polygon:29 | rectangle:1,'E6':30
+STRUCT_WOOD,27,10,1,2,historical_album:27,06 新艺术运动:2 | 12 早期现代主义:25,linestrip:8 | polygon:19,'STRUCT_WOOD':27
+E4,24,17,3,2,expanded_reference:2 | field_photographs:19 | historical_album:3,03 俄罗斯铁路建筑:22 | 12 早期现代主义:2,linestrip:20 | polygon:3 | rectangle:1,'E4':24
+C19,21,14,3,7,expanded_reference:6 | field_photographs:4 | historical_album:11,01 俄罗斯传统建筑:1 | 03 俄罗斯铁路建筑:8 | 04 拜占庭/东正教风格:2 | 05 折衷主义:1 | 06 新艺术运动:4 | 11 装饰艺术:4 | 12 早期现代主义:1,linestrip:1 | polygon:11 | rectangle:9,'C19':21
+B11,18,8,2,3,expanded_reference:8 | field_photographs:10,03 俄罗斯铁路建筑:1 | 05 折衷主义:15 | 06 新艺术运动:2,linestrip:2 | polygon:14 | rectangle:2,'B11':18
+D12,18,10,2,4,expanded_reference:16 | field_photographs:2,03 俄罗斯铁路建筑:1 | 05 折衷主义:1 | 07 巴洛克:1 | 12 早期现代主义:15,oriented_rectangle:1 | polygon:8 | rectangle:9,'D12':18
+D17,15,6,2,4,field_photographs:3 | historical_album:12,03 俄罗斯铁路建筑:2 | 05 折衷主义:6 | 08 中华巴洛克:5 | 09 古典主义/新古典:2,linestrip:4 | rectangle:11,'D17':15
+ROOF_GABLE,15,6,1,2,historical_album:15,03 俄罗斯铁路建筑:1 | 12 早期现代主义:14,polygon:15,'ROOF_GABLE':15
+c1,14,10,1,4,field_photographs:14,03 俄罗斯铁路建筑:1 | 06 新艺术运动:9 | 07 巴洛克:2 | 08 中华巴洛克:2,rectangle:14,'c1':14
+AUX_SCAFFOLD,11,1,1,1,historical_album:11,06 新艺术运动:11,linestrip:10 | polygon:1,'AUX_SCAFFOLD':11
+E12,11,9,2,3,expanded_reference:3 | historical_album:8,03 俄罗斯铁路建筑:4 | 06 新艺术运动:2 | 12 早期现代主义:5,linestrip:1 | polygon:8 | rectangle:2,'E12':11
+DEC_CORNICE,9,6,1,2,historical_album:9,06 新艺术运动:4 | 09 古典主义/新古典:5,linestrip:9,'DEC_CORNICE':9
+DEC_PLAQUE,6,6,1,2,historical_album:6,06 新艺术运动:3 | 12 早期现代主义:3,rectangle:6,'DEC_PLAQUE':6
+DEC_VOLUTE,6,3,1,1,historical_album:6,06 新艺术运动:6,linestrip:6,'DEC_VOLUTE':6
+SPACE_FACTORY_YARD,6,6,1,2,historical_album:6,06 新艺术运动:1 | 12 早期现代主义:5,polygon:6,'SPACE_FACTORY_YARD':6
+2,5,2,1,1,expanded_reference:5,10 哥特式:5,oriented_rectangle:2 | rectangle:3,'2':5
+AUX_EQUIPMENT,5,2,1,1,historical_album:5,12 早期现代主义:5,polygon:3 | rectangle:2,'AUX_EQUIPMENT':5
+DEC_FLORAL_RELIEF,5,4,1,2,historical_album:5,06 新艺术运动:3 | 09 古典主义/新古典:2,rectangle:5,'DEC_FLORAL_RELIEF':5
+E5,5,4,3,2,expanded_reference:2 | field_photographs:1 | historical_album:2,03 俄罗斯铁路建筑:4 | 11 装饰艺术:1,polygon:5,'E5':5
+AUX_CART,4,2,1,2,historical_album:4,09 古典主义/新古典:3 | 12 早期现代主义:1,polygon:1 | rectangle:3,'AUX_CART':4
+AUX_UTILITY_POLE,4,2,1,2,historical_album:4,06 新艺术运动:1 | 09 古典主义/新古典:3,rectangle:4,'AUX_UTILITY_POLE':4
+D15,4,4,1,1,historical_album:4,05 折衷主义:4,rectangle:4,'D15':4
+DEC_ART_NOUVEAU_CURVE,4,4,1,2,historical_album:4,06 新艺术运动:3 | 09 古典主义/新古典:1,linestrip:4,'DEC_ART_NOUVEAU_CURVE':4
+DOOR_STEPS,4,4,1,2,historical_album:4,06 新艺术运动:3 | 09 古典主义/新古典:1,rectangle:4,'DOOR_STEPS':4
+MAT_CEMENT_PLASTER,4,4,1,2,historical_album:4,06 新艺术运动:3 | 09 古典主义/新古典:1,polygon:4,'MAT_CEMENT_PLASTER':4
+ROOF_PARAPET,4,4,1,2,historical_album:4,06 新艺术运动:1 | 09 古典主义/新古典:3,polygon:4,'ROOF_PARAPET':4
+a3,4,3,1,1,field_photographs:4,06 新艺术运动:4,rectangle:4,'a3':4
+A7\,3,2,1,2,expanded_reference:3,06 新艺术运动:1 | 07 巴洛克:2,line:1 | rectangle:2,'A7\\':3
+AUX_HORSE,3,1,1,1,historical_album:3,09 古典主义/新古典:3,rectangle:3,'AUX_HORSE':3
+DOOR_ARCH,3,3,1,1,historical_album:3,06 新艺术运动:3,polygon:3,'DOOR_ARCH':3
+DOOR_FANLIGHT,3,3,1,1,historical_album:3,06 新艺术运动:3,polygon:3,'DOOR_FANLIGHT':3
+E13,3,3,2,2,field_photographs:1 | historical_album:2,09 古典主义/新古典:1 | 12 早期现代主义:2,linestrip:1 | polygon:1 | rectangle:1,'E13':3
+ROOF_CHIMNEY,3,1,1,1,historical_album:3,03 俄罗斯铁路建筑:3,rectangle:3,'ROOF_CHIMNEY':3
+ROOF_HIPPED,3,3,1,2,historical_album:3,06 新艺术运动:2 | 09 古典主义/新古典:1,polygon:3,'ROOF_HIPPED':3
+SPACE_GARDEN_FENCE,3,3,1,2,historical_album:3,03 俄罗斯铁路建筑:1 | 12 早期现代主义:2,linestrip:3,'SPACE_GARDEN_FENCE':3
+STRUCT_BRICK_STONE,3,2,1,1,historical_album:3,09 古典主义/新古典:3,polygon:3,'STRUCT_BRICK_STONE':3
+AUX_FIELD,2,2,1,1,historical_album:2,12 早期现代主义:2,polygon:2,'AUX_FIELD':2
+AUX_POLE,2,1,1,1,historical_album:2,12 早期现代主义:2,linestrip:2,'AUX_POLE':2
+AUX_THATCH_ROOF,2,2,1,1,historical_album:2,12 早期现代主义:2,polygon:2,'AUX_THATCH_ROOF':2
+AUX_TIMBER,2,1,1,1,historical_album:2,06 新艺术运动:2,polygon:2,'AUX_TIMBER':2
+C17,2,2,1,1,expanded_reference:2,03 俄罗斯铁路建筑:2,polygon:1 | rectangle:1,'C17':2
+D13,2,2,1,2,expanded_reference:2,01 俄罗斯传统建筑:1 | 03 俄罗斯铁路建筑:1,rectangle:2,'D13':2
+DEC_PEDIMENT_TRI,2,2,1,1,historical_album:2,06 新艺术运动:2,rectangle:2,'DEC_PEDIMENT_TRI':2
+DEC_RUSTICATED_BAND,2,1,1,1,historical_album:2,09 古典主义/新古典:2,rectangle:2,'DEC_RUSTICATED_BAND':2
+DOOR_PORCH,2,2,1,2,historical_album:2,03 俄罗斯铁路建筑:1 | 09 古典主义/新古典:1,rectangle:2,'DOOR_PORCH':2
+SPACE_STREET,2,2,1,1,historical_album:2,09 古典主义/新古典:2,polygon:2,'SPACE_STREET':2
+A15,1,1,1,1,field_photographs:1,03 俄罗斯铁路建筑:1,rectangle:1,'A15':1
+A19,1,1,1,1,expanded_reference:1,10 哥特式:1,rectangle:1,'A19':1
+AD1,1,1,1,1,expanded_reference:1,09 古典主义/新古典:1,oriented_rectangle:1,'AD1':1
+B19,1,1,1,1,historical_album:1,05 折衷主义:1,rectangle:1,'B19':1
+C21,1,1,1,1,field_photographs:1,03 俄罗斯铁路建筑:1,rectangle:1,'C21':1
+D14,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,rectangle:1,'D14':1
+DEC_BALUSTRADE,1,1,1,1,historical_album:1,09 古典主义/新古典:1,rectangle:1,'DEC_BALUSTRADE':1
+DEC_PEDIMENT_CURVE,1,1,1,1,historical_album:1,09 古典主义/新古典:1,polygon:1,'DEC_PEDIMENT_CURVE':1
+DEC_RUS_WOOD_LACE,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,polygon:1,'DEC_RUS_WOOD_LACE':1
+F1,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,polygon:1,'F1':1
+MAT_RED_BRICK,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,polygon:1,'MAT_RED_BRICK':1
+MAT_STONE_BASE,1,1,1,1,historical_album:1,09 古典主义/新古典:1,rectangle:1,'MAT_STONE_BASE':1
+ROOF_EAVE_OVERHANG,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,linestrip:1,'ROOF_EAVE_OVERHANG':1
+ROOF_MULTI_SLOPE,1,1,1,1,historical_album:1,06 新艺术运动:1,polygon:1,'ROOF_MULTI_SLOPE':1
+STRUCT_BRICK_WOOD,1,1,1,1,historical_album:1,03 俄罗斯铁路建筑:1,polygon:1,'STRUCT_BRICK_WOOD':1
+V10,1,1,1,1,historical_album:1,05 折衷主义:1,rectangle:1,'V10':1
+a5,1,1,1,1,historical_album:1,04 拜占庭/东正教风格:1,rectangle:1,'a5':1
+c4,1,1,1,1,historical_album:1,06 新艺术运动:1,polygon:1,'c4':1
+吃,1,1,1,1,field_photographs:1,03 俄罗斯铁路建筑:1,rectangle:1,'吃':1

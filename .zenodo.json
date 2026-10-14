@@ -1,0 +1,24 @@
+{
+  "title": "Shared Elements, Different Wholes: reading the architecture of the Chinese Eastern Railway across album, field and machine — data and code",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Lei, Hao",
+      "orcid": "0009-0001-9844-2338",
+      "affiliation": "School of Architecture and Design, Harbin Institute of Technology, Harbin 150001, China; Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology, Harbin 150001, China"
+    }
+  ],
+  "keywords": [
+    "Chinese Eastern Railway",
+    "architectural heritage",
+    "visual semiology",
+    "architectural style classification",
+    "LabelMe annotation",
+    "cross-domain transfer",
+    "reproducibility"
+  ],
+  "description": "<p>Code, LabelMe annotations and derived results underlying the article <em>Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine</em>. The repository lets readers check how every number in the article and its Supplementary Materials was computed.</p><p>The corpus comprises 4,258 analysed images of Chinese Eastern Railway architecture drawn from three domains \u2014 historical album (1,044), openly licensed reference images (2,027) and field photographs (1,187) \u2014 coded against twelve architectural style lineages and five visual symbol families. The deposit includes 5,358 LabelMe polygon annotation files with embedded image data removed; the frozen image-level master table with analytical splits; ConvNeXt-Tiny and DINOv2 model outputs, thresholds and external predictions (model weights not included); visual genealogy analyses (element profiles, enrichment, similarity, co-occurrence, continuity); the blind annotation agreement sample and statistics; robustness checks including near-duplicate groups, counting-unit variants and bootstrap intervals; and the source provenance of every analysed image.</p><p>The images themselves are not redistributed: the historical photographs are reproduced from a copyrighted facsimile and the reference images remain under the licences of their original hosts. Identifiers and sources are listed in the provenance tables.</p><p>Code is released under the MIT Licence; annotations and derived tables under CC BY 4.0.</p>"
+}

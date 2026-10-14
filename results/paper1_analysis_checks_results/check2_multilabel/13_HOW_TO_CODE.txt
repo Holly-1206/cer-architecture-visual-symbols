@@ -1,0 +1,12 @@
+Box colours follow the order of style_ids in the caption:
+1st = red, 2nd = blue, 3rd = green, 4th = orange.
+Boxes of later lineages are shifted slightly so identical boxes stay visible.
+
+Fill `manual_unit` in 12_manual_coding_sample.csv with one of:
+  single_building        one building carries all assigned lineages
+  multiple_buildings     the lineages belong to different buildings in the frame
+  building_plus_context  one building plus railway/infrastructure/landscape context
+  unclear
+
+Save as 12_manual_coding_sample_FILLED.csv and re-run:
+  python paper1_analysis_checks.py --checks multilabel

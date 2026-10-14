@@ -1,0 +1,67 @@
+﻿style_id_1,style_1,style_id_2,style_2,historical_intersection_n,historical_union_n,historical_jaccard,historical_rank,field_intersection_n,field_union_n,field_jaccard,field_rank
+01,Russian Traditional,02,Russian Timber Dwelling,4,49,0.08163265306122448,6,36,200,0.18,3
+01,Russian Traditional,03,Russian Railway,1,333,0.003003003003003003,26,61,718,0.08495821727019498,11
+01,Russian Traditional,04,Byzantine / Orthodox,9,70,0.12857142857142856,1,32,201,0.15920398009950248,4
+01,Russian Traditional,05,Eclecticism,1,156,0.00641025641025641,22,38,281,0.13523131672597866,5
+01,Russian Traditional,06,Art Nouveau,0,23,0.0,28,20,310,0.06451612903225806,14
+01,Russian Traditional,07,Baroque,0,14,0.0,28,0,191,0.0,26
+01,Russian Traditional,08,Chinese Baroque,0,307,0.0,28,0,174,0.0,26
+01,Russian Traditional,09,Classical / Neoclassical,0,35,0.0,28,21,209,0.10047846889952153,7
+01,Russian Traditional,10,Gothic,0,19,0.0,28,0,159,0.0,26
+01,Russian Traditional,11,Art Deco,0,40,0.0,28,0,169,0.0,26
+01,Russian Traditional,12,Early Modernism,0,315,0.0,28,0,223,0.0,26
+02,Russian Timber Dwelling,03,Russian Railway,5,360,0.013888888888888888,17,51,670,0.07611940298507462,12
+02,Russian Timber Dwelling,04,Byzantine / Orthodox,5,105,0.047619047619047616,8,36,139,0.2589928057553957,1
+02,Russian Timber Dwelling,05,Eclecticism,6,182,0.03296703296703297,9,0,261,0.0,26
+02,Russian Timber Dwelling,06,Art Nouveau,0,54,0.0,28,0,272,0.0,26
+02,Russian Timber Dwelling,07,Baroque,0,45,0.0,28,0,133,0.0,26
+02,Russian Timber Dwelling,08,Chinese Baroque,0,338,0.0,28,0,116,0.0,26
+02,Russian Timber Dwelling,09,Classical / Neoclassical,0,66,0.0,28,20,152,0.13157894736842105,6
+02,Russian Timber Dwelling,10,Gothic,0,50,0.0,28,0,101,0.0,26
+02,Russian Timber Dwelling,11,Art Deco,0,71,0.0,28,9,102,0.08823529411764706,10
+02,Russian Timber Dwelling,12,Early Modernism,9,337,0.026706231454005934,11,0,165,0.0,26
+03,Russian Railway,04,Byzantine / Orthodox,4,387,0.0103359173126615,19,50,668,0.0748502994011976,13
+03,Russian Railway,05,Eclecticism,47,422,0.11137440758293839,2,13,791,0.01643489254108723,24
+03,Russian Railway,06,Art Nouveau,3,332,0.009036144578313253,21,23,792,0.02904040404040404,20
+03,Russian Railway,07,Baroque,0,326,0.0,28,0,676,0.0,26
+03,Russian Railway,08,Chinese Baroque,0,619,0.0,28,0,659,0.0,26
+03,Russian Railway,09,Classical / Neoclassical,5,342,0.014619883040935672,15,14,701,0.019971469329529243,23
+03,Russian Railway,10,Gothic,1,330,0.0030303030303030303,25,0,644,0.0,26
+03,Russian Railway,11,Art Deco,17,335,0.050746268656716415,7,4,650,0.006153846153846154,25
+03,Russian Railway,12,Early Modernism,54,573,0.09424083769633508,4,14,694,0.020172910662824207,22
+04,Byzantine / Orthodox,05,Eclecticism,1,213,0.004694835680751174,23,0,258,0.0,26
+04,Byzantine / Orthodox,06,Art Nouveau,0,80,0.0,28,8,261,0.03065134099616858,19
+04,Byzantine / Orthodox,07,Baroque,0,71,0.0,28,0,130,0.0,26
+04,Byzantine / Orthodox,08,Chinese Baroque,5,359,0.013927576601671309,16,0,113,0.0,26
+04,Byzantine / Orthodox,09,Classical / Neoclassical,0,92,0.0,28,0,169,0.0,26
+04,Byzantine / Orthodox,10,Gothic,0,76,0.0,28,0,98,0.0,26
+04,Byzantine / Orthodox,11,Art Deco,0,97,0.0,28,4,104,0.038461538461538464,18
+04,Byzantine / Orthodox,12,Early Modernism,8,364,0.02197802197802198,12,0,162,0.0,26
+05,Eclecticism,06,Art Nouveau,5,153,0.032679738562091505,10,0,355,0.0,26
+05,Eclecticism,07,Baroque,3,146,0.02054794520547945,13,19,197,0.09644670050761421,8
+05,Eclecticism,08,Chinese Baroque,4,438,0.0091324200913242,20,0,199,0.0,26
+05,Eclecticism,09,Classical / Neoclassical,16,154,0.1038961038961039,3,21,234,0.08974358974358974,9
+05,Eclecticism,10,Gothic,3,151,0.019867549668874173,14,0,184,0.0,26
+05,Eclecticism,11,Art Deco,2,173,0.011560693641618497,18,0,194,0.0,26
+05,Eclecticism,12,Early Modernism,1,449,0.0022271714922048997,27,15,233,0.06437768240343347,15
+06,Art Nouveau,07,Baroque,0,15,0.0,28,10,217,0.04608294930875576,16
+06,Art Nouveau,08,Chinese Baroque,0,308,0.0,28,0,210,0.0,26
+06,Art Nouveau,09,Classical / Neoclassical,0,36,0.0,28,7,259,0.02702702702702703,21
+06,Art Nouveau,10,Gothic,0,20,0.0,28,0,195,0.0,26
+06,Art Nouveau,11,Art Deco,0,41,0.0,28,8,197,0.04060913705583756,17
+06,Art Nouveau,12,Early Modernism,0,316,0.0,28,0,259,0.0,26
+07,Baroque,08,Chinese Baroque,1,298,0.003355704697986577,24,12,59,0.2033898305084746,2
+07,Baroque,09,Classical / Neoclassical,0,27,0.0,28,0,127,0.0,26
+07,Baroque,10,Gothic,0,11,0.0,28,0,56,0.0,26
+07,Baroque,11,Art Deco,0,32,0.0,28,0,66,0.0,26
+07,Baroque,12,Early Modernism,0,307,0.0,28,0,120,0.0,26
+08,Chinese Baroque,09,Classical / Neoclassical,0,320,0.0,28,0,110,0.0,26
+08,Chinese Baroque,10,Gothic,0,304,0.0,28,0,39,0.0,26
+08,Chinese Baroque,11,Art Deco,0,325,0.0,28,0,49,0.0,26
+08,Chinese Baroque,12,Early Modernism,0,600,0.0,28,0,103,0.0,26
+09,Classical / Neoclassical,10,Gothic,0,32,0.0,28,0,95,0.0,26
+09,Classical / Neoclassical,11,Art Deco,0,53,0.0,28,0,105,0.0,26
+09,Classical / Neoclassical,12,Early Modernism,0,328,0.0,28,0,159,0.0,26
+10,Gothic,11,Art Deco,0,37,0.0,28,0,34,0.0,26
+10,Gothic,12,Early Modernism,0,312,0.0,28,0,88,0.0,26
+11,Art Deco,12,Early Modernism,26,307,0.08469055374592833,5,0,98,0.0,26

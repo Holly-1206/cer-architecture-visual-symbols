@@ -1,0 +1,829 @@
+﻿style_id,style_name,style_name_en,symbol_code,symbol_family,analysis_role,raw_count,log_enrichment
+01,俄罗斯传统建筑,Russian Traditional,A1,A,main_architectural_morphology_AD69,177,0.6207150297761513
+01,俄罗斯传统建筑,Russian Traditional,A2,A,main_architectural_morphology_AD69,81,0.3857869831066753
+01,俄罗斯传统建筑,Russian Traditional,A3,A,main_architectural_morphology_AD69,14,-1.3406673877136133
+01,俄罗斯传统建筑,Russian Traditional,A4,A,main_architectural_morphology_AD69,2,-2.073475583774894
+01,俄罗斯传统建筑,Russian Traditional,A5,A,main_architectural_morphology_AD69,10,0.5037063421222773
+01,俄罗斯传统建筑,Russian Traditional,A6,A,main_architectural_morphology_AD69,33,0.8582513598031848
+01,俄罗斯传统建筑,Russian Traditional,A7,A,main_architectural_morphology_AD69,18,-0.3466755608018879
+01,俄罗斯传统建筑,Russian Traditional,A8,A,main_architectural_morphology_AD69,4,-3.2000617244854097
+01,俄罗斯传统建筑,Russian Traditional,A9,A,main_architectural_morphology_AD69,3,-1.1394426276541347
+01,俄罗斯传统建筑,Russian Traditional,A10,A,main_architectural_morphology_AD69,171,0.999102537323406
+01,俄罗斯传统建筑,Russian Traditional,A11,A,main_architectural_morphology_AD69,28,-0.06836290688443217
+01,俄罗斯传统建筑,Russian Traditional,A12,A,main_architectural_morphology_AD69,8,-0.9964417765141073
+01,俄罗斯传统建筑,Russian Traditional,B1,B,main_architectural_morphology_AD69,383,0.9587507131401111
+01,俄罗斯传统建筑,Russian Traditional,B2,B,main_architectural_morphology_AD69,84,-0.3859609201735061
+01,俄罗斯传统建筑,Russian Traditional,B3,B,main_architectural_morphology_AD69,125,0.6868250292892502
+01,俄罗斯传统建筑,Russian Traditional,B4,B,main_architectural_morphology_AD69,324,-0.570154266982485
+01,俄罗斯传统建筑,Russian Traditional,B5,B,main_architectural_morphology_AD69,0,-3.3029561476480427
+01,俄罗斯传统建筑,Russian Traditional,B6,B,main_architectural_morphology_AD69,0,-2.5215847336732584
+01,俄罗斯传统建筑,Russian Traditional,B7,B,main_architectural_morphology_AD69,15,0.148968757523771
+01,俄罗斯传统建筑,Russian Traditional,B8,B,main_architectural_morphology_AD69,30,1.4966303000173482
+01,俄罗斯传统建筑,Russian Traditional,B9,B,main_architectural_morphology_AD69,2,-2.453285103115283
+01,俄罗斯传统建筑,Russian Traditional,B10,B,main_architectural_morphology_AD69,52,-0.9250087348815657
+01,俄罗斯传统建筑,Russian Traditional,B11,B,main_architectural_morphology_AD69,0,-0.5949059465458326
+01,俄罗斯传统建筑,Russian Traditional,B12,B,main_architectural_morphology_AD69,0,-3.560179012615115
+01,俄罗斯传统建筑,Russian Traditional,B13,B,main_architectural_morphology_AD69,53,-0.1346984152303997
+01,俄罗斯传统建筑,Russian Traditional,B14,B,main_architectural_morphology_AD69,18,0.4010521880621938
+01,俄罗斯传统建筑,Russian Traditional,B15,B,main_architectural_morphology_AD69,19,-0.15022012528438683
+01,俄罗斯传统建筑,Russian Traditional,B16,B,main_architectural_morphology_AD69,0,-2.3295070019339392
+01,俄罗斯传统建筑,Russian Traditional,C1,C,main_architectural_morphology_AD69,26,-0.23912907181878462
+01,俄罗斯传统建筑,Russian Traditional,C2,C,main_architectural_morphology_AD69,16,0.239013787895195
+01,俄罗斯传统建筑,Russian Traditional,C3,C,main_architectural_morphology_AD69,3,-1.5206754223745313
+01,俄罗斯传统建筑,Russian Traditional,C4,C,main_architectural_morphology_AD69,44,0.10199358363266324
+01,俄罗斯传统建筑,Russian Traditional,C5,C,main_architectural_morphology_AD69,7,0.5585145786172724
+01,俄罗斯传统建筑,Russian Traditional,C6,C,main_architectural_morphology_AD69,16,-0.4186267042078403
+01,俄罗斯传统建筑,Russian Traditional,C7,C,main_architectural_morphology_AD69,0,-1.3833633069101028
+01,俄罗斯传统建筑,Russian Traditional,C8,C,main_architectural_morphology_AD69,4,-0.8991173209488239
+01,俄罗斯传统建筑,Russian Traditional,C9,C,main_architectural_morphology_AD69,7,0.00901010028617021
+01,俄罗斯传统建筑,Russian Traditional,C10,C,main_architectural_morphology_AD69,4,-0.007119281643713523
+01,俄罗斯传统建筑,Russian Traditional,C11,C,main_architectural_morphology_AD69,1,0.5037063421222772
+01,俄罗斯传统建筑,Russian Traditional,C12,C,main_architectural_morphology_AD69,4,-0.34359151826492634
+01,俄罗斯传统建筑,Russian Traditional,C13,C,main_architectural_morphology_AD69,12,1.2889688115900282
+01,俄罗斯传统建筑,Russian Traditional,C14,C,main_architectural_morphology_AD69,1,-0.15553928676198675
+01,俄罗斯传统建筑,Russian Traditional,C15,C,main_architectural_morphology_AD69,1,-2.4194552385968784
+01,俄罗斯传统建筑,Russian Traditional,C16,C,main_architectural_morphology_AD69,1,0.8138612704261167
+01,俄罗斯传统建筑,Russian Traditional,C17,C,main_architectural_morphology_AD69,0,1.0145319658882679
+01,俄罗斯传统建筑,Russian Traditional,C18,C,main_architectural_morphology_AD69,27,1.6096179332719984
+01,俄罗斯传统建筑,Russian Traditional,C19,C,main_architectural_morphology_AD69,1,1.0145319658882679
+01,俄罗斯传统建筑,Russian Traditional,C20,C,main_architectural_morphology_AD69,229,0.493303127361391
+01,俄罗斯传统建筑,Russian Traditional,D1,D,main_architectural_morphology_AD69,73,-0.1413647050018933
+01,俄罗斯传统建筑,Russian Traditional,D2,D,main_architectural_morphology_AD69,13,0.5647940341021153
+01,俄罗斯传统建筑,Russian Traditional,D3,D,main_architectural_morphology_AD69,26,0.27529367812805566
+01,俄罗斯传统建筑,Russian Traditional,D4,D,main_architectural_morphology_AD69,8,-0.0840803227798418
+01,俄罗斯传统建筑,Russian Traditional,D5,D,main_architectural_morphology_AD69,17,0.2523919138413711
+01,俄罗斯传统建筑,Russian Traditional,D6,D,main_architectural_morphology_AD69,35,-0.6897892320000244
+01,俄罗斯传统建筑,Russian Traditional,D7,D,main_architectural_morphology_AD69,2,0.22607460552399766
+01,俄罗斯传统建筑,Russian Traditional,D8,D,main_architectural_morphology_AD69,2,-0.08408032277984193
+01,俄罗斯传统建筑,Russian Traditional,D9,D,main_architectural_morphology_AD69,48,1.1865970225150335
+01,俄罗斯传统建筑,Russian Traditional,D10,D,main_architectural_morphology_AD69,0,2.1131442545563774
+01,俄罗斯传统建筑,Russian Traditional,D11,D,main_architectural_morphology_AD69,63,1.747845188173548
+01,俄罗斯传统建筑,Russian Traditional,D12,D,main_architectural_morphology_AD69,0,-1.3208429499287686
+01,俄罗斯传统建筑,Russian Traditional,D13,D,main_architectural_morphology_AD69,0,1.0145319658882679
+01,俄罗斯传统建筑,Russian Traditional,D14,D,main_architectural_morphology_AD69,0,2.1131442545563774
+01,俄罗斯传统建筑,Russian Traditional,D15,D,main_architectural_morphology_AD69,0,2.1131442545563774
+01,俄罗斯传统建筑,Russian Traditional,D16,D,main_architectural_morphology_AD69,0,2.1131442545563774
+01,俄罗斯传统建筑,Russian Traditional,D17,D,main_architectural_morphology_AD69,0,2.1131442545563774
+01,俄罗斯传统建筑,Russian Traditional,D18,D,main_architectural_morphology_AD69,0,-1.9977296096169337
+01,俄罗斯传统建筑,Russian Traditional,D19,D,main_architectural_morphology_AD69,21,-1.038398450243236
+01,俄罗斯传统建筑,Russian Traditional,D20,D,main_architectural_morphology_AD69,30,0.05650162784134758
+01,俄罗斯传统建筑,Russian Traditional,D21,D,main_architectural_morphology_AD69,11,-1.116112286366384
+02,俄式木构民居,Russian Timber Dwelling,A1,A,main_architectural_morphology_AD69,7,-1.8565338670565732
+02,俄式木构民居,Russian Timber Dwelling,A2,A,main_architectural_morphology_AD69,9,-1.0767055469931655
+02,俄式木构民居,Russian Timber Dwelling,A3,A,main_architectural_morphology_AD69,54,0.6702033560695377
+02,俄式木构民居,Russian Timber Dwelling,A4,A,main_architectural_morphology_AD69,5,-0.5981995318701426
+02,俄式木构民居,Russian Timber Dwelling,A5,A,main_architectural_morphology_AD69,10,1.1905250336627586
+02,俄式木构民居,Russian Timber Dwelling,A6,A,main_architectural_morphology_AD69,7,0.048427633054909776
+02,俄式木构民居,Russian Timber Dwelling,A7,A,main_architectural_morphology_AD69,12,-0.05189895703743042
+02,俄式木构民居,Russian Timber Dwelling,A8,A,main_architectural_morphology_AD69,9,-1.7660286311147075
+02,俄式木构民居,Russian Timber Dwelling,A9,A,main_architectural_morphology_AD69,1,-1.2999217965008572
+02,俄式木构民居,Russian Timber Dwelling,A10,A,main_architectural_morphology_AD69,5,-1.753913945503682
+02,俄式木构民居,Russian Timber Dwelling,A11,A,main_architectural_morphology_AD69,33,0.7800971362124649
+02,俄式木构民居,Russian Timber Dwelling,A12,A,main_architectural_morphology_AD69,18,0.46808148361438223
+02,俄式木构民居,Russian Timber Dwelling,B1,B,main_architectural_morphology_AD69,33,-0.7922247772956977
+02,俄式木构民居,Russian Timber Dwelling,B2,B,main_architectural_morphology_AD69,8,-1.9958275994998822
+02,俄式木构民居,Russian Timber Dwelling,B3,B,main_architectural_morphology_AD69,22,-0.3451467285317328
+02,俄式木构民居,Russian Timber Dwelling,B4,B,main_architectural_morphology_AD69,325,0.11974135006247544
+02,俄式木构民居,Russian Timber Dwelling,B5,B,main_architectural_morphology_AD69,2,-1.0066995436734612
+02,俄式木构民居,Russian Timber Dwelling,B6,B,main_architectural_morphology_AD69,0,-1.834766042132777
+02,俄式木构民居,Russian Timber Dwelling,B7,B,main_architectural_morphology_AD69,7,0.10985044568131597
+02,俄式木构民居,Russian Timber Dwelling,B8,B,main_architectural_morphology_AD69,4,0.2697997047207375
+02,俄式木构民居,Russian Timber Dwelling,B9,B,main_architectural_morphology_AD69,125,2.1495486151228813
+02,俄式木构民居,Russian Timber Dwelling,B10,B,main_architectural_morphology_AD69,154,0.8411908833991377
+02,俄式木构民居,Russian Timber Dwelling,B11,B,main_architectural_morphology_AD69,0,0.09191274499464852
+02,俄式木构民居,Russian Timber Dwelling,B12,B,main_architectural_morphology_AD69,16,0.6231472403918465
+02,俄式木构民居,Russian Timber Dwelling,B13,B,main_architectural_morphology_AD69,10,-1.0761861204284016
+02,俄式木构民居,Russian Timber Dwelling,B14,B,main_architectural_morphology_AD69,16,0.9734605284249308
+02,俄式木构民居,Russian Timber Dwelling,B15,B,main_architectural_morphology_AD69,12,0.09191274499464872
+02,俄式木构民居,Russian Timber Dwelling,B16,B,main_architectural_morphology_AD69,4,0.5545362669427616
+02,俄式木构民居,Russian Timber Dwelling,C1,C,main_architectural_morphology_AD69,19,0.14095935229922102
+02,俄式木构民居,Russian Timber Dwelling,C2,C,main_architectural_morphology_AD69,2,-0.9612371695967038
+02,俄式木构民居,Russian Timber Dwelling,C3,C,main_architectural_morphology_AD69,0,-2.7797668798893636
+02,俄式木构民居,Russian Timber Dwelling,C4,C,main_architectural_morphology_AD69,11,-0.5643298786298456
+02,俄式木构民居,Russian Timber Dwelling,C5,C,main_architectural_morphology_AD69,0,-1.4627169309444568
+02,俄式木构民居,Russian Timber Dwelling,C6,C,main_architectural_morphology_AD69,2,-1.6188776616997391
+02,俄式木构民居,Russian Timber Dwelling,C7,C,main_architectural_morphology_AD69,6,1.8684047420919152
+02,俄式木构民居,Russian Timber Dwelling,C8,C,main_architectural_morphology_AD69,27,1.5978099784879087
+02,俄式木构民居,Russian Timber Dwelling,C9,C,main_architectural_morphology_AD69,7,0.6958287918266512
+02,俄式木构民居,Russian Timber Dwelling,C10,C,main_architectural_morphology_AD69,1,-0.4189128787713421
+02,俄式木构民居,Russian Timber Dwelling,C11,C,main_architectural_morphology_AD69,4,2.289137322330868
+02,俄式木构民居,Russian Timber Dwelling,C12,C,main_architectural_morphology_AD69,30,2.2568764601126468
+02,俄式木构民居,Russian Timber Dwelling,C13,C,main_architectural_morphology_AD69,1,-0.14447603306958168
+02,俄式木构民居,Russian Timber Dwelling,C14,C,main_architectural_morphology_AD69,10,2.477189553833808
+02,俄式木构民居,Russian Timber Dwelling,C15,C,main_architectural_morphology_AD69,13,0.4645880302798222
+02,俄式木构民居,Russian Timber Dwelling,C16,C,main_architectural_morphology_AD69,1,1.5006799619665978
+02,俄式木构民居,Russian Timber Dwelling,C17,C,main_architectural_morphology_AD69,0,1.7013506574287491
+02,俄式木构民居,Russian Timber Dwelling,C18,C,main_architectural_morphology_AD69,2,-0.10145864798589095
+02,俄式木构民居,Russian Timber Dwelling,C19,C,main_architectural_morphology_AD69,0,0.6027383687606392
+02,俄式木构民居,Russian Timber Dwelling,C20,C,main_architectural_morphology_AD69,30,-0.8380545269853616
+02,俄式木构民居,Russian Timber Dwelling,D1,D,main_architectural_morphology_AD69,27,-0.43764541500767745
+02,俄式木构民居,Russian Timber Dwelling,D2,D,main_architectural_morphology_AD69,7,0.6638260607404775
+02,俄式木构民居,Russian Timber Dwelling,D3,D,main_architectural_morphology_AD69,18,0.6027383687606394
+02,俄式木构民居,Russian Timber Dwelling,D4,D,main_architectural_morphology_AD69,0,-2.230474975295577
+02,俄式木构民居,Russian Timber Dwelling,D5,D,main_architectural_morphology_AD69,2,-1.0066995436734612
+02,俄式木构民居,Russian Timber Dwelling,D6,D,main_architectural_morphology_AD69,3,-2.3197402684455453
+02,俄式木构民居,Russian Timber Dwelling,D7,D,main_architectural_morphology_AD69,0,-0.6965446153696216
+02,俄式木构民居,Russian Timber Dwelling,D8,D,main_architectural_morphology_AD69,4,1.1905250336627582
+02,俄式木构民居,Russian Timber Dwelling,D9,D,main_architectural_morphology_AD69,4,-0.5040706871116488
+02,俄式木构民居,Russian Timber Dwelling,D10,D,main_architectural_morphology_AD69,0,2.799962946096859
+02,俄式木构民居,Russian Timber Dwelling,D11,D,main_architectural_morphology_AD69,4,-0.21229862940834282
+02,俄式木构民居,Russian Timber Dwelling,D12,D,main_architectural_morphology_AD69,0,-0.6340242583882875
+02,俄式木构民居,Russian Timber Dwelling,D13,D,main_architectural_morphology_AD69,0,1.7013506574287491
+02,俄式木构民居,Russian Timber Dwelling,D14,D,main_architectural_morphology_AD69,0,2.799962946096859
+02,俄式木构民居,Russian Timber Dwelling,D15,D,main_architectural_morphology_AD69,0,2.799962946096859
+02,俄式木构民居,Russian Timber Dwelling,D16,D,main_architectural_morphology_AD69,0,2.799962946096859
+02,俄式木构民居,Russian Timber Dwelling,D17,D,main_architectural_morphology_AD69,0,2.799962946096859
+02,俄式木构民居,Russian Timber Dwelling,D18,D,main_architectural_morphology_AD69,0,-1.3109109180764524
+02,俄式木构民居,Russian Timber Dwelling,D19,D,main_architectural_morphology_AD69,28,-0.06972860656176719
+02,俄式木构民居,Russian Timber Dwelling,D20,D,main_architectural_morphology_AD69,7,-0.6595033436892724
+02,俄式木构民居,Russian Timber Dwelling,D21,D,main_architectural_morphology_AD69,16,-0.06828024928857224
+03,俄罗斯铁路建筑,Russian Railway,A1,A,main_architectural_morphology_AD69,4,-2.570690646783119
+03,俄罗斯铁路建筑,Russian Railway,A2,A,main_architectural_morphology_AD69,3,-2.2785655330648473
+03,俄罗斯铁路建筑,Russian Railway,A3,A,main_architectural_morphology_AD69,29,-0.14693823821444132
+03,俄罗斯铁路建筑,Russian Railway,A4,A,main_architectural_morphology_AD69,5,-0.8015306878306974
+03,俄罗斯铁路建筑,Russian Railway,A5,A,main_architectural_morphology_AD69,3,-0.11141841096590606
+03,俄罗斯铁路建筑,Russian Railway,A6,A,main_architectural_morphology_AD69,27,1.144379461224616
+03,俄罗斯铁路建筑,Russian Railway,A7,A,main_architectural_morphology_AD69,11,-0.33861172193703626
+03,俄罗斯铁路建筑,Russian Railway,A8,A,main_architectural_morphology_AD69,10,-1.8692763285182796
+03,俄罗斯铁路建筑,Russian Railway,A9,A,main_architectural_morphology_AD69,9,0.3425737380369188
+03,俄罗斯铁路建筑,Russian Railway,A10,A,main_architectural_morphology_AD69,3,-2.409230225207294
+03,俄罗斯铁路建筑,Russian Railway,A11,A,main_architectural_morphology_AD69,34,0.6061798654582035
+03,俄罗斯铁路建筑,Russian Railway,A12,A,main_architectural_morphology_AD69,7,-0.638117383888187
+03,俄罗斯铁路建筑,Russian Railway,B1,B,main_architectural_morphology_AD69,92,0.020107272431106236
+03,俄罗斯铁路建筑,Russian Railway,B2,B,main_architectural_morphology_AD69,19,-1.3688104533870067
+03,俄罗斯铁路建筑,Russian Railway,B3,B,main_architectural_morphology_AD69,5,-1.9572451014642367
+03,俄罗斯铁路建筑,Russian Railway,B4,B,main_architectural_morphology_AD69,371,0.048596596611110716
+03,俄罗斯铁路建筑,Russian Railway,B5,B,main_architectural_morphology_AD69,22,0.9871938777022037
+03,俄罗斯铁路建筑,Russian Railway,B6,B,main_architectural_morphology_AD69,0,-2.0380971980933316
+03,俄罗斯铁路建筑,Russian Railway,B7,B,main_architectural_morphology_AD69,1,-1.702918622713339
+03,俄罗斯铁路建筑,Russian Railway,B8,B,main_architectural_morphology_AD69,0,-2.1307560285760365
+03,俄罗斯铁路建筑,Russian Railway,B9,B,main_architectural_morphology_AD69,34,0.6548710246278021
+03,俄罗斯铁路建筑,Russian Railway,B10,B,main_architectural_morphology_AD69,130,0.46903885786353083
+03,俄罗斯铁路建筑,Russian Railway,B11,B,main_architectural_morphology_AD69,0,-0.11141841096590606
+03,俄罗斯铁路建筑,Russian Railway,B12,B,main_architectural_morphology_AD69,21,0.684508638658374
+03,俄罗斯铁路建筑,Russian Railway,B13,B,main_architectural_morphology_AD69,28,-0.28098844627782926
+03,俄罗斯铁路建筑,Russian Railway,B14,B,main_architectural_morphology_AD69,2,-1.1169402765680039
+03,俄罗斯铁路建筑,Russian Railway,B15,B,main_architectural_morphology_AD69,7,-0.6222440347318968
+03,俄罗斯铁路建筑,Russian Railway,B16,B,main_architectural_morphology_AD69,20,1.8675526003502954
+03,俄罗斯铁路建筑,Russian Railway,C1,C,main_architectural_morphology_AD69,21,0.035266665902582386
+03,俄罗斯铁路建筑,Russian Railway,C2,C,main_architectural_morphology_AD69,3,-0.8280960889360455
+03,俄罗斯铁路建筑,Russian Railway,C3,C,main_architectural_morphology_AD69,3,-1.037187886794605
+03,俄罗斯铁路建筑,Russian Railway,C4,C,main_architectural_morphology_AD69,14,-0.5358594205330759
+03,俄罗斯铁路建筑,Russian Railway,C5,C,main_architectural_morphology_AD69,5,0.7318471858933593
+03,俄罗斯铁路建筑,Russian Railway,C6,C,main_architectural_morphology_AD69,12,-0.21277090522619338
+03,俄罗斯铁路建筑,Russian Railway,C7,C,main_architectural_morphology_AD69,0,-0.8998757713301762
+03,俄罗斯铁路建筑,Russian Railway,C8,C,main_architectural_morphology_AD69,8,0.22035898135109913
+03,俄罗斯铁路建筑,Russian Railway,C9,C,main_architectural_morphology_AD69,2,-0.6061146528020132
+03,俄罗斯铁路建筑,Russian Railway,C10,C,main_architectural_morphology_AD69,3,0.22505382565530685
+03,俄罗斯铁路建筑,Russian Railway,C11,C,main_architectural_morphology_AD69,0,-0.11141841096590606
+03,俄罗斯铁路建筑,Russian Railway,C12,C,main_architectural_morphology_AD69,3,-0.11141841096590606
+03,俄罗斯铁路建筑,Russian Railway,C13,C,main_architectural_morphology_AD69,0,-1.4464194776982462
+03,俄罗斯铁路建筑,Russian Railway,C14,C,main_architectural_morphology_AD69,0,-0.77066403985017
+03,俄罗斯铁路建筑,Russian Railway,C15,C,main_architectural_morphology_AD69,117,2.4250055224590974
+03,俄罗斯铁路建筑,Russian Railway,C16,C,main_architectural_morphology_AD69,1,1.297348806006043
+03,俄罗斯铁路建筑,Russian Railway,C17,C,main_architectural_morphology_AD69,1,2.596631790136304
+03,俄罗斯铁路建筑,Russian Railway,C18,C,main_architectural_morphology_AD69,4,0.28299686095567345
+03,俄罗斯铁路建筑,Russian Railway,C19,C,main_architectural_morphology_AD69,0,0.3994072128000846
+03,俄罗斯铁路建筑,Russian Railway,C20,C,main_architectural_morphology_AD69,107,0.21837848100843515
+03,俄罗斯铁路建筑,Russian Railway,D1,D,main_architectural_morphology_AD69,51,-0.013580767971067392
+03,俄罗斯铁路建筑,Russian Railway,D2,D,main_architectural_morphology_AD69,8,0.5856580477339287
+03,俄罗斯铁路建筑,Russian Railway,D3,D,main_architectural_morphology_AD69,19,0.45205094628550657
+03,俄罗斯铁路建筑,Russian Railway,D4,D,main_architectural_morphology_AD69,3,-0.4878959822008182
+03,俄罗斯铁路建筑,Russian Railway,D5,D,main_architectural_morphology_AD69,8,0.01374473198809987
+03,俄罗斯铁路建筑,Russian Railway,D6,D,main_architectural_morphology_AD69,45,0.04187793305543665
+03,俄罗斯铁路建筑,Russian Railway,D7,D,main_architectural_morphology_AD69,4,1.297348806006043
+03,俄罗斯铁路建筑,Russian Railway,D8,D,main_architectural_morphology_AD69,0,-1.2100306996340158
+03,俄罗斯铁路建筑,Russian Railway,D9,D,main_architectural_morphology_AD69,7,-0.19657621930621297
+03,俄罗斯铁路建筑,Russian Railway,D10,D,main_architectural_morphology_AD69,0,2.5966317901363043
+03,俄罗斯铁路建筑,Russian Railway,D11,D,main_architectural_morphology_AD69,0,-2.612854362705117
+03,俄罗斯铁路建筑,Russian Railway,D12,D,main_architectural_morphology_AD69,0,-0.8373554143488421
+03,俄罗斯铁路建筑,Russian Railway,D13,D,main_architectural_morphology_AD69,1,2.596631790136304
+03,俄罗斯铁路建筑,Russian Railway,D14,D,main_architectural_morphology_AD69,0,2.5966317901363043
+03,俄罗斯铁路建筑,Russian Railway,D15,D,main_architectural_morphology_AD69,0,2.5966317901363043
+03,俄罗斯铁路建筑,Russian Railway,D16,D,main_architectural_morphology_AD69,0,2.5966317901363043
+03,俄罗斯铁路建筑,Russian Railway,D17,D,main_architectural_morphology_AD69,0,2.5966317901363043
+03,俄罗斯铁路建筑,Russian Railway,D18,D,main_architectural_morphology_AD69,3,0.43166807501830595
+03,俄罗斯铁路建筑,Russian Railway,D19,D,main_architectural_morphology_AD69,47,0.2377658612436687
+03,俄罗斯铁路建筑,Russian Railway,D20,D,main_architectural_morphology_AD69,15,-0.13689749626689102
+03,俄罗斯铁路建筑,Russian Railway,D21,D,main_architectural_morphology_AD69,59,1.0110045263959222
+04,拜占庭/东正教风格,Byzantine / Orthodox,A1,A,main_architectural_morphology_AD69,273,0.6016195990195178
+04,拜占庭/东正教风格,Byzantine / Orthodox,A2,A,main_architectural_morphology_AD69,70,-0.21062977102511793
+04,拜占庭/东正教风格,Byzantine / Orthodox,A3,A,main_architectural_morphology_AD69,33,-0.9546970420123201
+04,拜占庭/东正教风格,Byzantine / Orthodox,A4,A,main_architectural_morphology_AD69,14,-0.7670441099257194
+04,拜占庭/东正教风格,Byzantine / Orthodox,A5,A,main_architectural_morphology_AD69,1,-1.893630250636235
+04,拜占庭/东正教风格,Byzantine / Orthodox,A6,A,main_architectural_morphology_AD69,30,0.31300616088233085
+04,拜占庭/东正教风格,Byzantine / Orthodox,A7,A,main_architectural_morphology_AD69,15,-0.9750327126641651
+04,拜占庭/东正教风格,Byzantine / Orthodox,A8,A,main_architectural_morphology_AD69,0,-5.8487127455248284
+04,拜占庭/东正教风格,Byzantine / Orthodox,A9,A,main_architectural_morphology_AD69,9,-0.5923402412462065
+04,拜占庭/东正教风格,Byzantine / Orthodox,A10,A,main_architectural_morphology_AD69,263,0.9771461949956297
+04,拜占庭/东正教风格,Byzantine / Orthodox,A11,A,main_architectural_morphology_AD69,40,-0.1683914637497425
+04,拜占庭/东正教风格,Byzantine / Orthodox,A12,A,main_architectural_morphology_AD69,10,-1.2365591265500993
+04,拜占庭/东正教风格,Byzantine / Orthodox,B1,B,main_architectural_morphology_AD69,388,0.5202778184373035
+04,拜占庭/东正教风格,Byzantine / Orthodox,B2,B,main_architectural_morphology_AD69,118,-0.4992259376646473
+04,拜占庭/东正教风格,Byzantine / Orthodox,B3,B,main_architectural_morphology_AD69,28,-1.2470030857111827
+04,拜占庭/东正教风格,Byzantine / Orthodox,B4,B,main_architectural_morphology_AD69,446,-0.7024268465132749
+04,拜占庭/东正教风格,Byzantine / Orthodox,B5,B,main_architectural_morphology_AD69,2,-2.144944678917141
+04,拜占庭/东正教风格,Byzantine / Orthodox,B6,B,main_architectural_morphology_AD69,0,-2.973011177376457
+04,拜占庭/东正教风格,Byzantine / Orthodox,B7,B,main_architectural_morphology_AD69,0,-3.736444890664574
+04,拜占庭/东正教风格,Byzantine / Orthodox,B8,B,main_architectural_morphology_AD69,0,-3.065670007859162
+04,拜占庭/东正教风格,Byzantine / Orthodox,B9,B,main_architectural_morphology_AD69,9,-1.5697104800861421
+04,拜占庭/东正教风格,Byzantine / Orthodox,B10,B,main_architectural_morphology_AD69,573,1.0145095883870827
+04,拜占庭/东正教风格,Byzantine / Orthodox,B11,B,main_architectural_morphology_AD69,0,-1.0463323902490316
+04,拜占庭/东正教风格,Byzantine / Orthodox,B12,B,main_architectural_morphology_AD69,2,-2.4021675438842136
+04,拜占庭/东正教风格,Byzantine / Orthodox,B13,B,main_architectural_morphology_AD69,159,0.5062374093893397
+04,拜占庭/东正教风格,Byzantine / Orthodox,B14,B,main_architectural_morphology_AD69,5,-1.263396895486859
+04,拜占庭/东正教风格,Byzantine / Orthodox,B15,B,main_architectural_morphology_AD69,14,-0.8979123851307582
+04,拜占庭/东正教风格,Byzantine / Orthodox,B16,B,main_architectural_morphology_AD69,3,-0.8350232965818246
+04,拜占庭/东正教风格,Byzantine / Orthodox,C1,C,main_architectural_morphology_AD69,63,0.18333965738448585
+04,拜占庭/东正教风格,Byzantine / Orthodox,C2,C,main_architectural_morphology_AD69,6,-1.1439708598129474
+04,拜占庭/东正教风格,Byzantine / Orthodox,C3,C,main_architectural_morphology_AD69,5,-1.520116742334673
+04,拜占庭/东正教风格,Byzantine / Orthodox,C4,C,main_architectural_morphology_AD69,140,0.8002854395310703
+04,拜占庭/东正教风格,Byzantine / Orthodox,C5,C,main_architectural_morphology_AD69,5,-0.20306679338976624
+04,拜占庭/东正教风格,Byzantine / Orthodox,C6,C,main_architectural_morphology_AD69,41,0.052279898419078326
+04,拜占庭/东正教风格,Byzantine / Orthodox,C7,C,main_architectural_morphology_AD69,0,-1.8347897506133017
+04,拜占庭/东正教风格,Byzantine / Orthodox,C8,C,main_architectural_morphology_AD69,2,-1.938330429554142
+04,拜占庭/东正教风格,Byzantine / Orthodox,C9,C,main_architectural_morphology_AD69,5,-0.7525712717208684
+04,拜占庭/东正教风格,Byzantine / Orthodox,C10,C,main_architectural_morphology_AD69,4,-0.4585457253469125
+04,拜占庭/东正教风格,Byzantine / Orthodox,C11,C,main_architectural_morphology_AD69,0,-1.0463323902490316
+04,拜占庭/东正教风格,Byzantine / Orthodox,C12,C,main_architectural_morphology_AD69,0,-2.992242539304345
+04,拜占庭/东正教风格,Byzantine / Orthodox,C13,C,main_architectural_morphology_AD69,1,-1.2827211683132618
+04,拜占庭/东正教风格,Byzantine / Orthodox,C14,C,main_architectural_morphology_AD69,1,-0.6069657304651856
+04,拜占庭/东正教风格,Byzantine / Orthodox,C15,C,main_architectural_morphology_AD69,1,-2.870881682300077
+04,拜占庭/东正教风格,Byzantine / Orthodox,C16,C,main_architectural_morphology_AD69,0,-0.7361774619451921
+04,拜占庭/东正教风格,Byzantine / Orthodox,C17,C,main_architectural_morphology_AD69,0,0.5631055221850689
+04,拜占庭/东正教风格,Byzantine / Orthodox,C18,C,main_architectural_morphology_AD69,3,-0.903231546608358
+04,拜占庭/东正教风格,Byzantine / Orthodox,C19,C,main_architectural_morphology_AD69,0,-0.5355067664830409
+04,拜占庭/东正教风格,Byzantine / Orthodox,C20,C,main_architectural_morphology_AD69,285,0.2602156832536571
+04,拜占庭/东正教风格,Byzantine / Orthodox,D1,D,main_architectural_morphology_AD69,230,0.55017430751282
+04,拜占庭/东正教风格,Byzantine / Orthodox,D2,D,main_architectural_morphology_AD69,26,0.7878226379467091
+04,拜占庭/东正教风格,Byzantine / Orthodox,D3,D,main_architectural_morphology_AD69,53,0.526404155334641
+04,拜占庭/东正教风格,Byzantine / Orthodox,D4,D,main_architectural_morphology_AD69,21,0.39248000515430553
+04,拜占庭/东正教风格,Byzantine / Orthodox,D5,D,main_architectural_morphology_AD69,52,0.899577758806282
+04,拜占庭/东正教风格,Byzantine / Orthodox,D6,D,main_architectural_morphology_AD69,217,0.6714504783441454
+04,拜占庭/东正教风格,Byzantine / Orthodox,D7,D,main_architectural_morphology_AD69,2,-0.2253518381792013
+04,拜占庭/东正教风格,Byzantine / Orthodox,D8,D,main_architectural_morphology_AD69,0,-2.1449446789171414
+04,拜占庭/东正教风格,Byzantine / Orthodox,D9,D,main_architectural_morphology_AD69,39,0.529907452775473
+04,拜占庭/东正教风格,Byzantine / Orthodox,D10,D,main_architectural_morphology_AD69,0,1.6617178108531785
+04,拜占庭/东正教风格,Byzantine / Orthodox,D11,D,main_architectural_morphology_AD69,2,-1.938330429554142
+04,拜占庭/东正教风格,Byzantine / Orthodox,D12,D,main_architectural_morphology_AD69,0,-1.7722693936319676
+04,拜占庭/东正教风格,Byzantine / Orthodox,D13,D,main_architectural_morphology_AD69,0,0.5631055221850689
+04,拜占庭/东正教风格,Byzantine / Orthodox,D14,D,main_architectural_morphology_AD69,0,1.6617178108531785
+04,拜占庭/东正教风格,Byzantine / Orthodox,D15,D,main_architectural_morphology_AD69,0,1.6617178108531785
+04,拜占庭/东正教风格,Byzantine / Orthodox,D16,D,main_architectural_morphology_AD69,0,1.6617178108531785
+04,拜占庭/东正教风格,Byzantine / Orthodox,D17,D,main_architectural_morphology_AD69,0,1.6617178108531785
+04,拜占庭/东正教风格,Byzantine / Orthodox,D18,D,main_architectural_morphology_AD69,6,0.11579330414140408
+04,拜占庭/东正教风格,Byzantine / Orthodox,D19,D,main_architectural_morphology_AD69,48,-0.6763140311366147
+04,拜占庭/东正教风格,Byzantine / Orthodox,D20,D,main_architectural_morphology_AD69,25,-0.573973047310837
+04,拜占庭/东正教风格,Byzantine / Orthodox,D21,D,main_architectural_morphology_AD69,12,-1.484157121130532
+05,折衷主义,Eclecticism,A1,A,main_architectural_morphology_AD69,21,-1.4922484712331654
+05,折衷主义,Eclecticism,A2,A,main_architectural_morphology_AD69,45,-0.1991495384107005
+05,折衷主义,Eclecticism,A3,A,main_architectural_morphology_AD69,80,0.37139532005691256
+05,折衷主义,Eclecticism,A4,A,main_architectural_morphology_AD69,12,-0.466083498568257
+05,折衷主义,Eclecticism,A5,A,main_architectural_morphology_AD69,26,1.4274299907235128
+05,折衷主义,Eclecticism,A6,A,main_architectural_morphology_AD69,20,0.36508497988906313
+05,折衷主义,Eclecticism,A7,A,main_architectural_morphology_AD69,32,0.2147479692220615
+05,折衷主义,Eclecticism,A8,A,main_architectural_morphology_AD69,16,-1.9028245675826123
+05,折衷主义,Eclecticism,A9,A,main_architectural_morphology_AD69,22,0.7192638858334084
+05,折衷主义,Eclecticism,A10,A,main_architectural_morphology_AD69,23,-0.9905261353599383
+05,折衷主义,Eclecticism,A11,A,main_architectural_morphology_AD69,65,0.761737321254706
+05,折衷主义,Eclecticism,A12,A,main_architectural_morphology_AD69,30,0.27917291637552466
+05,折衷主义,Eclecticism,B1,B,main_architectural_morphology_AD69,232,0.4562554901327479
+05,折衷主义,Eclecticism,B2,B,main_architectural_morphology_AD69,20,-1.8043333956197352
+05,折衷主义,Eclecticism,B3,B,main_architectural_morphology_AD69,32,-0.66628646717436
+05,折衷主义,Eclecticism,B4,B,main_architectural_morphology_AD69,490,-0.15906035134867502
+05,折衷主义,Eclecticism,B5,B,main_architectural_morphology_AD69,7,-0.5969517737732957
+05,折衷主义,Eclecticism,B6,B,main_architectural_morphology_AD69,2,-0.914192648466621
+05,折衷主义,Eclecticism,B7,B,main_architectural_morphology_AD69,24,0.6047560239217881
+05,折衷主义,Eclecticism,B8,B,main_architectural_morphology_AD69,17,0.9390586701059874
+05,折衷主义,Eclecticism,B9,B,main_architectural_morphology_AD69,67,0.8405059356615826
+05,折衷主义,Eclecticism,B10,B,main_architectural_morphology_AD69,107,-0.21037688413888936
+05,折衷主义,Eclecticism,B11,B,main_architectural_morphology_AD69,5,1.8009434990250746
+05,折衷主义,Eclecticism,B12,B,main_architectural_morphology_AD69,0,-3.562224839842578
+05,折衷主义,Eclecticism,B13,B,main_architectural_morphology_AD69,56,-0.08218525820742859
+05,折衷主义,Eclecticism,B14,B,main_architectural_morphology_AD69,59,1.5672119413020356
+05,折衷主义,Eclecticism,B15,B,main_architectural_morphology_AD69,44,0.6728087710906433
+05,折衷主义,Eclecticism,B16,B,main_architectural_morphology_AD69,4,-0.13432825182518288
+05,折衷主义,Eclecticism,C1,C,main_architectural_morphology_AD69,37,0.10602130093794075
+05,折衷主义,Eclecticism,C2,C,main_architectural_morphology_AD69,3,-1.3136294517434353
+05,折衷主义,Eclecticism,C3,C,main_architectural_morphology_AD69,10,-0.424108960933885
+05,折衷主义,Eclecticism,C4,C,main_architectural_morphology_AD69,39,-0.019240760859918236
+05,折衷主义,Eclecticism,C5,C,main_architectural_morphology_AD69,18,1.4593364629318233
+05,折衷主义,Eclecticism,C6,C,main_architectural_morphology_AD69,32,0.2572071769938531
+05,折衷主义,Eclecticism,C7,C,main_architectural_morphology_AD69,5,1.0124861386608046
+05,折衷主义,Eclecticism,C8,C,main_architectural_morphology_AD69,18,0.5125301871317178
+05,折衷主义,Eclecticism,C9,C,main_architectural_morphology_AD69,27,1.3062472571889676
+05,折衷主义,Eclecticism,C10,C,main_architectural_morphology_AD69,10,0.8381327515160268
+05,折衷主义,Eclecticism,C11,C,main_architectural_morphology_AD69,1,0.5016605148948139
+05,折衷主义,Eclecticism,C12,C,main_architectural_morphology_AD69,13,0.7529749431757201
+05,折衷主义,Eclecticism,C13,C,main_architectural_morphology_AD69,14,1.435342989480838
+05,折衷主义,Eclecticism,C14,C,main_architectural_morphology_AD69,0,-1.2561974026575597
+05,折衷主义,Eclecticism,C15,C,main_architectural_morphology_AD69,7,-0.8120631533902414
+05,折衷主义,Eclecticism,C16,C,main_architectural_morphology_AD69,2,1.3226410669646442
+05,折衷主义,Eclecticism,C17,C,main_architectural_morphology_AD69,0,1.0124861386608046
+05,折衷主义,Eclecticism,C18,C,main_architectural_morphology_AD69,7,0.30828912191427443
+05,折衷主义,Eclecticism,C19,C,main_architectural_morphology_AD69,1,1.0124861386608046
+05,折衷主义,Eclecticism,C20,C,main_architectural_morphology_AD69,154,0.09554836697112794
+05,折衷主义,Eclecticism,D1,D,main_architectural_morphology_AD69,90,0.06465391225773287
+05,折衷主义,Eclecticism,D2,D,main_architectural_morphology_AD69,6,-0.16813930166814026
+05,折衷主义,Eclecticism,D3,D,main_architectural_morphology_AD69,50,0.91807645418973
+05,折衷主义,Eclecticism,D4,D,main_architectural_morphology_AD69,20,0.7942325726407866
+05,折衷主义,Eclecticism,D5,D,main_architectural_morphology_AD69,30,0.8058718892978055
+05,折衷主义,Eclecticism,D6,D,main_architectural_morphology_AD69,46,-0.42191544311554713
+05,折衷主义,Eclecticism,D7,D,main_architectural_morphology_AD69,5,1.0124861386608046
+05,折衷主义,Eclecticism,D8,D,main_architectural_morphology_AD69,12,1.5233117624267951
+05,折衷主义,Eclecticism,D9,D,main_architectural_morphology_AD69,12,-0.1712839583476119
+05,折衷主义,Eclecticism,D10,D,main_architectural_morphology_AD69,0,2.1110984273289146
+05,折衷主义,Eclecticism,D11,D,main_architectural_morphology_AD69,10,-0.05386528778908365
+05,折衷主义,Eclecticism,D12,D,main_architectural_morphology_AD69,0,-1.3228887771562319
+05,折衷主义,Eclecticism,D13,D,main_architectural_morphology_AD69,0,1.0124861386608046
+05,折衷主义,Eclecticism,D14,D,main_architectural_morphology_AD69,0,2.1110984273289146
+05,折衷主义,Eclecticism,D15,D,main_architectural_morphology_AD69,0,2.1110984273289146
+05,折衷主义,Eclecticism,D16,D,main_architectural_morphology_AD69,0,2.1110984273289146
+05,折衷主义,Eclecticism,D17,D,main_architectural_morphology_AD69,0,2.1110984273289146
+05,折衷主义,Eclecticism,D18,D,main_architectural_morphology_AD69,0,-1.999775436844397
+05,折衷主义,Eclecticism,D19,D,main_architectural_morphology_AD69,95,0.45062903488236805
+05,折衷主义,Eclecticism,D20,D,main_architectural_morphology_AD69,43,0.4094900550951568
+05,折衷主义,Eclecticism,D21,D,main_architectural_morphology_AD69,37,0.06383578401331352
+06,新艺术运动,Art Nouveau,A1,A,main_architectural_morphology_AD69,39,-0.39846737165231655
+06,新艺术运动,Art Nouveau,A2,A,main_architectural_morphology_AD69,12,-1.00559985725196
+06,新艺术运动,Art Nouveau,A3,A,main_architectural_morphology_AD69,39,0.14497217034686077
+06,新艺术运动,Art Nouveau,A4,A,main_architectural_morphology_AD69,12,0.019449864239132898
+06,新艺术运动,Art Nouveau,A5,A,main_architectural_morphology_AD69,2,-0.44789064758711894
+06,新艺术运动,Art Nouveau,A6,A,main_architectural_morphology_AD69,0,-2.8629537240078546
+06,新艺术运动,Art Nouveau,A7,A,main_architectural_morphology_AD69,16,0.022401623600294362
+06,新艺术运动,Art Nouveau,A8,A,main_architectural_morphology_AD69,85,0.22786479026095716
+06,新艺术运动,Art Nouveau,A9,A,main_architectural_morphology_AD69,8,0.23134810292669447
+06,新艺术运动,Art Nouveau,A10,A,main_architectural_morphology_AD69,2,-2.745702461828507
+06,新艺术运动,Art Nouveau,A11,A,main_architectural_morphology_AD69,6,-1.0629772816775191
+06,新艺术运动,Art Nouveau,A12,A,main_architectural_morphology_AD69,16,0.15033997647608333
+06,新艺术运动,Art Nouveau,B1,B,main_architectural_morphology_AD69,70,-0.25148866226905037
+06,新艺术运动,Art Nouveau,B2,B,main_architectural_morphology_AD69,112,0.3837283026877669
+06,新艺术运动,Art Nouveau,B3,B,main_architectural_morphology_AD69,41,0.06370023353399056
+06,新艺术运动,Art Nouveau,B4,B,main_architectural_morphology_AD69,402,0.12874282931191502
+06,新艺术运动,Art Nouveau,B5,B,main_architectural_morphology_AD69,12,0.3994072128000846
+06,新艺术运动,Art Nouveau,B6,B,main_architectural_morphology_AD69,7,0.6699530030088783
+06,新艺术运动,Art Nouveau,B7,B,main_architectural_morphology_AD69,15,0.6324562931036976
+06,新艺术运动,Art Nouveau,B8,B,main_architectural_morphology_AD69,2,-0.5213181161419362
+06,新艺术运动,Art Nouveau,B9,B,main_architectural_morphology_AD69,3,-1.633325330914144
+06,新艺术运动,Art Nouveau,B10,B,main_architectural_morphology_AD69,19,-1.4319199033295162
+06,新艺术运动,Art Nouveau,B11,B,main_architectural_morphology_AD69,2,1.4980195014681943
+06,新艺术运动,Art Nouveau,B12,B,main_architectural_morphology_AD69,36,1.2137679641132026
+06,新艺术运动,Art Nouveau,B13,B,main_architectural_morphology_AD69,34,-0.08993320951512006
+06,新艺术运动,Art Nouveau,B14,B,main_architectural_morphology_AD69,2,-1.1169402765680039
+06,新艺术运动,Art Nouveau,B15,B,main_architectural_morphology_AD69,16,0.16621332563237343
+06,新艺术运动,Art Nouveau,B16,B,main_architectural_morphology_AD69,6,0.7189298911075243
+06,新艺术运动,Art Nouveau,C1,C,main_architectural_morphology_AD69,21,0.035266665902582386
+06,新艺术运动,Art Nouveau,C2,C,main_architectural_morphology_AD69,8,0.05920710606485719
+06,新艺术运动,Art Nouveau,C3,C,main_architectural_morphology_AD69,26,0.9871938777022037
+06,新艺术运动,Art Nouveau,C4,C,main_architectural_morphology_AD69,6,-1.3382058930580132
+06,新艺术运动,Art Nouveau,C5,C,main_architectural_morphology_AD69,0,-1.6660480869050112
+06,新艺术运动,Art Nouveau,C6,C,main_architectural_morphology_AD69,11,-0.2961525141652445
+06,新艺术运动,Art Nouveau,C7,C,main_architectural_morphology_AD69,5,1.4980195014681943
+06,新艺术运动,Art Nouveau,C8,C,main_architectural_morphology_AD69,1,-1.5142420740370073
+06,新艺术运动,Art Nouveau,C9,C,main_architectural_morphology_AD69,13,1.0802843007682155
+06,新艺术运动,Art Nouveau,C10,C,main_architectural_morphology_AD69,5,0.6770389493983641
+06,新艺术运动,Art Nouveau,C11,C,main_architectural_morphology_AD69,1,0.9871938777022035
+06,新艺术运动,Art Nouveau,C12,C,main_architectural_morphology_AD69,0,-2.057328560021219
+06,新艺术运动,Art Nouveau,C13,C,main_architectural_morphology_AD69,0,-1.4464194776982462
+06,新艺术运动,Art Nouveau,C14,C,main_architectural_morphology_AD69,2,0.8387738725839304
+06,新艺术运动,Art Nouveau,C15,C,main_architectural_morphology_AD69,0,-3.0345799916850615
+06,新艺术运动,Art Nouveau,C16,C,main_architectural_morphology_AD69,0,0.19873651733793354
+06,新艺术运动,Art Nouveau,C17,C,main_architectural_morphology_AD69,0,1.4980195014681945
+06,新艺术运动,Art Nouveau,C18,C,main_architectural_morphology_AD69,2,-0.3047898039464456
+06,新艺术运动,Art Nouveau,C19,C,main_architectural_morphology_AD69,2,2.008845125234185
+06,新艺术运动,Art Nouveau,C20,C,main_architectural_morphology_AD69,107,0.21837848100843515
+06,新艺术运动,Art Nouveau,D1,D,main_architectural_morphology_AD69,21,-0.8871096405071407
+06,新艺术运动,Art Nouveau,D2,D,main_architectural_morphology_AD69,3,-0.30164514726697406
+06,新艺术运动,Art Nouveau,D3,D,main_architectural_morphology_AD69,0,-3.2115106998441396
+06,新艺术运动,Art Nouveau,D4,D,main_architectural_morphology_AD69,20,1.2797659354481765
+06,新艺术运动,Art Nouveau,D5,D,main_architectural_morphology_AD69,3,-0.8735584630128027
+06,新艺术运动,Art Nouveau,D6,D,main_architectural_morphology_AD69,78,0.5872642318868948
+06,新艺术运动,Art Nouveau,D7,D,main_architectural_morphology_AD69,3,1.046034377725137
+06,新艺术运动,Art Nouveau,D8,D,main_architectural_morphology_AD69,4,0.9871938777022035
+06,新艺术运动,Art Nouveau,D9,D,main_architectural_morphology_AD69,12,0.31424940445977784
+06,新艺术运动,Art Nouveau,D10,D,main_architectural_morphology_AD69,0,2.5966317901363043
+06,新艺术运动,Art Nouveau,D11,D,main_architectural_morphology_AD69,0,-2.612854362705117
+06,新艺术运动,Art Nouveau,D12,D,main_architectural_morphology_AD69,0,-0.8373554143488421
+06,新艺术运动,Art Nouveau,D13,D,main_architectural_morphology_AD69,0,1.4980195014681945
+06,新艺术运动,Art Nouveau,D14,D,main_architectural_morphology_AD69,0,2.5966317901363043
+06,新艺术运动,Art Nouveau,D15,D,main_architectural_morphology_AD69,0,2.5966317901363043
+06,新艺术运动,Art Nouveau,D16,D,main_architectural_morphology_AD69,0,2.5966317901363043
+06,新艺术运动,Art Nouveau,D17,D,main_architectural_morphology_AD69,0,2.5966317901363043
+06,新艺术运动,Art Nouveau,D18,D,main_architectural_morphology_AD69,4,0.6829825032992121
+06,新艺术运动,Art Nouveau,D19,D,main_architectural_morphology_AD69,46,0.2164884627963839
+06,新艺术运动,Art Nouveau,D20,D,main_architectural_morphology_AD69,36,0.7195747403963538
+06,新艺术运动,Art Nouveau,D21,D,main_architectural_morphology_AD69,15,-0.334131762230461
+07,巴洛克,Baroque,A1,A,main_architectural_morphology_AD69,134,0.6962166411057852
+07,巴洛克,Baroque,A2,A,main_architectural_morphology_AD69,29,-0.27751775259115724
+07,巴洛克,Baroque,A3,A,main_architectural_morphology_AD69,51,0.2796737917327591
+07,巴洛克,Baroque,A4,A,main_architectural_morphology_AD69,28,0.7130457928287662
+07,巴洛克,Baroque,A5,A,main_architectural_morphology_AD69,0,-2.187908074397935
+07,巴洛克,Baroque,A6,A,main_architectural_morphology_AD69,0,-2.993533238384571
+07,巴洛克,Baroque,A7,A,main_architectural_morphology_AD69,42,0.8379658042474147
+07,巴洛克,Baroque,A8,A,main_architectural_morphology_AD69,103,0.2883405126469505
+07,巴洛克,Baroque,A9,A,main_architectural_morphology_AD69,7,-0.024394554404027442
+07,巴洛克,Baroque,A10,A,main_architectural_morphology_AD69,23,-0.6355722869292646
+07,巴洛克,Baroque,A11,A,main_architectural_morphology_AD69,11,-0.6230119375866221
+07,巴洛克,Baroque,A12,A,main_architectural_morphology_AD69,0,-3.476747099367113
+07,巴洛克,Baroque,B1,B,main_architectural_morphology_AD69,6,-2.765878709562398
+07,巴洛克,Baroque,B2,B,main_architectural_morphology_AD69,307,1.258670653913149
+07,巴洛克,Baroque,B3,B,main_architectural_morphology_AD69,5,-2.087824615840953
+07,巴洛克,Baroque,B4,B,main_architectural_morphology_AD69,481,0.17737444931476115
+07,巴洛克,Baroque,B5,B,main_architectural_morphology_AD69,0,-2.9500481264448317
+07,巴洛克,Baroque,B6,B,main_architectural_morphology_AD69,0,-2.1686767124700475
+07,巴洛克,Baroque,B7,B,main_architectural_morphology_AD69,0,-2.9321104257581645
+07,巴洛克,Baroque,B8,B,main_architectural_morphology_AD69,0,-2.2613355429527524
+07,巴洛克,Baroque,B9,B,main_architectural_morphology_AD69,0,-3.7098149943461727
+07,巴洛克,Baroque,B10,B,main_architectural_morphology_AD69,19,-1.562499417706232
+07,巴洛克,Baroque,B11,B,main_architectural_morphology_AD69,0,-0.2419979253426219
+07,巴洛克,Baroque,B12,B,main_architectural_morphology_AD69,17,0.3480770700775093
+07,巴洛克,Baroque,B13,B,main_architectural_morphology_AD69,60,0.34117131710764576
+07,巴洛克,Baroque,B14,B,main_architectural_morphology_AD69,0,-2.85695770337882
+07,巴洛克,Baroque,B15,B,main_architectural_morphology_AD69,16,0.035633811255657545
+07,巴洛克,Baroque,B16,B,main_architectural_morphology_AD69,0,-1.9765989807307285
+07,巴洛克,Baroque,C1,C,main_architectural_morphology_AD69,0,-3.856512964167696
+07,巴洛克,Baroque,C2,C,main_architectural_morphology_AD69,5,-0.5066904795697043
+07,巴洛克,Baroque,C3,C,main_architectural_morphology_AD69,10,-0.06915511250321113
+07,巴洛克,Baroque,C4,C,main_architectural_morphology_AD69,1,-2.9351224762281563
+07,巴洛克,Baroque,C5,C,main_architectural_morphology_AD69,0,-1.7966276012817273
+07,巴洛克,Baroque,C6,C,main_architectural_morphology_AD69,13,-0.2663893784667811
+07,巴洛克,Baroque,C7,C,main_architectural_morphology_AD69,0,-1.030455285706892
+07,巴洛克,Baroque,C8,C,main_architectural_morphology_AD69,0,-2.743433877081833
+07,巴洛克,Baroque,C9,C,main_architectural_morphology_AD69,0,-2.3461320796128295
+07,巴洛克,Baroque,C10,C,main_architectural_morphology_AD69,5,0.5464594350216482
+07,巴洛克,Baroque,C11,C,main_architectural_morphology_AD69,0,-0.2419979253426219
+07,巴洛克,Baroque,C12,C,main_architectural_morphology_AD69,0,-2.187908074397935
+07,巴洛克,Baroque,C13,C,main_architectural_morphology_AD69,0,-1.5769989920749619
+07,巴洛克,Baroque,C14,C,main_architectural_morphology_AD69,0,-0.9012435542268857
+07,巴洛克,Baroque,C15,C,main_architectural_morphology_AD69,0,-3.1651595060617774
+07,巴洛克,Baroque,C16,C,main_architectural_morphology_AD69,0,0.06815700296121763
+07,巴洛克,Baroque,C17,C,main_architectural_morphology_AD69,0,1.3674399870914786
+07,巴洛克,Baroque,C18,C,main_architectural_morphology_AD69,0,-2.044807230757262
+07,巴洛克,Baroque,C19,C,main_architectural_morphology_AD69,0,0.2688276984233688
+07,巴洛克,Baroque,C20,C,main_architectural_morphology_AD69,97,-0.009839502932196728
+07,巴洛克,Baroque,D1,D,main_architectural_morphology_AD69,70,0.16987061980074933
+07,巴洛克,Baroque,D2,D,main_architectural_morphology_AD69,0,-2.3781348106990032
+07,巴洛克,Baroque,D3,D,main_architectural_morphology_AD69,0,-3.3420902142208555
+07,巴洛克,Baroque,D4,D,main_architectural_morphology_AD69,0,-2.5643856456328473
+07,巴洛克,Baroque,D5,D,main_architectural_morphology_AD69,0,-2.9500481264448317
+07,巴洛克,Baroque,D6,D,main_architectural_morphology_AD69,93,0.6315475290164574
+07,巴洛克,Baroque,D7,D,main_architectural_morphology_AD69,0,-1.030455285706892
+07,巴洛克,Baroque,D8,D,main_architectural_morphology_AD69,0,-1.3406102140107317
+07,巴洛克,Baroque,D9,D,main_architectural_morphology_AD69,0,-3.0352059347851386
+07,巴洛克,Baroque,D10,D,main_architectural_morphology_AD69,0,2.4660522757595884
+07,巴洛克,Baroque,D11,D,main_architectural_morphology_AD69,0,-2.743433877081833
+07,巴洛克,Baroque,D12,D,main_architectural_morphology_AD69,0,-0.9679349287255581
+07,巴洛克,Baroque,D13,D,main_architectural_morphology_AD69,0,1.3674399870914786
+07,巴洛克,Baroque,D14,D,main_architectural_morphology_AD69,0,2.4660522757595884
+07,巴洛克,Baroque,D15,D,main_architectural_morphology_AD69,0,2.4660522757595884
+07,巴洛克,Baroque,D16,D,main_architectural_morphology_AD69,0,2.4660522757595884
+07,巴洛克,Baroque,D17,D,main_architectural_morphology_AD69,0,2.4660522757595884
+07,巴洛克,Baroque,D18,D,main_architectural_morphology_AD69,0,-1.6448215884137232
+07,巴洛克,Baroque,D19,D,main_architectural_morphology_AD69,19,-0.7831288986039414
+07,巴洛克,Baroque,D20,D,main_architectural_morphology_AD69,22,0.10519827464156659
+07,巴洛克,Baroque,D21,D,main_architectural_morphology_AD69,7,-1.190648279990113
+08,中华巴洛克,Chinese Baroque,A1,A,main_architectural_morphology_AD69,8,-1.1837904796784888
+08,中华巴洛克,Chinese Baroque,A2,A,main_architectural_morphology_AD69,61,1.33862007363689
+08,中华巴洛克,Chinese Baroque,A3,A,main_architectural_morphology_AD69,19,0.18999736439411882
+08,中华巴洛克,Chinese Baroque,A4,A,main_architectural_morphology_AD69,5,-0.05061928744606427
+08,中华巴洛克,Chinese Baroque,A5,A,main_architectural_morphology_AD69,0,-1.3064171596365861
+08,中华巴洛克,Chinese Baroque,A6,A,main_architectural_morphology_AD69,0,-2.1120423236232218
+08,中华巴洛克,Chinese Baroque,A7,A,main_architectural_morphology_AD69,12,0.495681287386648
+08,中华巴洛克,Chinese Baroque,A8,A,main_architectural_morphology_AD69,18,-0.551969453212845
+08,中华巴洛克,Chinese Baroque,A9,A,main_architectural_morphology_AD69,1,-0.7523415520767787
+08,中华巴洛克,Chinese Baroque,A10,A,main_architectural_morphology_AD69,11,-0.4687347579488244
+08,中华巴洛克,Chinese Baroque,A11,A,main_architectural_morphology_AD69,2,-1.2675773263203223
+08,中华巴洛克,Chinese Baroque,A12,A,main_architectural_morphology_AD69,80,2.486148180378699
+08,中华巴洛克,Chinese Baroque,B1,B,main_architectural_morphology_AD69,0,-4.4493371522625855
+08,中华巴洛克,Chinese Baroque,B2,B,main_architectural_morphology_AD69,55,0.42806950218031414
+08,中华巴洛克,Chinese Baroque,B3,B,main_architectural_morphology_AD69,9,-0.6597899947115337
+08,中华巴洛克,Chinese Baroque,B4,B,main_architectural_morphology_AD69,190,0.13161132740468556
+08,中华巴洛克,Chinese Baroque,B5,B,main_architectural_morphology_AD69,0,-2.068557211683483
+08,中华巴洛克,Chinese Baroque,B6,B,main_architectural_morphology_AD69,0,-1.2871857977086985
+08,中华巴洛克,Chinese Baroque,B7,B,main_architectural_morphology_AD69,2,-0.4411815985627152
+08,中华巴洛克,Chinese Baroque,B8,B,main_architectural_morphology_AD69,0,-1.3798446281914034
+08,中华巴洛克,Chinese Baroque,B9,B,main_architectural_morphology_AD69,0,-2.828324079584824
+08,中华巴洛克,Chinese Baroque,B10,B,main_architectural_morphology_AD69,0,-4.34457014907453
+08,中华巴洛克,Chinese Baroque,B11,B,main_architectural_morphology_AD69,0,0.6394929894187271
+08,中华巴洛克,Chinese Baroque,B12,B,main_architectural_morphology_AD69,9,0.6186589025158851
+08,中华巴洛克,Chinese Baroque,B13,B,main_architectural_morphology_AD69,15,-0.13914110924259995
+08,中华巴洛克,Chinese Baroque,B14,B,main_architectural_morphology_AD69,0,-1.975466788617471
+08,中华巴洛克,Chinese Baroque,B15,B,main_architectural_morphology_AD69,5,-0.18148756265110302
+08,中华巴洛克,Chinese Baroque,B16,B,main_architectural_morphology_AD69,1,0.003504222698730348
+08,中华巴洛克,Chinese Baroque,C1,C,main_architectural_morphology_AD69,8,-0.14180870535013068
+08,中华巴洛克,Chinese Baroque,C2,C,main_architectural_morphology_AD69,2,-0.4136569251726253
+08,中华巴洛克,Chinese Baroque,C3,C,main_architectural_morphology_AD69,4,-0.034962058129065714
+08,中华巴洛克,Chinese Baroque,C4,C,main_architectural_morphology_AD69,3,-1.2063337010796034
+08,中华巴洛克,Chinese Baroque,C5,C,main_architectural_morphology_AD69,0,-0.9151366865203782
+08,中华巴洛克,Chinese Baroque,C6,C,main_architectural_morphology_AD69,7,0.027314871392449133
+08,中华巴洛克,Chinese Baroque,C7,C,main_architectural_morphology_AD69,0,-0.14896437094554313
+08,中华巴洛克,Chinese Baroque,C8,C,main_architectural_morphology_AD69,10,1.182579475402939
+08,中华巴洛克,Chinese Baroque,C9,C,main_architectural_morphology_AD69,0,-1.4646411648514803
+08,中华巴洛克,Chinese Baroque,C10,C,main_architectural_morphology_AD69,0,-0.9699449230153734
+08,中华巴洛克,Chinese Baroque,C11,C,main_architectural_morphology_AD69,0,0.6394929894187271
+08,中华巴洛克,Chinese Baroque,C12,C,main_architectural_morphology_AD69,0,-1.3064171596365861
+08,中华巴洛克,Chinese Baroque,C13,C,main_architectural_morphology_AD69,0,-0.695508077313613
+08,中华巴洛克,Chinese Baroque,C14,C,main_architectural_morphology_AD69,0,-0.01975263946553679
+08,中华巴洛克,Chinese Baroque,C15,C,main_architectural_morphology_AD69,0,-2.283668591300428
+08,中华巴洛克,Chinese Baroque,C16,C,main_architectural_morphology_AD69,0,0.9496479177225666
+08,中华巴洛克,Chinese Baroque,C17,C,main_architectural_morphology_AD69,0,2.2489309018528276
+08,中华巴洛克,Chinese Baroque,C18,C,main_architectural_morphology_AD69,0,-1.1633163159959128
+08,中华巴洛克,Chinese Baroque,C19,C,main_architectural_morphology_AD69,0,1.1503186131847178
+08,中华巴洛克,Chinese Baroque,C20,C,main_architectural_morphology_AD69,14,-1.0340523167481204
+08,中华巴洛克,Chinese Baroque,D1,D,main_architectural_morphology_AD69,26,0.072893557736052
+08,中华巴洛克,Chinese Baroque,D2,D,main_architectural_morphology_AD69,0,-1.496643895937654
+08,中华巴洛克,Chinese Baroque,D3,D,main_architectural_morphology_AD69,0,-2.4605992994595067
+08,中华巴洛克,Chinese Baroque,D4,D,main_architectural_morphology_AD69,1,-0.5842824422033885
+08,中华巴洛克,Chinese Baroque,D5,D,main_architectural_morphology_AD69,0,-2.068557211683483
+08,中华巴洛克,Chinese Baroque,D6,D,main_architectural_morphology_AD69,14,-0.35077434309030625
+08,中华巴洛克,Chinese Baroque,D7,D,main_architectural_morphology_AD69,0,-0.14896437094554313
+08,中华巴洛克,Chinese Baroque,D8,D,main_architectural_morphology_AD69,0,-0.45911929924938255
+08,中华巴洛克,Chinese Baroque,D9,D,main_architectural_morphology_AD69,0,-2.15371502002379
+08,中华巴洛克,Chinese Baroque,D10,D,main_architectural_morphology_AD69,0,3.347543190520937
+08,中华巴洛克,Chinese Baroque,D11,D,main_architectural_morphology_AD69,12,1.3569328625477168
+08,中华巴洛克,Chinese Baroque,D12,D,main_architectural_morphology_AD69,0,-0.08644401396420896
+08,中华巴洛克,Chinese Baroque,D13,D,main_architectural_morphology_AD69,0,2.2489309018528276
+08,中华巴洛克,Chinese Baroque,D14,D,main_architectural_morphology_AD69,0,3.347543190520937
+08,中华巴洛克,Chinese Baroque,D15,D,main_architectural_morphology_AD69,0,3.347543190520937
+08,中华巴洛克,Chinese Baroque,D16,D,main_architectural_morphology_AD69,0,3.347543190520937
+08,中华巴洛克,Chinese Baroque,D17,D,main_architectural_morphology_AD69,0,3.347543190520937
+08,中华巴洛克,Chinese Baroque,D18,D,main_architectural_morphology_AD69,10,2.281191764071049
+08,中华巴洛克,Chinese Baroque,D19,D,main_architectural_morphology_AD69,19,0.09836201615740764
+08,中华巴洛克,Chinese Baroque,D20,D,main_architectural_morphology_AD69,12,0.3989025245007966
+08,中华巴洛克,Chinese Baroque,D21,D,main_architectural_morphology_AD69,31,1.1259271600605587
+09,古典主义/新古典,Classical / Neoclassical,A1,A,main_architectural_morphology_AD69,43,0.178077052415391
+09,古典主义/新古典,Classical / Neoclassical,A2,A,main_architectural_morphology_AD69,7,-1.0363413231378054
+09,古典主义/新古典,Classical / Neoclassical,A3,A,main_architectural_morphology_AD69,19,-0.08082987811036899
+09,古典主义/新古典,Classical / Neoclassical,A4,A,main_architectural_morphology_AD69,11,0.4161524131802271
+09,古典主义/新古典,Classical / Neoclassical,A5,A,main_architectural_morphology_AD69,0,-1.577244402141074
+09,古典主义/新古典,Classical / Neoclassical,A6,A,main_architectural_morphology_AD69,0,-2.3828695661277095
+09,古典主义/新古典,Classical / Neoclassical,A7,A,main_architectural_morphology_AD69,16,0.5024857814804398
+09,古典主义/新古典,Classical / Neoclassical,A8,A,main_architectural_morphology_AD69,196,1.540095003507704
+09,古典主义/新古典,Classical / Neoclassical,A9,A,main_architectural_morphology_AD69,16,1.3747264782171038
+09,古典主义/新古典,Classical / Neoclassical,A10,A,main_architectural_morphology_AD69,5,-1.4771609435840913
+09,古典主义/新古典,Classical / Neoclassical,A11,A,main_architectural_morphology_AD69,4,-0.9506179039226912
+09,古典主义/新古典,Classical / Neoclassical,A12,A,main_architectural_morphology_AD69,0,-2.8660834271102513
+09,古典主义/新古典,Classical / Neoclassical,B1,B,main_architectural_morphology_AD69,0,-4.720164394767073
+09,古典主义/新古典,Classical / Neoclassical,B2,B,main_architectural_morphology_AD69,38,-0.2084825197828238
+09,古典主义/新古典,Classical / Neoclassical,B3,B,main_architectural_morphology_AD69,10,-0.830533778659039
+09,古典主义/新古典,Classical / Neoclassical,B4,B,main_architectural_morphology_AD69,265,0.19274673101543568
+09,古典主义/新古典,Classical / Neoclassical,B5,B,main_architectural_morphology_AD69,7,0.3686657469142392
+09,古典主义/新古典,Classical / Neoclassical,B6,B,main_architectural_morphology_AD69,1,-0.4594007515450766
+09,古典主义/新古典,Classical / Neoclassical,B7,B,main_architectural_morphology_AD69,11,0.8140474624278462
+09,古典主义/新古典,Classical / Neoclassical,B8,B,main_architectural_morphology_AD69,0,-1.6506718706958912
+09,古典主义/新古典,Classical / Neoclassical,B9,B,main_architectural_morphology_AD69,0,-3.0991513220893117
+09,古典主义/新古典,Classical / Neoclassical,B10,B,main_architectural_morphology_AD69,3,-2.669487242523704
+09,古典主义/新古典,Classical / Neoclassical,B11,B,main_architectural_morphology_AD69,0,0.3686657469142392
+09,古典主义/新古典,Classical / Neoclassical,B12,B,main_architectural_morphology_AD69,10,0.4479151185683798
+09,古典主义/新古典,Classical / Neoclassical,B13,B,main_architectural_morphology_AD69,39,0.5254922962347874
+09,古典主义/新古典,Classical / Neoclassical,B14,B,main_architectural_morphology_AD69,0,-2.246294031121959
+09,古典主义/新古典,Classical / Neoclassical,B15,B,main_architectural_morphology_AD69,18,0.7607078346902632
+09,古典主义/新古典,Classical / Neoclassical,B16,B,main_architectural_morphology_AD69,0,-1.3659353084738672
+09,古典主义/新古典,Classical / Neoclassical,C1,C,main_architectural_morphology_AD69,1,-2.147237003242725
+09,古典主义/新古典,Classical / Neoclassical,C2,C,main_architectural_morphology_AD69,4,-0.0966975027749941
+09,古典主义/新古典,Classical / Neoclassical,C3,C,main_architectural_morphology_AD69,8,0.3301994660864433
+09,古典主义/新古典,Classical / Neoclassical,C4,C,main_architectural_morphology_AD69,0,-3.423071092639405
+09,古典主义/新古典,Classical / Neoclassical,C5,C,main_architectural_morphology_AD69,0,-1.185963929024866
+09,古典主义/新古典,Classical / Neoclassical,C6,C,main_architectural_morphology_AD69,1,-1.852950283546139
+09,古典主义/新古典,Classical / Neoclassical,C7,C,main_architectural_morphology_AD69,0,-0.4197916134500309
+09,古典主义/新古典,Classical / Neoclassical,C8,C,main_architectural_morphology_AD69,0,-2.1327702048249715
+09,古典主义/新古典,Classical / Neoclassical,C9,C,main_architectural_morphology_AD69,0,-1.735468407355968
+09,古典主义/新古典,Classical / Neoclassical,C10,C,main_architectural_morphology_AD69,1,-0.14215987685175135
+09,古典主义/新古典,Classical / Neoclassical,C11,C,main_architectural_morphology_AD69,0,0.3686657469142392
+09,古典主义/新古典,Classical / Neoclassical,C12,C,main_architectural_morphology_AD69,0,-1.577244402141074
+09,古典主义/新古典,Classical / Neoclassical,C13,C,main_architectural_morphology_AD69,0,-0.9663353198181007
+09,古典主义/新古典,Classical / Neoclassical,C14,C,main_architectural_morphology_AD69,0,-0.2905798819700246
+09,古典主义/新古典,Classical / Neoclassical,C15,C,main_architectural_morphology_AD69,0,-2.5544958338049164
+09,古典主义/新古典,Classical / Neoclassical,C16,C,main_architectural_morphology_AD69,0,0.6788206752180788
+09,古典主义/新古典,Classical / Neoclassical,C17,C,main_architectural_morphology_AD69,0,1.9781036593483399
+09,古典主义/新古典,Classical / Neoclassical,C18,C,main_architectural_morphology_AD69,0,-1.4341435585004005
+09,古典主义/新古典,Classical / Neoclassical,C19,C,main_architectural_morphology_AD69,0,0.87949137068023
+09,古典主义/新古典,Classical / Neoclassical,C20,C,main_architectural_morphology_AD69,37,-0.35468727570277186
+09,古典主义/新古典,Classical / Neoclassical,D1,D,main_architectural_morphology_AD69,68,0.7517553275075671
+09,古典主义/新古典,Classical / Neoclassical,D2,D,main_architectural_morphology_AD69,0,-1.767471138442142
+09,古典主义/新古典,Classical / Neoclassical,D3,D,main_architectural_morphology_AD69,0,-2.7314265419639945
+09,古典主义/新古典,Classical / Neoclassical,D4,D,main_architectural_morphology_AD69,0,-1.953721973375986
+09,古典主义/新古典,Classical / Neoclassical,D5,D,main_architectural_morphology_AD69,0,-2.3393844541879707
+09,古典主义/新古典,Classical / Neoclassical,D6,D,main_architectural_morphology_AD69,4,-1.7916728382450486
+09,古典主义/新古典,Classical / Neoclassical,D7,D,main_architectural_morphology_AD69,0,-0.4197916134500309
+09,古典主义/新古典,Classical / Neoclassical,D8,D,main_architectural_morphology_AD69,0,-0.7299465417538704
+09,古典主义/新古典,Classical / Neoclassical,D9,D,main_architectural_morphology_AD69,0,-2.4245422625282775
+09,古典主义/新古典,Classical / Neoclassical,D10,D,main_architectural_morphology_AD69,0,3.0767159480164494
+09,古典主义/新古典,Classical / Neoclassical,D11,D,main_architectural_morphology_AD69,0,-2.1327702048249715
+09,古典主义/新古典,Classical / Neoclassical,D12,D,main_architectural_morphology_AD69,0,-0.3572712564686969
+09,古典主义/新古典,Classical / Neoclassical,D13,D,main_architectural_morphology_AD69,0,1.9781036593483399
+09,古典主义/新古典,Classical / Neoclassical,D14,D,main_architectural_morphology_AD69,0,3.0767159480164494
+09,古典主义/新古典,Classical / Neoclassical,D15,D,main_architectural_morphology_AD69,0,3.0767159480164494
+09,古典主义/新古典,Classical / Neoclassical,D16,D,main_architectural_morphology_AD69,0,3.0767159480164494
+09,古典主义/新古典,Classical / Neoclassical,D17,D,main_architectural_morphology_AD69,0,3.0767159480164494
+09,古典主义/新古典,Classical / Neoclassical,D18,D,main_architectural_morphology_AD69,4,1.1630666611793574
+09,古典主义/新古典,Classical / Neoclassical,D19,D,main_architectural_morphology_AD69,34,0.3980796321205326
+09,古典主义/新古典,Classical / Neoclassical,D20,D,main_architectural_morphology_AD69,6,-0.5258511854103551
+09,古典主义/新古典,Classical / Neoclassical,D21,D,main_architectural_morphology_AD69,10,-0.24351237111203886
+10,哥特式,Gothic,A1,A,main_architectural_morphology_AD69,38,-0.03625686860154252
+10,哥特式,Gothic,A2,A,main_architectural_morphology_AD69,119,1.6398408034754617
+10,哥特式,Gothic,A3,A,main_architectural_morphology_AD69,66,1.0537263797657048
+10,哥特式,Gothic,A4,A,main_architectural_morphology_AD69,28,1.2314782408695941
+10,哥特式,Gothic,A5,A,main_architectural_morphology_AD69,0,-1.6694756263571073
+10,哥特式,Gothic,A6,A,main_architectural_morphology_AD69,0,-2.475100790343743
+10,哥特式,Gothic,A7,A,main_architectural_morphology_AD69,18,0.5246649084421504
+10,哥特式,Gothic,A8,A,main_architectural_morphology_AD69,74,0.4780004733678682
+10,哥特式,Gothic,A9,A,main_architectural_morphology_AD69,10,0.8305101302580132
+10,哥特式,Gothic,A10,A,main_architectural_morphology_AD69,15,-0.5333002361133492
+10,哥特式,Gothic,A11,A,main_architectural_morphology_AD69,5,-0.8421784326765737
+10,哥特式,Gothic,A12,A,main_architectural_morphology_AD69,0,-2.958314651326285
+10,哥特式,Gothic,B1,B,main_architectural_morphology_AD69,0,-4.812395618983107
+10,哥特式,Gothic,B2,B,main_architectural_morphology_AD69,70,0.30424072452562695
+10,哥特式,Gothic,B3,B,main_architectural_morphology_AD69,228,2.157395950295709
+10,哥特式,Gothic,B4,B,main_architectural_morphology_AD69,89,-0.9868607086017817
+10,哥特式,Gothic,B5,B,main_architectural_morphology_AD69,20,1.2819563883003036
+10,哥特式,Gothic,B6,B,main_architectural_morphology_AD69,5,0.7476510083691505
+10,哥特式,Gothic,B7,B,main_architectural_morphology_AD69,0,-2.4136779777173367
+10,哥特式,Gothic,B8,B,main_architectural_morphology_AD69,0,-1.7429030949119249
+10,哥特式,Gothic,B9,B,main_architectural_morphology_AD69,0,-3.1913825463053453
+10,哥特式,Gothic,B10,B,main_architectural_morphology_AD69,0,-4.707628615795051
+10,哥特式,Gothic,B11,B,main_architectural_morphology_AD69,0,0.27643452269820584
+10,哥特式,Gothic,B12,B,main_architectural_morphology_AD69,1,-1.590226254702967
+10,哥特式,Gothic,B13,B,main_architectural_morphology_AD69,29,0.14135066345745176
+10,哥特式,Gothic,B14,B,main_architectural_morphology_AD69,0,-2.3385252553379923
+10,哥特式,Gothic,B15,B,main_architectural_morphology_AD69,8,-0.10922795811377899
+10,哥特式,Gothic,B16,B,main_architectural_morphology_AD69,0,-1.4581665326899007
+10,哥特式,Gothic,C1,C,main_architectural_morphology_AD69,20,0.3754915505774396
+10,哥特式,Gothic,C2,C,main_architectural_morphology_AD69,10,0.658369133396176
+10,哥特式,Gothic,C3,C,main_architectural_morphology_AD69,13,0.7005917638185227
+10,哥特式,Gothic,C4,C,main_architectural_morphology_AD69,2,-1.905864404421338
+10,哥特式,Gothic,C5,C,main_architectural_morphology_AD69,0,-1.2781951532408995
+10,哥特式,Gothic,C6,C,main_architectural_morphology_AD69,11,0.09170041949886726
+10,哥特式,Gothic,C7,C,main_architectural_morphology_AD69,0,-0.5120228376660644
+10,哥特式,Gothic,C8,C,main_architectural_morphology_AD69,13,1.070835436963324
+10,哥特式,Gothic,C9,C,main_architectural_morphology_AD69,0,-1.8276996315720015
+10,哥特式,Gothic,C10,C,main_architectural_morphology_AD69,1,-0.2343911010677851
+10,哥特式,Gothic,C11,C,main_architectural_morphology_AD69,0,0.27643452269820584
+10,哥特式,Gothic,C12,C,main_architectural_morphology_AD69,2,-0.060037713923007247
+10,哥特式,Gothic,C13,C,main_architectural_morphology_AD69,0,-1.0585665440341343
+10,哥特式,Gothic,C14,C,main_architectural_morphology_AD69,0,-0.3828111061860582
+10,哥特式,Gothic,C15,C,main_architectural_morphology_AD69,0,-2.6467270580209497
+10,哥特式,Gothic,C16,C,main_architectural_morphology_AD69,0,0.5865894510020453
+10,哥特式,Gothic,C17,C,main_architectural_morphology_AD69,0,1.8858724351323064
+10,哥特式,Gothic,C18,C,main_architectural_morphology_AD69,0,-1.526374782716434
+10,哥特式,Gothic,C19,C,main_architectural_morphology_AD69,0,0.7872601464641965
+10,哥特式,Gothic,C20,C,main_architectural_morphology_AD69,9,-1.8199676342886755
+10,哥特式,Gothic,D1,D,main_architectural_morphology_AD69,27,-0.2531236373041204
+10,哥特式,Gothic,D2,D,main_architectural_morphology_AD69,0,-1.8597023626581755
+10,哥特式,Gothic,D3,D,main_architectural_morphology_AD69,0,-2.8236577661800277
+10,哥特式,Gothic,D4,D,main_architectural_morphology_AD69,2,-0.4365152851579194
+10,哥特式,Gothic,D5,D,main_architectural_morphology_AD69,0,-2.4316156784040044
+10,哥特式,Gothic,D6,D,main_architectural_morphology_AD69,16,-0.5846210783308212
+10,哥特式,Gothic,D7,D,main_architectural_morphology_AD69,0,-0.5120228376660644
+10,哥特式,Gothic,D8,D,main_architectural_morphology_AD69,0,-0.8221777659699039
+10,哥特式,Gothic,D9,D,main_architectural_morphology_AD69,0,-2.5167734867443112
+10,哥特式,Gothic,D10,D,main_architectural_morphology_AD69,0,2.9844847238004157
+10,哥特式,Gothic,D11,D,main_architectural_morphology_AD69,0,-2.225001429041005
+10,哥特式,Gothic,D12,D,main_architectural_morphology_AD69,0,-0.4495024806847303
+10,哥特式,Gothic,D13,D,main_architectural_morphology_AD69,0,1.8858724351323064
+10,哥特式,Gothic,D14,D,main_architectural_morphology_AD69,0,2.9844847238004157
+10,哥特式,Gothic,D15,D,main_architectural_morphology_AD69,0,2.9844847238004157
+10,哥特式,Gothic,D16,D,main_architectural_morphology_AD69,0,2.9844847238004157
+10,哥特式,Gothic,D17,D,main_architectural_morphology_AD69,0,2.9844847238004157
+10,哥特式,Gothic,D18,D,main_architectural_morphology_AD69,0,-1.1263891403728954
+10,哥特式,Gothic,D19,D,main_architectural_morphology_AD69,28,0.11479317114178988
+10,哥特式,Gothic,D20,D,main_architectural_morphology_AD69,1,-2.084419478419816
+10,哥特式,Gothic,D21,D,main_architectural_morphology_AD69,9,-0.435827053885055
+11,装饰艺术,Art Deco,A1,A,main_architectural_morphology_AD69,32,-0.501765111837241
+11,装饰艺术,Art Deco,A2,A,main_architectural_morphology_AD69,7,-1.4246626386314907
+11,装饰艺术,Art Deco,A3,A,main_architectural_morphology_AD69,23,-0.2825652380236421
+11,装饰艺术,Art Deco,A4,A,main_architectural_morphology_AD69,24,0.7841571798680186
+11,装饰艺术,Art Deco,A5,A,main_architectural_morphology_AD69,0,-1.9655657176347594
+11,装饰艺术,Art Deco,A6,A,main_architectural_morphology_AD69,0,-2.771190881621395
+11,装饰艺术,Art Deco,A7,A,main_architectural_morphology_AD69,7,-0.6742928943775157
+11,装饰艺术,Art Deco,A8,A,main_architectural_morphology_AD69,172,1.0215084931761171
+11,装饰艺术,Art Deco,A9,A,main_architectural_morphology_AD69,3,-0.5641922496877484
+11,装饰艺术,Art Deco,A10,A,main_architectural_morphology_AD69,1,-3.1647652432080378
+11,装饰艺术,Art Deco,A11,A,main_architectural_morphology_AD69,7,-0.8281135956503858
+11,装饰艺术,Art Deco,A12,A,main_architectural_morphology_AD69,0,-3.254404742603937
+11,装饰艺术,Art Deco,B1,B,main_architectural_morphology_AD69,3,-3.162575561205445
+11,装饰艺术,Art Deco,B2,B,main_architectural_morphology_AD69,118,0.5274508840049381
+11,装饰艺术,Art Deco,B3,B,main_architectural_morphology_AD69,16,-0.766869970409667
+11,装饰艺术,Art Deco,B4,B,main_architectural_morphology_AD69,654,0.7066821601897114
+11,装饰艺术,Art Deco,B5,B,main_architectural_morphology_AD69,12,0.4911700551865446
+11,装饰艺术,Art Deco,B6,B,main_architectural_morphology_AD69,4,0.25089022162934776
+11,装饰艺术,Art Deco,B7,B,main_architectural_morphology_AD69,0,-2.709768068994989
+11,装饰艺术,Art Deco,B8,B,main_architectural_morphology_AD69,0,-2.0389931861895767
+11,装饰艺术,Art Deco,B9,B,main_architectural_morphology_AD69,0,-3.4874726375829974
+11,装饰艺术,Art Deco,B10,B,main_architectural_morphology_AD69,2,-3.394280794638602
+11,装饰艺术,Art Deco,B11,B,main_architectural_morphology_AD69,0,-0.019655568579446163
+11,装饰艺术,Art Deco,B12,B,main_architectural_morphology_AD69,9,-0.04048965548228808
+11,装饰艺术,Art Deco,B13,B,main_architectural_morphology_AD69,22,-0.42561438195559975
+11,装饰艺术,Art Deco,B14,B,main_architectural_morphology_AD69,0,-2.6346153466156443
+11,装饰艺术,Art Deco,B15,B,main_architectural_morphology_AD69,8,-0.40531804939143073
+11,装饰艺术,Art Deco,B16,B,main_architectural_morphology_AD69,0,-1.7542566239675526
+11,装饰艺术,Art Deco,C1,C,main_architectural_morphology_AD69,22,0.17249188236579974
+11,装饰艺术,Art Deco,C2,C,main_architectural_morphology_AD69,5,-0.28434812280652827
+11,装饰艺术,Art Deco,C3,C,main_architectural_morphology_AD69,12,0.32754063140474243
+11,装饰艺术,Art Deco,C4,C,main_architectural_morphology_AD69,2,-2.2019544956989896
+11,装饰艺术,Art Deco,C5,C,main_architectural_morphology_AD69,0,-1.5742852445185516
+11,装饰艺术,Art Deco,C6,C,main_architectural_morphology_AD69,11,-0.2043896717787846
+11,装饰艺术,Art Deco,C7,C,main_architectural_morphology_AD69,0,-0.8081129289437163
+11,装饰艺术,Art Deco,C8,C,main_architectural_morphology_AD69,1,-1.4224792316505472
+11,装饰艺术,Art Deco,C9,C,main_architectural_morphology_AD69,0,-2.1237897228496534
+11,装饰艺术,Art Deco,C10,C,main_architectural_morphology_AD69,0,-1.6290934810135465
+11,装饰艺术,Art Deco,C11,C,main_architectural_morphology_AD69,0,-0.019655568579446163
+11,装饰艺术,Art Deco,C12,C,main_architectural_morphology_AD69,0,-1.9655657176347594
+11,装饰艺术,Art Deco,C13,C,main_architectural_morphology_AD69,0,-1.3546566353117862
+11,装饰艺术,Art Deco,C14,C,main_architectural_morphology_AD69,0,-0.67890119746371
+11,装饰艺术,Art Deco,C15,C,main_architectural_morphology_AD69,0,-2.9428171492986017
+11,装饰艺术,Art Deco,C16,C,main_architectural_morphology_AD69,0,0.29049935972439334
+11,装饰艺术,Art Deco,C17,C,main_architectural_morphology_AD69,0,1.5897823438546543
+11,装饰艺术,Art Deco,C18,C,main_architectural_morphology_AD69,0,-1.822464873994086
+11,装饰艺术,Art Deco,C19,C,main_architectural_morphology_AD69,0,0.4911700551865446
+11,装饰艺术,Art Deco,C20,C,main_architectural_morphology_AD69,37,-0.7430085911964572
+11,装饰艺术,Art Deco,D1,D,main_architectural_morphology_AD69,7,-1.848496712712033
+11,装饰艺术,Art Deco,D2,D,main_architectural_morphology_AD69,0,-2.1557924539358275
+11,装饰艺术,Art Deco,D3,D,main_architectural_morphology_AD69,0,-3.11974785745768
+11,装饰艺术,Art Deco,D4,D,main_architectural_morphology_AD69,0,-2.3420432888696716
+11,装饰艺术,Art Deco,D5,D,main_architectural_morphology_AD69,0,-2.727705769681656
+11,装饰艺术,Art Deco,D6,D,main_architectural_morphology_AD69,14,-1.0099229010884794
+11,装饰艺术,Art Deco,D7,D,main_architectural_morphology_AD69,0,-0.8081129289437163
+11,装饰艺术,Art Deco,D8,D,main_architectural_morphology_AD69,0,-1.118267857247556
+11,装饰艺术,Art Deco,D9,D,main_architectural_morphology_AD69,0,-2.812863578021963
+11,装饰艺术,Art Deco,D10,D,main_architectural_morphology_AD69,0,2.688394632522764
+11,装饰艺术,Art Deco,D11,D,main_architectural_morphology_AD69,0,-2.521091520318657
+11,装饰艺术,Art Deco,D12,D,main_architectural_morphology_AD69,0,-0.7455925719623823
+11,装饰艺术,Art Deco,D13,D,main_architectural_morphology_AD69,0,1.5897823438546543
+11,装饰艺术,Art Deco,D14,D,main_architectural_morphology_AD69,0,2.688394632522764
+11,装饰艺术,Art Deco,D15,D,main_architectural_morphology_AD69,0,2.688394632522764
+11,装饰艺术,Art Deco,D16,D,main_architectural_morphology_AD69,0,2.688394632522764
+11,装饰艺术,Art Deco,D17,D,main_architectural_morphology_AD69,0,2.688394632522764
+11,装饰艺术,Art Deco,D18,D,main_architectural_morphology_AD69,0,-1.4224792316505475
+11,装饰艺术,Art Deco,D19,D,main_architectural_morphology_AD69,29,-0.14681074406469272
+11,装饰艺术,Art Deco,D20,D,main_architectural_morphology_AD69,18,0.13179605427864718
+11,装饰艺术,Art Deco,D21,D,main_architectural_morphology_AD69,57,1.0685760040341028
+12,早期现代主义,Early Modernism,A1,A,main_architectural_morphology_AD69,13,-1.687018308547859
+12,早期现代主义,Early Modernism,A2,A,main_architectural_morphology_AD69,15,-1.0054284280678645
+12,早期现代主义,Early Modernism,A3,A,main_architectural_morphology_AD69,31,-0.296280906161478
+12,早期现代主义,Early Modernism,A4,A,main_architectural_morphology_AD69,18,0.1965520015823065
+12,早期现代主义,Early Modernism,A5,A,main_architectural_morphology_AD69,0,-2.272268510454069
+12,早期现代主义,Early Modernism,A6,A,main_architectural_morphology_AD69,0,-3.077893674440705
+12,早期现代主义,Early Modernism,A7,A,main_architectural_morphology_AD69,17,-0.1336978268096222
+12,早期现代主义,Early Modernism,A8,A,main_architectural_morphology_AD69,226,0.9871534088084813
+12,早期现代主义,Early Modernism,A9,A,main_architectural_morphology_AD69,1,-1.718192902894262
+12,早期现代主义,Early Modernism,A10,A,main_architectural_morphology_AD69,0,-4.570080324695457
+12,早期现代主义,Early Modernism,A11,A,main_architectural_morphology_AD69,17,-0.2875185280824921
+12,早期现代主义,Early Modernism,A12,A,main_architectural_morphology_AD69,21,0.20009258027031548
+12,早期现代主义,Early Modernism,B1,B,main_architectural_morphology_AD69,9,-2.470749523913628
+12,早期现代主义,Early Modernism,B2,B,main_architectural_morphology_AD69,79,-0.17840784772927154
+12,早期现代主义,Early Modernism,B3,B,main_architectural_morphology_AD69,1,-3.4714680360273475
+12,早期现代主义,Early Modernism,B4,B,main_architectural_morphology_AD69,711,0.4834831995503539
+12,早期现代主义,Early Modernism,B5,B,main_architectural_morphology_AD69,28,1.008642705333584
+12,早期现代主义,Early Modernism,B6,B,main_architectural_morphology_AD69,32,1.9213501213694553
+12,早期现代主义,Early Modernism,B7,B,main_architectural_morphology_AD69,35,1.2462090152270167
+12,早期现代主义,Early Modernism,B8,B,main_architectural_morphology_AD69,3,-0.3997858299535733
+12,早期现代主义,Early Modernism,B9,B,main_architectural_morphology_AD69,0,-3.794175430402307
+12,早期现代主义,Early Modernism,B10,B,main_architectural_morphology_AD69,36,-1.0199620587436216
+12,早期现代主义,Early Modernism,B11,B,main_architectural_morphology_AD69,0,-0.326358361398756
+12,早期现代主义,Early Modernism,B12,B,main_architectural_morphology_AD69,24,0.6001888706425881
+12,早期现代主义,Early Modernism,B13,B,main_architectural_morphology_AD69,1,-3.44036737587712
+12,早期现代主义,Early Modernism,B14,B,main_architectural_morphology_AD69,0,-2.941318139434954
+12,早期现代主义,Early Modernism,B15,B,main_architectural_morphology_AD69,20,0.16833788043735096
+12,早期现代主义,Early Modernism,B16,B,main_architectural_morphology_AD69,4,0.1362651605493569
+12,早期现代主义,Early Modernism,C1,C,main_architectural_morphology_AD69,40,0.4535757544486087
+12,早期现代主义,Early Modernism,C2,C,main_architectural_morphology_AD69,43,1.476961930230375
+12,早期现代主义,Early Modernism,C3,C,main_architectural_morphology_AD69,38,1.1457674355709155
+12,早期现代主义,Early Modernism,C4,C,main_architectural_morphology_AD69,70,0.8306646894257682
+12,早期现代主义,Early Modernism,C5,C,main_architectural_morphology_AD69,0,-1.8809880373378614
+12,早期现代主义,Early Modernism,C6,C,main_architectural_morphology_AD69,50,0.9685338363140152
+12,早期现代主义,Early Modernism,C7,C,main_architectural_morphology_AD69,0,-1.1148157217630261
+12,早期现代主义,Early Modernism,C8,C,main_architectural_morphology_AD69,7,-0.11974411203575695
+12,早期现代主义,Early Modernism,C9,C,main_architectural_morphology_AD69,0,-2.430492515668963
+12,早期现代主义,Early Modernism,C10,C,main_architectural_morphology_AD69,3,0.010113875222456872
+12,早期现代主义,Early Modernism,C11,C,main_architectural_morphology_AD69,0,-0.326358361398756
+12,早期现代主义,Early Modernism,C12,C,main_architectural_morphology_AD69,0,-2.272268510454069
+12,早期现代主义,Early Modernism,C13,C,main_architectural_morphology_AD69,0,-1.661359428131096
+12,早期现代主义,Early Modernism,C14,C,main_architectural_morphology_AD69,0,-0.98560399028302
+12,早期现代主义,Early Modernism,C15,C,main_architectural_morphology_AD69,0,-3.2495199421179115
+12,早期现代主义,Early Modernism,C16,C,main_architectural_morphology_AD69,0,-0.016203433094916474
+12,早期现代主义,Early Modernism,C17,C,main_architectural_morphology_AD69,0,1.2830795510353443
+12,早期现代主义,Early Modernism,C18,C,main_architectural_morphology_AD69,0,-2.129167666813396
+12,早期现代主义,Early Modernism,C19,C,main_architectural_morphology_AD69,0,0.18446726236723474
+12,早期现代主义,Early Modernism,C20,C,main_architectural_morphology_AD69,53,-0.6943706630901715
+12,早期现代主义,Early Modernism,D1,D,main_architectural_morphology_AD69,10,-1.8187272689101301
+12,早期现代主义,Early Modernism,D2,D,main_architectural_morphology_AD69,0,-2.4624952467551373
+12,早期现代主义,Early Modernism,D3,D,main_architectural_morphology_AD69,0,-3.4264506502769896
+12,早期现代主义,Early Modernism,D4,D,main_architectural_morphology_AD69,1,-1.5501337930208718
+12,早期现代主义,Early Modernism,D5,D,main_architectural_morphology_AD69,0,-3.034408562500966
+12,早期现代主义,Early Modernism,D6,D,main_architectural_morphology_AD69,20,-0.9703494571899556
+12,早期现代主义,Early Modernism,D7,D,main_architectural_morphology_AD69,0,-1.1148157217630261
+12,早期现代主义,Early Modernism,D8,D,main_architectural_morphology_AD69,0,-1.4249706500668657
+12,早期现代主义,Early Modernism,D9,D,main_architectural_morphology_AD69,0,-3.1195663708412726
+12,早期现代主义,Early Modernism,D10,D,main_architectural_morphology_AD69,0,2.3816918397034543
+12,早期现代主义,Early Modernism,D11,D,main_architectural_morphology_AD69,0,-2.827794313137967
+12,早期现代主义,Early Modernism,D12,D,main_architectural_morphology_AD69,15,2.3816918397034543
+12,早期现代主义,Early Modernism,D13,D,main_architectural_morphology_AD69,0,1.2830795510353443
+12,早期现代主义,Early Modernism,D14,D,main_architectural_morphology_AD69,0,2.3816918397034543
+12,早期现代主义,Early Modernism,D15,D,main_architectural_morphology_AD69,0,2.3816918397034543
+12,早期现代主义,Early Modernism,D16,D,main_architectural_morphology_AD69,0,2.3816918397034543
+12,早期现代主义,Early Modernism,D17,D,main_architectural_morphology_AD69,0,2.3816918397034543
+12,早期现代主义,Early Modernism,D18,D,main_architectural_morphology_AD69,3,0.2167281245854559
+12,早期现代主义,Early Modernism,D19,D,main_architectural_morphology_AD69,88,0.645098751784107
+12,早期现代主义,Early Modernism,D20,D,main_architectural_morphology_AD69,23,0.0643229505251713
+12,早期现代主义,Early Modernism,D21,D,main_architectural_morphology_AD69,26,-0.012767003596335383
