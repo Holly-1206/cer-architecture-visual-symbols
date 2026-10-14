@@ -12,14 +12,11 @@ authors:
     given-names: "Hao"
     orcid: "https://orcid.org/0009-0001-9844-2338"
     affiliation: "School of Architecture and Design, Harbin Institute of Technology, Harbin 150001, China; Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology, Harbin 150001, China"
-version: 1.0.0
+version: "1.0.1"
 date-released: "2026-10-14"
 license: MIT
 identifiers:
-  - description: "Archived snapshot of version 1.0.0 — cite this to pin the exact code behind a published result"
-    type: doi
-    value: "10.5281/zenodo.23360308"
-  - description: "Concept DOI — always resolves to the latest archived version"
+  - description: "Concept DOI — always resolves to the latest archived release; the version DOI that pins an individual release is printed on its Zenodo record page"
     type: doi
     value: "10.5281/zenodo.23360307"
 repository-code: "https://github.com/Holly-1206/cer-architecture-visual-symbols"

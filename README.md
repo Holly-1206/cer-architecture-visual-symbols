@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23360307.svg)](https://doi.org/10.5281/zenodo.23360307)
 
-Archived release: [v1.0.0](https://github.com/Holly-1206/cer-architecture-visual-symbols/releases/tag/v1.0.0) · version DOI [`10.5281/zenodo.23360308`](https://doi.org/10.5281/zenodo.23360308)
+Archived releases: [all versions](https://doi.org/10.5281/zenodo.23360307) · [latest on GitHub](https://github.com/Holly-1206/cer-architecture-visual-symbols/releases/latest). Each release carries its own version DOI, shown on its Zenodo record page.
 
 Code, annotations and derived results for the article *Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine* (submitted to *Architecture and Culture*).
 
@@ -79,7 +79,6 @@ Code: MIT License (see `LICENSE`). Annotations and derived tables: CC BY 4.0. Im
 
 Lei, H. 2026. "Shared Elements, Different Wholes: Reading the Architecture of the Chinese Eastern Railway across Album, Field and Machine." *Architecture and Culture* (submitted).
 
-Data and code — version 1.0.0: https://doi.org/10.5281/zenodo.23360308
-All versions (concept DOI): https://doi.org/10.5281/zenodo.23360307
+Data and code — all versions (concept DOI): https://doi.org/10.5281/zenodo.23360307
 
-> Cite the **version DOI** to pin the exact code behind a published result; cite the **concept DOI** when you want the latest archived version. Machine-readable metadata is in `CITATION.cff`.
+> Each archived release has its own version DOI, printed on its Zenodo record page. Cite that **version DOI** to pin the exact code behind a published result; cite the **concept DOI** when you want the latest archived version. Machine-readable metadata is in `CITATION.cff`.
